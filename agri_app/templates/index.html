@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=1400">
+  <title>AI &amp; Data Analytics for Agribusiness</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js" defer></script>
+  <script src="{{ url_for('static', filename='js/dashboard.js') }}" defer></script>
+</head>
+<body>
+
+<div id="loading">
+  <div class="ld-title">🌾 Loading Agribusiness Dashboard…</div>
+  <div class="ld-bar"><div class="ld-prog" id="ldProg"></div></div>
+</div>
+
+<div class="dash" id="mainDash" style="display:none">
+
+  <!-- ── HEADER ─────────────────────────────────────────── -->
+  <header class="header">
+    <div>
+      <div class="hd-title">🌾 AI &amp; DATA ANALYTICS FOR AGRIBUSINESS</div>
+      <div class="hd-sub">Indian Crop &amp; Rainfall Intelligence · 14 States · 10 Crops · 2005–2015</div>
+    </div>
+    <div class="hd-right">
+      <div class="hd-stat">Records: <span id="recCount">2953</span></div>
+      <div class="hd-stat">Production: <span id="hdrProd">—</span></div>
+      <div class="hd-stat">Source: data.csv (Flask API)</div>
+      <div class="hd-live">● LIVE</div>
+    </div>
+  </header>
+
+  <!-- ── FILTERS ────────────────────────────────────────── -->
+  <div class="filters">
+    <span class="fl">Filters:</span>
+
+    <span class="fl">Year</span>
+    <select id="fYear"><option value="">All Years</option></select>
+
+    <div class="sep"></div>
+    <span class="fl">State</span>
+    <select id="fState"><option value="">All States</option></select>
+
+    <div class="sep"></div>
+    <span class="fl">District</span>
+    <select id="fDistrict"><option value="">All Districts</option></select>
+
+    <div class="sep"></div>
+    <span class="fl">Crop</span>
+    <select id="fCrop"><option value="">All Crops</option></select>
+
+    <div class="sep"></div>
+    <span class="fl">Season</span>
+    <select id="fSeason"><option value="">All Seasons</option></select>
+
+    <div class="sep"></div>
+    <button id="btnReset" class="btn-reset">↺ Reset</button>
+    <div style="flex:1"></div>
+    <span class="fl live-note">● Filters update all charts &amp; KPIs via Flask API</span>
+  </div>
+
+  <!-- ── KPI CARDS ──────────────────────────────────────── -->
+  <div class="kpis">
+    <div class="kpi k1">
+      <div class="kpi-label">Total Production</div>
+      <div class="kpi-val" id="kpiProd">—</div>
+      <div class="kpi-sub">Tonnes (filtered)</div>
+    </div>
+    <div class="kpi k2">
+      <div class="kpi-label">Cultivated Area</div>
+      <div class="kpi-val" id="kpiArea">—</div>
+      <div class="kpi-sub">Hectares (filtered)</div>
+    </div>
+    <div class="kpi k3">
+      <div class="kpi-label">Average Yield</div>
+      <div class="kpi-val" id="kpiYield">—</div>
+      <div class="kpi-sub">Tonnes / Hectare</div>
+    </div>
+    <div class="kpi k4">
+      <div class="kpi-label">YoY Yield Growth</div>
+      <div class="kpi-val" id="kpiYoY">—</div>
+      <div class="kpi-sub">Latest vs prior year</div>
+    </div>
+    <div class="kpi k5">
+      <div class="kpi-label">Avg Rainfall</div>
+      <div class="kpi-val" id="kpiRain">—</div>
+      <div class="kpi-sub">mm per year</div>
+    </div>
+    <div class="kpi k6">
+      <div class="kpi-label">Climate Risk (CV)</div>
+      <div class="kpi-val" id="kpiRisk">—</div>
+      <div class="kpi-sub" id="kpiRiskSub">Yield volatility</div>
+    </div>
+    <div class="kpi k7">
+      <div class="kpi-label">Efficiency Gaps</div>
+      <div class="kpi-val" id="kpiEff">—</div>
+      <div class="kpi-sub">Crop×State below avg</div>
+    </div>
+  </div>
+
+  <!-- ── CHARTS GRID ────────────────────────────────────── -->
+  <div class="charts">
+
+    <!-- Row 1 col 1-2: Trend -->
+    <div class="chart-card" style="grid-column:1/3;grid-row:1/2">
+      <div class="chart-title">
+        📈 Production &amp; Yield Trend (by Year)
+        <div class="legend">
+          <span class="leg"><span class="leg-dot" style="background:#58a6ff"></span>Production (×1K t)</span>
+          <span class="leg"><span class="leg-dot" style="background:#3fb950"></span>Avg Yield (t/ha)</span>
+          <span class="leg"><span class="leg-dot" style="background:#d29922"></span>Rainfall ÷10</span>
+        </div>
+      </div>
+      <div class="chart-wrap"><canvas id="cTrend"></canvas></div>
+    </div>
+
+    <!-- Row 1 col 3: Crop bar -->
+    <div class="chart-card" style="grid-column:3/4;grid-row:1/2">
+      <div class="chart-title">📊 Crop Performance — Avg Yield</div>
+      <div class="chart-wrap"><canvas id="cCrop"></canvas></div>
+    </div>
+
+    <!-- Row 1 col 4: State bar -->
+    <div class="chart-card" style="grid-column:4/5;grid-row:1/2">
+      <div class="chart-title">📊 State Performance — Avg Yield</div>
+      <div class="chart-wrap"><canvas id="cState"></canvas></div>
+    </div>
+
+    <!-- Row 2 col 1: Scatter -->
+    <div class="chart-card" style="grid-column:1/2;grid-row:2/3">
+      <div class="chart-title">🔵 Rainfall vs Yield (by Crop)</div>
+      <div class="chart-wrap"><canvas id="cScatter"></canvas></div>
+    </div>
+
+    <!-- Row 2 col 2-3: Heatmap -->
+    <div class="chart-card" style="grid-column:2/4;grid-row:2/3;overflow:hidden">
+      <div class="chart-title">
+        🔲 State × Crop Yield Heatmap
+        <span class="badge-muted">per-column normalised</span>
+      </div>
+      <div class="hm-container" id="hmContainer">
+        <div class="hm-loading">Loading heatmap…</div>
+      </div>
+    </div>
+
+    <!-- Row 2 col 4: Risk -->
+    <div class="chart-card" style="grid-column:4/5;grid-row:2/3">
+      <div class="chart-title">⚡ Climate Risk — Yield Volatility (CV)</div>
+      <div class="chart-wrap"><canvas id="cRisk"></canvas></div>
+    </div>
+
+  </div><!-- /charts -->
+
+  <!-- ── BOTTOM PANELS ──────────────────────────────────── -->
+  <div class="bottom">
+    <div class="panel">
+      <div class="panel-title risk">🔴 Major Climate Risks</div>
+      <div class="panel-items">
+        <div class="p-item"><span class="pi-tag r">CV=0.27</span>Assam · Soyabean — highest yield volatility</div>
+        <div class="p-item"><span class="pi-tag r">r=0.94</span>Uttar Pradesh · Sugarcane — near-perfect rainfall coupling</div>
+        <div class="p-item"><span class="pi-tag r">r=0.91</span>Bihar · Soyabean — compound: high CV + critical RF sensitivity</div>
+        <div class="p-item"><span class="pi-tag r">r=0.84</span>Andhra Pradesh &amp; Karnataka · Rice — monsoon tail-off risk</div>
+        <div class="p-item"><span class="pi-tag r">r=0.87</span>Madhya Pradesh · Bajra — drought-tolerant crop still RF-sensitive</div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-title opp">🟢 Key Efficiency Opportunities</div>
+      <div class="panel-items">
+        <div class="p-item"><span class="pi-tag g">10.4%</span>Bihar · Jowar — high area, 10% below crop-mean yield</div>
+        <div class="p-item"><span class="pi-tag g">9.4%</span>Karnataka · Cotton — TN achieves 20% higher yield same rainfall</div>
+        <div class="p-item"><span class="pi-tag g">8.6%</span>Haryana · Rice — lowest-RF state growing irrigated rice</div>
+        <div class="p-item"><span class="pi-tag g">5.6%</span>UP &amp; Karnataka · Maize — Bihar peers achieve +22% yield</div>
+        <div class="p-item"><span class="pi-tag g">Gap</span>Arhar/Tur declining 2005→2015 — pulse import risk signal</div>
+      </div>
+    </div>
+    <div class="panel">
+      <div class="panel-title action">🎯 Recommended Actions</div>
+      <div class="panel-items">
+        <div class="p-item"><span class="pi-tag a">Insurance</span>Parametric weather insurance for UP Sugarcane &amp; Bihar Soyabean</div>
+        <div class="p-item"><span class="pi-tag b">Seeds</span>HYV seed rollout: Bihar Jowar (CSH-16) + Karnataka Cotton (Bt)</div>
+        <div class="p-item"><span class="pi-tag a">Water</span>SRI + drip irrigation for Haryana Rice; AWD for AP &amp; Karnataka</div>
+        <div class="p-item"><span class="pi-tag b">Tech</span>IMD agro-met SMS advisories for MP Bajra/Rice districts</div>
+        <div class="p-item"><span class="pi-tag a">Policy</span>Scale Bihar maize seed system into UP &amp; Karnataka via state corps</div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /dash -->
+</body>
+</html>

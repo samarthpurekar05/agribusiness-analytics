@@ -1,0 +1,2954 @@
+﻿State_Name,District_Name,Crop_Year,Season,Crop,Area,Production,Annual_Rainfall_mm,Yield
+Andhra Pradesh,ANDH_D1,2005,Kharif,Arhar/Tur,1106.6,1046.2,883.5,0.945
+Andhra Pradesh,ANDH_D1,2005,Whole Year,Sugarcane,428.7,32517.4,883.5,75.851
+Andhra Pradesh,ANDH_D1,2005,Rabi,Wheat,1290,3447.6,883.5,2.673
+Andhra Pradesh,ANDH_D1,2006,Kharif,Arhar/Tur,1813.6,2377,1148.6,1.311
+Andhra Pradesh,ANDH_D1,2006,Rabi,Maize,632.2,1512,1148.6,2.392
+Andhra Pradesh,ANDH_D1,2006,Rabi,Wheat,694.1,1487.1,1148.6,2.142
+Andhra Pradesh,ANDH_D1,2007,Kharif,Arhar/Tur,470.4,478.7,859.3,1.018
+Andhra Pradesh,ANDH_D1,2007,Kharif,Bajra,840.1,1347.7,859.3,1.604
+Andhra Pradesh,ANDH_D1,2007,Kharif,Cotton(Lint),455.7,267.7,859.3,0.587
+Andhra Pradesh,ANDH_D1,2007,Kharif,Maize,535.6,827.4,859.3,1.545
+Andhra Pradesh,ANDH_D1,2007,Rabi,Wheat,629.2,1370.7,859.3,2.178
+Andhra Pradesh,ANDH_D1,2008,Kharif,Arhar/Tur,1513,1533.5,1146.8,1.014
+Andhra Pradesh,ANDH_D1,2008,Kharif,Bajra,1070.1,1554.8,1146.8,1.453
+Andhra Pradesh,ANDH_D1,2008,Rabi,Groundnut,987.8,1342.3,1146.8,1.359
+Andhra Pradesh,ANDH_D1,2008,Rabi,Maize,1013.2,2149.7,1146.8,2.122
+Andhra Pradesh,ANDH_D1,2008,Rabi,Wheat,343.6,906.7,1146.8,2.639
+Andhra Pradesh,ANDH_D1,2009,Kharif,Arhar/Tur,685.3,580.3,993.1,0.847
+Andhra Pradesh,ANDH_D1,2009,Kharif,Bajra,699.9,1018.7,993.1,1.455
+Andhra Pradesh,ANDH_D1,2009,Rabi,Groundnut,990.2,1838.3,993.1,1.856
+Andhra Pradesh,ANDH_D1,2009,Rabi,Jowar,314.2,469.7,993.1,1.495
+Andhra Pradesh,ANDH_D1,2010,Kharif,Groundnut,1277.9,1993.4,992.6,1.56
+Andhra Pradesh,ANDH_D1,2010,Kharif,Jowar,594.6,737.4,992.6,1.24
+Andhra Pradesh,ANDH_D1,2011,Kharif,Bajra,1246.9,2159.4,1049.5,1.732
+Andhra Pradesh,ANDH_D1,2011,Kharif,Cotton(Lint),545.6,361.1,1049.5,0.662
+Andhra Pradesh,ANDH_D1,2011,Whole Year,Sugarcane,259.3,21431.6,1049.5,82.652
+Andhra Pradesh,ANDH_D1,2011,Rabi,Wheat,2238.6,7058.5,1049.5,3.153
+Andhra Pradesh,ANDH_D1,2012,Kharif,Jowar,648.5,735.4,734,1.134
+Andhra Pradesh,ANDH_D1,2012,Kharif,Maize,2615.3,7032.8,734,2.689
+Andhra Pradesh,ANDH_D1,2012,Autumn,Rice,263.3,616.4,734,2.341
+Andhra Pradesh,ANDH_D1,2013,Kharif,Arhar/Tur,1940.3,2167.2,1050.2,1.117
+Andhra Pradesh,ANDH_D1,2013,Kharif,Cotton(Lint),554.2,334.4,1050.2,0.603
+Andhra Pradesh,ANDH_D1,2013,Kharif,Soyabean,246.6,241.4,1050.2,0.979
+Andhra Pradesh,ANDH_D1,2013,Rabi,Wheat,1694.4,3653.7,1050.2,2.156
+Andhra Pradesh,ANDH_D1,2014,Kharif,Arhar/Tur,639.8,467.7,1040.6,0.731
+Andhra Pradesh,ANDH_D1,2014,Kharif,Cotton(Lint),225.5,155.1,1040.6,0.688
+Andhra Pradesh,ANDH_D1,2014,Autumn,Rice,1798.1,5590.5,1040.6,3.109
+Andhra Pradesh,ANDH_D1,2014,Whole Year,Sugarcane,262.1,18749.4,1040.6,71.535
+Andhra Pradesh,ANDH_D1,2015,Rabi,Groundnut,482.2,687.7,949.8,1.426
+Andhra Pradesh,ANDH_D1,2015,Kharif,Jowar,404.3,419.2,949.8,1.037
+Andhra Pradesh,ANDH_D2,2005,Kharif,Bajra,586.1,613.3,883.5,1.046
+Andhra Pradesh,ANDH_D2,2005,Rabi,Jowar,921.2,746.7,883.5,0.811
+Andhra Pradesh,ANDH_D2,2005,Kharif,Soyabean,931.3,865.5,883.5,0.929
+Andhra Pradesh,ANDH_D2,2005,Whole Year,Sugarcane,280,17314.7,883.5,61.838
+Andhra Pradesh,ANDH_D2,2005,Rabi,Wheat,415.5,1480.8,883.5,3.564
+Andhra Pradesh,ANDH_D2,2006,Kharif,Bajra,51.4,49.1,1148.6,0.955
+Andhra Pradesh,ANDH_D2,2006,Kharif,Jowar,2266.4,3544.9,1148.6,1.564
+Andhra Pradesh,ANDH_D2,2006,Kharif,Soyabean,275.7,404.7,1148.6,1.468
+Andhra Pradesh,ANDH_D2,2007,Kharif,Cotton(Lint),1072.2,686.9,859.3,0.641
+Andhra Pradesh,ANDH_D2,2007,Autumn,Rice,277.6,672.3,859.3,2.422
+Andhra Pradesh,ANDH_D2,2007,Whole Year,Sugarcane,257.9,19036.4,859.3,73.813
+Andhra Pradesh,ANDH_D2,2008,Kharif,Bajra,533,466.5,1146.8,0.875
+Andhra Pradesh,ANDH_D2,2008,Rabi,Groundnut,924.4,1763.8,1146.8,1.908
+Andhra Pradesh,ANDH_D2,2008,Rabi,Wheat,372.5,863.3,1146.8,2.318
+Andhra Pradesh,ANDH_D2,2009,Rabi,Groundnut,600.3,665.3,993.1,1.108
+Andhra Pradesh,ANDH_D2,2009,Rabi,Jowar,494.8,724.4,993.1,1.464
+Andhra Pradesh,ANDH_D2,2009,Whole Year,Sugarcane,2783,184846.1,993.1,66.42
+Andhra Pradesh,ANDH_D2,2009,Rabi,Wheat,1695.2,5700.1,993.1,3.362
+Andhra Pradesh,ANDH_D2,2010,Kharif,Cotton(Lint),1020.3,618.6,992.6,0.606
+Andhra Pradesh,ANDH_D2,2010,Autumn,Rice,779.3,1975.5,992.6,2.535
+Andhra Pradesh,ANDH_D2,2010,Kharif,Soyabean,568.9,466.7,992.6,0.82
+Andhra Pradesh,ANDH_D2,2010,Whole Year,Sugarcane,352.9,20337.2,992.6,57.629
+Andhra Pradesh,ANDH_D2,2011,Kharif,Cotton(Lint),428.9,302.8,1049.5,0.706
+Andhra Pradesh,ANDH_D2,2011,Rabi,Groundnut,625.1,719.4,1049.5,1.151
+Andhra Pradesh,ANDH_D2,2011,Autumn,Rice,1035.7,3588.8,1049.5,3.465
+Andhra Pradesh,ANDH_D2,2011,Whole Year,Sugarcane,363.5,25190.4,1049.5,69.3
+Andhra Pradesh,ANDH_D2,2012,Kharif,Cotton(Lint),730,321.4,734,0.44
+Andhra Pradesh,ANDH_D2,2012,Rabi,Groundnut,784,1237.1,734,1.578
+Andhra Pradesh,ANDH_D2,2012,Kharif,Jowar,1458.5,976.1,734,0.669
+Andhra Pradesh,ANDH_D2,2012,Kharif,Soyabean,699.3,756.3,734,1.082
+Andhra Pradesh,ANDH_D2,2012,Whole Year,Sugarcane,127.4,9013.3,734,70.748
+Andhra Pradesh,ANDH_D2,2013,Kharif,Arhar/Tur,1203.8,763.5,1050.2,0.634
+Andhra Pradesh,ANDH_D2,2013,Kharif,Bajra,120.4,111.6,1050.2,0.927
+Andhra Pradesh,ANDH_D2,2013,Kharif,Cotton(Lint),101.8,38.3,1050.2,0.376
+Andhra Pradesh,ANDH_D2,2013,Kharif,Jowar,1006.5,1405.9,1050.2,1.397
+Andhra Pradesh,ANDH_D2,2014,Kharif,Groundnut,709,1015.5,1040.6,1.432
+Andhra Pradesh,ANDH_D2,2014,Kharif,Jowar,1633.7,2578.3,1040.6,1.578
+Andhra Pradesh,ANDH_D2,2014,Kharif,Soyabean,1455.4,1851.6,1040.6,1.272
+Andhra Pradesh,ANDH_D2,2015,Rabi,Groundnut,432.7,684.7,949.8,1.582
+Andhra Pradesh,ANDH_D2,2015,Kharif,Jowar,164.7,248,949.8,1.506
+Andhra Pradesh,ANDH_D2,2015,Rabi,Maize,586.6,1392.7,949.8,2.374
+Andhra Pradesh,ANDH_D2,2015,Kharif,Soyabean,730.3,593.7,949.8,0.813
+Andhra Pradesh,ANDH_D2,2015,Rabi,Wheat,618,1848.3,949.8,2.991
+Andhra Pradesh,ANDH_D3,2005,Kharif,Cotton(Lint),836.3,343.7,883.5,0.411
+Andhra Pradesh,ANDH_D3,2005,Kharif,Soyabean,1002.5,946.4,883.5,0.944
+Andhra Pradesh,ANDH_D3,2005,Rabi,Wheat,140.1,298.9,883.5,2.133
+Andhra Pradesh,ANDH_D3,2006,Kharif,Bajra,823.1,929.6,1148.6,1.129
+Andhra Pradesh,ANDH_D3,2006,Rabi,Maize,422.6,1265.6,1148.6,2.995
+Andhra Pradesh,ANDH_D3,2006,Autumn,Rice,869.7,2526.3,1148.6,2.905
+Andhra Pradesh,ANDH_D3,2006,Kharif,Soyabean,756.8,656.9,1148.6,0.868
+Andhra Pradesh,ANDH_D3,2006,Rabi,Wheat,592.5,2092.9,1148.6,3.532
+Andhra Pradesh,ANDH_D3,2007,Rabi,Groundnut,593.3,954.2,859.3,1.608
+Andhra Pradesh,ANDH_D3,2007,Rabi,Jowar,1546,2329,859.3,1.506
+Andhra Pradesh,ANDH_D3,2007,Kharif,Soyabean,686.7,827.9,859.3,1.206
+Andhra Pradesh,ANDH_D3,2007,Rabi,Wheat,933.3,3134.2,859.3,3.358
+Andhra Pradesh,ANDH_D3,2008,Kharif,Arhar/Tur,866.8,1036.2,1146.8,1.195
+Andhra Pradesh,ANDH_D3,2008,Kharif,Cotton(Lint),187.6,101.6,1146.8,0.542
+Andhra Pradesh,ANDH_D3,2008,Kharif,Soyabean,339.6,365.6,1146.8,1.077
+Andhra Pradesh,ANDH_D3,2008,Rabi,Wheat,223.9,816.6,1146.8,3.647
+Andhra Pradesh,ANDH_D3,2009,Kharif,Cotton(Lint),1102.5,465.8,993.1,0.422
+Andhra Pradesh,ANDH_D3,2009,Kharif,Maize,966.8,1483.5,993.1,1.534
+Andhra Pradesh,ANDH_D3,2010,Kharif,Cotton(Lint),1614.5,662.3,992.6,0.41
+Andhra Pradesh,ANDH_D3,2010,Kharif,Groundnut,650.7,786.8,992.6,1.209
+Andhra Pradesh,ANDH_D3,2010,Kharif,Maize,1517.4,4694,992.6,3.093
+Andhra Pradesh,ANDH_D3,2010,Kharif,Rice,390.9,1410.2,992.6,3.608
+Andhra Pradesh,ANDH_D3,2011,Kharif,Bajra,1062.1,1050.6,1049.5,0.989
+Andhra Pradesh,ANDH_D3,2011,Kharif,Jowar,776.4,576.5,1049.5,0.743
+Andhra Pradesh,ANDH_D3,2011,Whole Year,Sugarcane,828.4,51882.6,1049.5,62.63
+Andhra Pradesh,ANDH_D3,2011,Rabi,Wheat,1117.4,3341.4,1049.5,2.99
+Andhra Pradesh,ANDH_D3,2012,Kharif,Arhar/Tur,344.2,319,734,0.927
+Andhra Pradesh,ANDH_D3,2012,Kharif,Cotton(Lint),335.5,206,734,0.614
+Andhra Pradesh,ANDH_D3,2012,Kharif,Groundnut,399.5,680.2,734,1.703
+Andhra Pradesh,ANDH_D3,2012,Rabi,Jowar,2558.8,1869.4,734,0.731
+Andhra Pradesh,ANDH_D3,2012,Kharif,Soyabean,1054.6,912.8,734,0.866
+Andhra Pradesh,ANDH_D3,2013,Kharif,Bajra,464.2,574.3,1050.2,1.237
+Andhra Pradesh,ANDH_D3,2013,Rabi,Jowar,1220.3,1818.5,1050.2,1.49
+Andhra Pradesh,ANDH_D3,2013,Kharif,Maize,1423,2253.2,1050.2,1.583
+Andhra Pradesh,ANDH_D3,2013,Rabi,Wheat,1268.2,3778.5,1050.2,2.979
+Andhra Pradesh,ANDH_D3,2014,Kharif,Arhar/Tur,1143.9,1250.7,1040.6,1.093
+Andhra Pradesh,ANDH_D3,2014,Kharif,Bajra,489.4,734.4,1040.6,1.501
+Andhra Pradesh,ANDH_D3,2014,Rabi,Jowar,187.4,148.5,1040.6,0.792
+Andhra Pradesh,ANDH_D3,2014,Autumn,Rice,567.5,1179.5,1040.6,2.078
+Andhra Pradesh,ANDH_D3,2014,Rabi,Wheat,450.1,1528,1040.6,3.395
+Andhra Pradesh,ANDH_D3,2015,Rabi,Groundnut,1245.4,1840.3,949.8,1.478
+Andhra Pradesh,ANDH_D3,2015,Whole Year,Sugarcane,441.4,34214,949.8,77.512
+Andhra Pradesh,ANDH_D3,2015,Rabi,Wheat,1051.4,3801.8,949.8,3.616
+Andhra Pradesh,ANDH_D4,2005,Kharif,Cotton(Lint),373.2,185.4,883.5,0.497
+Andhra Pradesh,ANDH_D4,2005,Kharif,Soyabean,1079.6,1262.7,883.5,1.17
+Andhra Pradesh,ANDH_D4,2005,Rabi,Wheat,1850.1,6430.6,883.5,3.476
+Andhra Pradesh,ANDH_D4,2006,Kharif,Arhar/Tur,533.7,398.1,1148.6,0.746
+Andhra Pradesh,ANDH_D4,2006,Kharif,Cotton(Lint),671.4,436.2,1148.6,0.65
+Andhra Pradesh,ANDH_D4,2006,Kharif,Rice,802.3,1838.4,1148.6,2.291
+Andhra Pradesh,ANDH_D4,2006,Rabi,Wheat,134.3,358,1148.6,2.666
+Andhra Pradesh,ANDH_D4,2007,Kharif,Arhar/Tur,342.1,224.6,859.3,0.657
+Andhra Pradesh,ANDH_D4,2007,Kharif,Cotton(Lint),497.2,178.7,859.3,0.359
+Andhra Pradesh,ANDH_D4,2007,Kharif,Jowar,1806.5,1468,859.3,0.813
+Andhra Pradesh,ANDH_D4,2007,Kharif,Soyabean,1667.8,2034.2,859.3,1.22
+Andhra Pradesh,ANDH_D4,2008,Kharif,Arhar/Tur,1147.4,1524,1146.8,1.328
+Andhra Pradesh,ANDH_D4,2008,Kharif,Bajra,654.5,1108,1146.8,1.693
+Andhra Pradesh,ANDH_D4,2008,Kharif,Maize,947.3,1745.4,1146.8,1.842
+Andhra Pradesh,ANDH_D4,2008,Rabi,Wheat,2494.4,8776.6,1146.8,3.519
+Andhra Pradesh,ANDH_D4,2009,Kharif,Arhar/Tur,1104.6,821.7,993.1,0.744
+Andhra Pradesh,ANDH_D4,2009,Kharif,Maize,1106.3,2937.9,993.1,2.656
+Andhra Pradesh,ANDH_D4,2009,Rabi,Wheat,1132.7,2969.7,993.1,2.622
+Andhra Pradesh,ANDH_D4,2010,Kharif,Arhar/Tur,788.9,704.7,992.6,0.893
+Andhra Pradesh,ANDH_D4,2010,Kharif,Bajra,1374.4,1189.3,992.6,0.865
+Andhra Pradesh,ANDH_D4,2010,Kharif,Groundnut,228.5,362.9,992.6,1.588
+Andhra Pradesh,ANDH_D4,2010,Rabi,Maize,948.1,2893.5,992.6,3.052
+Andhra Pradesh,ANDH_D4,2010,Kharif,Soyabean,166.5,156.8,992.6,0.942
+Andhra Pradesh,ANDH_D4,2011,Kharif,Arhar/Tur,252.4,263.5,1049.5,1.044
+Andhra Pradesh,ANDH_D4,2011,Rabi,Jowar,2179.2,2064.3,1049.5,0.947
+Andhra Pradesh,ANDH_D4,2011,Rabi,Wheat,897.7,2456.4,1049.5,2.736
+Andhra Pradesh,ANDH_D4,2012,Rabi,Groundnut,789,913.6,734,1.158
+Andhra Pradesh,ANDH_D4,2012,Kharif,Jowar,131.8,86.9,734,0.659
+Andhra Pradesh,ANDH_D4,2012,Kharif,Soyabean,2450.6,3572.4,734,1.458
+Andhra Pradesh,ANDH_D4,2013,Kharif,Arhar/Tur,651.1,646.7,1050.2,0.993
+Andhra Pradesh,ANDH_D4,2013,Kharif,Bajra,515.6,513.4,1050.2,0.996
+Andhra Pradesh,ANDH_D4,2013,Kharif,Groundnut,116.2,212.8,1050.2,1.831
+Andhra Pradesh,ANDH_D4,2013,Kharif,Rice,94.3,315.1,1050.2,3.341
+Andhra Pradesh,ANDH_D4,2013,Rabi,Wheat,1557.1,3536.5,1050.2,2.271
+Andhra Pradesh,ANDH_D4,2014,Kharif,Arhar/Tur,1373.8,1627.8,1040.6,1.185
+Andhra Pradesh,ANDH_D4,2014,Kharif,Bajra,1136.3,1949.8,1040.6,1.716
+Andhra Pradesh,ANDH_D4,2014,Rabi,Maize,1604.6,4495.8,1040.6,2.802
+Andhra Pradesh,ANDH_D4,2014,Autumn,Rice,294.6,801.6,1040.6,2.721
+Andhra Pradesh,ANDH_D4,2015,Rabi,Groundnut,494.3,747.1,949.8,1.511
+Andhra Pradesh,ANDH_D4,2015,Kharif,Jowar,348.1,393.6,949.8,1.131
+Andhra Pradesh,ANDH_D4,2015,Kharif,Soyabean,1217.9,986.7,949.8,0.81
+Andhra Pradesh,ANDH_D5,2005,Kharif,Arhar/Tur,95,115.7,883.5,1.218
+Andhra Pradesh,ANDH_D5,2005,Kharif,Groundnut,1116.5,1556.3,883.5,1.394
+Andhra Pradesh,ANDH_D5,2005,Whole Year,Sugarcane,2820.1,162682.3,883.5,57.687
+Andhra Pradesh,ANDH_D5,2006,Rabi,Maize,790,1763.9,1148.6,2.233
+Andhra Pradesh,ANDH_D5,2006,Autumn,Rice,870.7,2875.6,1148.6,3.303
+Andhra Pradesh,ANDH_D5,2006,Kharif,Soyabean,494.3,493.7,1148.6,0.999
+Andhra Pradesh,ANDH_D5,2007,Kharif,Arhar/Tur,568.5,485.1,859.3,0.853
+Andhra Pradesh,ANDH_D5,2007,Rabi,Jowar,293.8,366.4,859.3,1.247
+Andhra Pradesh,ANDH_D5,2007,Rabi,Maize,1374.2,4103.6,859.3,2.986
+Andhra Pradesh,ANDH_D5,2007,Kharif,Soyabean,725.4,1099.8,859.3,1.516
+Andhra Pradesh,ANDH_D5,2008,Kharif,Arhar/Tur,717.8,523.5,1146.8,0.729
+Andhra Pradesh,ANDH_D5,2008,Rabi,Groundnut,645.8,923.7,1146.8,1.43
+Andhra Pradesh,ANDH_D5,2008,Whole Year,Sugarcane,972.3,64631.1,1146.8,66.472
+Andhra Pradesh,ANDH_D5,2009,Kharif,Cotton(Lint),163.8,114.1,993.1,0.697
+Andhra Pradesh,ANDH_D5,2009,Autumn,Rice,746,2548.9,993.1,3.417
+Andhra Pradesh,ANDH_D5,2009,Kharif,Soyabean,518.8,809.2,993.1,1.56
+Andhra Pradesh,ANDH_D5,2010,Kharif,Arhar/Tur,335.1,224.1,992.6,0.669
+Andhra Pradesh,ANDH_D5,2010,Kharif,Groundnut,848.4,1001.9,992.6,1.181
+Andhra Pradesh,ANDH_D5,2010,Kharif,Soyabean,446.2,405.1,992.6,0.908
+Andhra Pradesh,ANDH_D5,2010,Rabi,Wheat,199.2,546.2,992.6,2.742
+Andhra Pradesh,ANDH_D5,2011,Kharif,Cotton(Lint),274.8,131,1049.5,0.477
+Andhra Pradesh,ANDH_D5,2011,Rabi,Jowar,943.9,1148.6,1049.5,1.217
+Andhra Pradesh,ANDH_D5,2011,Rabi,Maize,1396.1,2599.2,1049.5,1.862
+Andhra Pradesh,ANDH_D5,2012,Kharif,Arhar/Tur,340.9,195.2,734,0.573
+Andhra Pradesh,ANDH_D5,2012,Kharif,Cotton(Lint),927.4,493.2,734,0.532
+Andhra Pradesh,ANDH_D5,2012,Rabi,Jowar,185.9,250,734,1.345
+Andhra Pradesh,ANDH_D5,2012,Rabi,Maize,982.7,2536.2,734,2.581
+Andhra Pradesh,ANDH_D5,2012,Whole Year,Sugarcane,554.1,37144.1,734,67.035
+Andhra Pradesh,ANDH_D5,2013,Kharif,Groundnut,1001.2,1121.9,1050.2,1.121
+Andhra Pradesh,ANDH_D5,2013,Rabi,Jowar,509.3,826.5,1050.2,1.623
+Andhra Pradesh,ANDH_D5,2013,Rabi,Maize,1789.4,3807.1,1050.2,2.128
+Andhra Pradesh,ANDH_D5,2013,Autumn,Rice,527.9,1400.8,1050.2,2.654
+Andhra Pradesh,ANDH_D5,2013,Kharif,Soyabean,1322,1090.9,1050.2,0.825
+Andhra Pradesh,ANDH_D5,2014,Kharif,Arhar/Tur,1167.8,1503.5,1040.6,1.287
+Andhra Pradesh,ANDH_D5,2014,Kharif,Jowar,870.3,1237.1,1040.6,1.421
+Andhra Pradesh,ANDH_D5,2015,Kharif,Arhar/Tur,925.3,1149,949.8,1.242
+Andhra Pradesh,ANDH_D5,2015,Kharif,Bajra,1051.4,961.3,949.8,0.914
+Andhra Pradesh,ANDH_D5,2015,Kharif,Cotton(Lint),173.8,99.1,949.8,0.57
+Andhra Pradesh,ANDH_D5,2015,Kharif,Soyabean,200.8,207.3,949.8,1.032
+Andhra Pradesh,ANDH_D5,2015,Whole Year,Sugarcane,1113,87304.5,949.8,78.441
+Assam,ASSA_D1,2005,Kharif,Maize,751.1,1613.2,1692.4,2.148
+Assam,ASSA_D1,2005,Kharif,Soyabean,648.5,545.5,1692.4,0.841
+Assam,ASSA_D1,2005,Rabi,Wheat,1631.3,5661.6,1692.4,3.471
+Assam,ASSA_D1,2006,Kharif,Arhar/Tur,748,516.7,2357.8,0.691
+Assam,ASSA_D1,2006,Kharif,Maize,194.5,451.5,2357.8,2.321
+Assam,ASSA_D1,2006,Autumn,Rice,1646.1,4417.7,2357.8,2.684
+Assam,ASSA_D1,2007,Kharif,Bajra,1058.6,910,2355.6,0.86
+Assam,ASSA_D1,2007,Kharif,Groundnut,1496.3,1993.1,2355.6,1.332
+Assam,ASSA_D1,2007,Rabi,Jowar,367.3,419.9,2355.6,1.143
+Assam,ASSA_D1,2007,Autumn,Rice,758.1,2145,2355.6,2.829
+Assam,ASSA_D1,2008,Kharif,Arhar/Tur,647.4,559.5,2128.4,0.864
+Assam,ASSA_D1,2008,Kharif,Jowar,933.1,1134.7,2128.4,1.216
+Assam,ASSA_D1,2008,Whole Year,Sugarcane,754.5,52996,2128.4,70.24
+Assam,ASSA_D1,2009,Kharif,Bajra,245.2,356.1,2165.6,1.452
+Assam,ASSA_D1,2009,Kharif,Cotton(Lint),1029,632.8,2165.6,0.615
+Assam,ASSA_D1,2009,Rabi,Maize,781.4,1928.8,2165.6,2.468
+Assam,ASSA_D1,2009,Kharif,Soyabean,508.8,418.2,2165.6,0.822
+Assam,ASSA_D1,2010,Kharif,Cotton(Lint),774.5,380.1,2473,0.491
+Assam,ASSA_D1,2010,Rabi,Jowar,1230.9,1668.2,2473,1.355
+Assam,ASSA_D1,2010,Kharif,Maize,1606.9,4988.6,2473,3.104
+Assam,ASSA_D1,2010,Whole Year,Sugarcane,219.8,18064.3,2473,82.185
+Assam,ASSA_D1,2011,Kharif,Bajra,527.2,542.7,2243.6,1.029
+Assam,ASSA_D1,2011,Rabi,Jowar,717.4,732.6,2243.6,1.021
+Assam,ASSA_D1,2011,Whole Year,Sugarcane,242.1,17924.5,2243.6,74.038
+Assam,ASSA_D1,2012,Kharif,Arhar/Tur,1311.3,926,2205.2,0.706
+Assam,ASSA_D1,2012,Kharif,Bajra,1502.8,2541.5,2205.2,1.691
+Assam,ASSA_D1,2012,Rabi,Maize,202.1,559.7,2205.2,2.769
+Assam,ASSA_D1,2012,Kharif,Soyabean,1077.2,930.8,2205.2,0.864
+Assam,ASSA_D1,2012,Rabi,Wheat,332.6,745.2,2205.2,2.241
+Assam,ASSA_D1,2013,Kharif,Bajra,233.2,265.3,2113.9,1.138
+Assam,ASSA_D1,2013,Kharif,Maize,50,94.7,2113.9,1.894
+Assam,ASSA_D1,2013,Kharif,Soyabean,1613.6,2440.9,2113.9,1.513
+Assam,ASSA_D1,2013,Whole Year,Sugarcane,438.5,27293.5,2113.9,62.243
+Assam,ASSA_D1,2014,Kharif,Arhar/Tur,1309.7,1015.4,1863.1,0.775
+Assam,ASSA_D1,2014,Kharif,Bajra,475.9,545.8,1863.1,1.147
+Assam,ASSA_D1,2014,Rabi,Groundnut,617.7,542,1863.1,0.877
+Assam,ASSA_D1,2014,Rabi,Jowar,331.9,282.2,1863.1,0.85
+Assam,ASSA_D1,2014,Autumn,Rice,908.3,2890.6,1863.1,3.182
+Assam,ASSA_D1,2015,Kharif,Arhar/Tur,401,388.6,1641.6,0.969
+Assam,ASSA_D1,2015,Kharif,Rice,2163.2,4950.5,1641.6,2.289
+Assam,ASSA_D2,2005,Kharif,Arhar/Tur,217.6,149.3,1692.4,0.686
+Assam,ASSA_D2,2005,Kharif,Bajra,418.1,338.6,1692.4,0.81
+Assam,ASSA_D2,2005,Rabi,Groundnut,949.4,1075.4,1692.4,1.133
+Assam,ASSA_D2,2005,Rabi,Jowar,565.6,604.6,1692.4,1.069
+Assam,ASSA_D2,2005,Rabi,Maize,1724.4,2692.6,1692.4,1.561
+Assam,ASSA_D2,2006,Kharif,Bajra,301.9,317.8,2357.8,1.053
+Assam,ASSA_D2,2006,Rabi,Jowar,1411.3,1082.1,2357.8,0.767
+Assam,ASSA_D2,2006,Kharif,Soyabean,800.9,953.2,2357.8,1.19
+Assam,ASSA_D2,2007,Kharif,Arhar/Tur,342.7,440.8,2355.6,1.286
+Assam,ASSA_D2,2007,Kharif,Maize,1168.7,2090.6,2355.6,1.789
+Assam,ASSA_D2,2007,Kharif,Rice,170.5,603,2355.6,3.537
+Assam,ASSA_D2,2008,Kharif,Arhar/Tur,369.3,471.3,2128.4,1.276
+Assam,ASSA_D2,2008,Kharif,Bajra,852.9,893,2128.4,1.047
+Assam,ASSA_D2,2008,Kharif,Cotton(Lint),400,268.3,2128.4,0.671
+Assam,ASSA_D2,2008,Kharif,Maize,861.2,2115.3,2128.4,2.456
+Assam,ASSA_D2,2008,Autumn,Rice,103.9,349.2,2128.4,3.361
+Assam,ASSA_D2,2009,Kharif,Maize,407.6,912,2165.6,2.237
+Assam,ASSA_D2,2009,Autumn,Rice,543.9,1908.9,2165.6,3.51
+Assam,ASSA_D2,2009,Rabi,Wheat,640.5,2325.7,2165.6,3.631
+Assam,ASSA_D2,2010,Kharif,Arhar/Tur,1045.1,989.1,2473,0.946
+Assam,ASSA_D2,2010,Kharif,Cotton(Lint),1725.1,821.5,2473,0.476
+Assam,ASSA_D2,2010,Kharif,Maize,256.2,446.5,2473,1.743
+Assam,ASSA_D2,2010,Whole Year,Sugarcane,711.1,53458.7,2473,75.177
+Assam,ASSA_D2,2011,Kharif,Cotton(Lint),1360.5,753.5,2243.6,0.554
+Assam,ASSA_D2,2011,Kharif,Jowar,2432.6,2828,2243.6,1.163
+Assam,ASSA_D2,2011,Rabi,Maize,2652.6,7727.9,2243.6,2.913
+Assam,ASSA_D2,2011,Kharif,Soyabean,648.2,572.6,2243.6,0.883
+Assam,ASSA_D2,2011,Whole Year,Sugarcane,986.4,63267.3,2243.6,64.14
+Assam,ASSA_D2,2012,Kharif,Bajra,405,512.5,2205.2,1.265
+Assam,ASSA_D2,2012,Kharif,Groundnut,317.3,330.3,2205.2,1.041
+Assam,ASSA_D2,2012,Autumn,Rice,1812,5487.5,2205.2,3.028
+Assam,ASSA_D2,2012,Whole Year,Sugarcane,637.9,44711.5,2205.2,70.092
+Assam,ASSA_D2,2013,Kharif,Maize,1532.2,3213.8,2113.9,2.098
+Assam,ASSA_D2,2013,Whole Year,Sugarcane,413.6,29517.8,2113.9,71.368
+Assam,ASSA_D2,2013,Rabi,Wheat,156.9,452.5,2113.9,2.884
+Assam,ASSA_D2,2014,Kharif,Arhar/Tur,1099.2,889.2,1863.1,0.809
+Assam,ASSA_D2,2014,Kharif,Cotton(Lint),1579.1,820.2,1863.1,0.519
+Assam,ASSA_D2,2014,Autumn,Rice,234.3,463.5,1863.1,1.978
+Assam,ASSA_D2,2015,Kharif,Bajra,860.5,717.2,1641.6,0.833
+Assam,ASSA_D2,2015,Kharif,Cotton(Lint),1138.7,368.7,1641.6,0.324
+Assam,ASSA_D2,2015,Whole Year,Sugarcane,2068.8,154557,1641.6,74.709
+Assam,ASSA_D3,2005,Kharif,Bajra,622.3,655.8,1692.4,1.054
+Assam,ASSA_D3,2005,Kharif,Cotton(Lint),319.4,118.6,1692.4,0.371
+Assam,ASSA_D3,2005,Whole Year,Sugarcane,1204.1,70440.7,1692.4,58.501
+Assam,ASSA_D3,2006,Kharif,Bajra,1871.6,1929.6,2357.8,1.031
+Assam,ASSA_D3,2006,Kharif,Cotton(Lint),205.1,112.8,2357.8,0.55
+Assam,ASSA_D3,2006,Whole Year,Sugarcane,947.8,58256.6,2357.8,61.465
+Assam,ASSA_D3,2006,Rabi,Wheat,590.5,2067.1,2357.8,3.501
+Assam,ASSA_D3,2007,Autumn,Rice,1082.8,3609.7,2355.6,3.334
+Assam,ASSA_D3,2007,Kharif,Soyabean,656.7,1065.2,2355.6,1.622
+Assam,ASSA_D3,2007,Rabi,Wheat,313.4,1079.3,2355.6,3.444
+Assam,ASSA_D3,2008,Kharif,Cotton(Lint),410.1,151.1,2128.4,0.368
+Assam,ASSA_D3,2008,Kharif,Groundnut,2315.6,4189.9,2128.4,1.809
+Assam,ASSA_D3,2008,Rabi,Maize,736.7,1215.5,2128.4,1.65
+Assam,ASSA_D3,2008,Kharif,Rice,369.4,1292.3,2128.4,3.498
+Assam,ASSA_D3,2008,Whole Year,Sugarcane,1818.6,116299.8,2128.4,63.95
+Assam,ASSA_D3,2009,Kharif,Bajra,1132,1061.6,2165.6,0.938
+Assam,ASSA_D3,2009,Kharif,Cotton(Lint),1378.9,604.3,2165.6,0.438
+Assam,ASSA_D3,2009,Rabi,Groundnut,891,1302.8,2165.6,1.462
+Assam,ASSA_D3,2010,Rabi,Groundnut,646.7,703.2,2473,1.087
+Assam,ASSA_D3,2010,Kharif,Maize,890.9,1966.8,2473,2.208
+Assam,ASSA_D3,2010,Kharif,Rice,669.3,1756.6,2473,2.625
+Assam,ASSA_D3,2010,Whole Year,Sugarcane,735.1,48489.1,2473,65.963
+Assam,ASSA_D3,2010,Rabi,Wheat,619.2,2183.3,2473,3.526
+Assam,ASSA_D3,2011,Kharif,Arhar/Tur,246.6,296.9,2243.6,1.204
+Assam,ASSA_D3,2011,Kharif,Bajra,573,707.8,2243.6,1.235
+Assam,ASSA_D3,2011,Kharif,Maize,502.8,987.1,2243.6,1.963
+Assam,ASSA_D3,2011,Whole Year,Sugarcane,143.7,8839.2,2243.6,61.511
+Assam,ASSA_D3,2012,Kharif,Bajra,231.9,213.3,2205.2,0.92
+Assam,ASSA_D3,2012,Kharif,Cotton(Lint),401.8,172.2,2205.2,0.429
+Assam,ASSA_D3,2012,Kharif,Soyabean,856,1295,2205.2,1.513
+Assam,ASSA_D3,2013,Kharif,Bajra,308.2,269.8,2113.9,0.875
+Assam,ASSA_D3,2013,Rabi,Groundnut,1421,2106.9,2113.9,1.483
+Assam,ASSA_D3,2013,Kharif,Rice,917.6,1729.3,2113.9,1.885
+Assam,ASSA_D3,2013,Kharif,Soyabean,458.5,719.3,2113.9,1.569
+Assam,ASSA_D3,2014,Kharif,Groundnut,473,709,1863.1,1.499
+Assam,ASSA_D3,2014,Rabi,Jowar,1089,817.8,1863.1,0.751
+Assam,ASSA_D3,2014,Rabi,Wheat,1413.4,3388.7,1863.1,2.398
+Assam,ASSA_D3,2015,Kharif,Arhar/Tur,3947.3,4729.4,1641.6,1.198
+Assam,ASSA_D3,2015,Kharif,Groundnut,741.1,1145.1,1641.6,1.545
+Assam,ASSA_D3,2015,Rabi,Jowar,736.8,1052.5,1641.6,1.428
+Assam,ASSA_D3,2015,Kharif,Rice,747.6,1495.8,1641.6,2.001
+Assam,ASSA_D3,2015,Whole Year,Sugarcane,1390,75308.3,1641.6,54.179
+Assam,ASSA_D4,2005,Kharif,Arhar/Tur,1204.8,1205.8,1692.4,1.001
+Assam,ASSA_D4,2005,Kharif,Cotton(Lint),2952.4,1050.8,1692.4,0.356
+Assam,ASSA_D4,2005,Rabi,Maize,735.3,2004.3,1692.4,2.726
+Assam,ASSA_D4,2005,Whole Year,Sugarcane,2095,155648,1692.4,74.295
+Assam,ASSA_D4,2006,Kharif,Bajra,570.4,563.9,2357.8,0.989
+Assam,ASSA_D4,2006,Kharif,Groundnut,1505.8,2101.8,2357.8,1.396
+Assam,ASSA_D4,2006,Kharif,Soyabean,549.7,658,2357.8,1.197
+Assam,ASSA_D4,2006,Whole Year,Sugarcane,921.5,78193.7,2357.8,84.855
+Assam,ASSA_D4,2006,Rabi,Wheat,438.8,1103.4,2357.8,2.515
+Assam,ASSA_D4,2007,Kharif,Bajra,1543.7,1916.9,2355.6,1.242
+Assam,ASSA_D4,2007,Kharif,Maize,350.2,954,2355.6,2.724
+Assam,ASSA_D4,2007,Kharif,Rice,530.7,1758.7,2355.6,3.314
+Assam,ASSA_D4,2008,Kharif,Groundnut,866.5,1242.6,2128.4,1.434
+Assam,ASSA_D4,2008,Kharif,Rice,1502,3568.6,2128.4,2.376
+Assam,ASSA_D4,2008,Kharif,Soyabean,387.5,330.3,2128.4,0.852
+Assam,ASSA_D4,2008,Rabi,Wheat,2059.8,5445.3,2128.4,2.644
+Assam,ASSA_D4,2009,Kharif,Bajra,1617.8,1606.8,2165.6,0.993
+Assam,ASSA_D4,2009,Kharif,Cotton(Lint),256.5,170.9,2165.6,0.666
+Assam,ASSA_D4,2009,Kharif,Maize,259.7,433.3,2165.6,1.668
+Assam,ASSA_D4,2009,Whole Year,Sugarcane,553.5,37713.2,2165.6,68.136
+Assam,ASSA_D4,2010,Kharif,Arhar/Tur,375.1,354.7,2473,0.946
+Assam,ASSA_D4,2010,Kharif,Soyabean,50,64.2,2473,1.284
+Assam,ASSA_D4,2011,Kharif,Arhar/Tur,1731.9,1408.2,2243.6,0.813
+Assam,ASSA_D4,2011,Kharif,Bajra,686.9,678.5,2243.6,0.988
+Assam,ASSA_D4,2011,Kharif,Groundnut,2789.2,4750,2243.6,1.703
+Assam,ASSA_D4,2011,Whole Year,Sugarcane,273.3,22100.9,2243.6,80.867
+Assam,ASSA_D4,2012,Rabi,Groundnut,651.9,1004.6,2205.2,1.541
+Assam,ASSA_D4,2012,Kharif,Jowar,1380.3,1774.9,2205.2,1.286
+Assam,ASSA_D4,2012,Kharif,Maize,691.5,1335.1,2205.2,1.931
+Assam,ASSA_D4,2012,Kharif,Soyabean,167.8,162.8,2205.2,0.97
+Assam,ASSA_D4,2013,Kharif,Arhar/Tur,1633.7,2032.1,2113.9,1.244
+Assam,ASSA_D4,2013,Kharif,Cotton(Lint),1930.6,1080,2113.9,0.559
+Assam,ASSA_D4,2013,Autumn,Rice,530.2,1301.4,2113.9,2.455
+Assam,ASSA_D4,2013,Kharif,Soyabean,294.8,434.9,2113.9,1.475
+Assam,ASSA_D4,2014,Kharif,Arhar/Tur,449.1,391,1863.1,0.871
+Assam,ASSA_D4,2014,Kharif,Cotton(Lint),403.3,135.5,1863.1,0.336
+Assam,ASSA_D4,2014,Rabi,Maize,644.1,1476.7,1863.1,2.293
+Assam,ASSA_D4,2014,Kharif,Rice,698.4,1796.9,1863.1,2.573
+Assam,ASSA_D4,2015,Kharif,Bajra,115.2,176.6,1641.6,1.533
+Assam,ASSA_D4,2015,Kharif,Cotton(Lint),565.9,260.7,1641.6,0.461
+Assam,ASSA_D4,2015,Kharif,Jowar,2129.8,2038.2,1641.6,0.957
+Assam,ASSA_D4,2015,Whole Year,Sugarcane,832.4,58383.5,1641.6,70.139
+Assam,ASSA_D5,2005,Kharif,Arhar/Tur,336.3,312.6,1692.4,0.93
+Assam,ASSA_D5,2005,Kharif,Groundnut,805,834.7,1692.4,1.037
+Assam,ASSA_D5,2005,Autumn,Rice,1700.2,3613.7,1692.4,2.125
+Assam,ASSA_D5,2005,Whole Year,Sugarcane,1299.5,76073.6,1692.4,58.541
+Assam,ASSA_D5,2006,Kharif,Bajra,999.5,1603.9,2357.8,1.605
+Assam,ASSA_D5,2006,Kharif,Jowar,1512.2,2344.4,2357.8,1.55
+Assam,ASSA_D5,2006,Kharif,Rice,446.1,852.5,2357.8,1.911
+Assam,ASSA_D5,2007,Kharif,Cotton(Lint),1607.1,970.3,2355.6,0.604
+Assam,ASSA_D5,2007,Whole Year,Sugarcane,342,26570,2355.6,77.69
+Assam,ASSA_D5,2007,Rabi,Wheat,1018.5,3196.9,2355.6,3.139
+Assam,ASSA_D5,2008,Rabi,Groundnut,278.8,354.9,2128.4,1.273
+Assam,ASSA_D5,2008,Rabi,Maize,2567.6,6249.4,2128.4,2.434
+Assam,ASSA_D5,2008,Kharif,Rice,1327.9,2703.6,2128.4,2.036
+Assam,ASSA_D5,2008,Whole Year,Sugarcane,611.1,35734.7,2128.4,58.476
+Assam,ASSA_D5,2009,Kharif,Arhar/Tur,220.7,248.5,2165.6,1.126
+Assam,ASSA_D5,2009,Kharif,Bajra,396.3,620.2,2165.6,1.565
+Assam,ASSA_D5,2009,Rabi,Groundnut,356,633.3,2165.6,1.779
+Assam,ASSA_D5,2009,Rabi,Maize,1033,2589,2165.6,2.506
+Assam,ASSA_D5,2009,Kharif,Rice,490.1,1771.7,2165.6,3.615
+Assam,ASSA_D5,2010,Kharif,Arhar/Tur,1674.1,1062.5,2473,0.635
+Assam,ASSA_D5,2010,Rabi,Jowar,640.6,954.9,2473,1.491
+Assam,ASSA_D5,2010,Rabi,Maize,250.3,813,2473,3.248
+Assam,ASSA_D5,2010,Rabi,Wheat,873,3173.4,2473,3.635
+Assam,ASSA_D5,2011,Rabi,Jowar,1132.8,1847.3,2243.6,1.631
+Assam,ASSA_D5,2011,Autumn,Rice,175.8,566,2243.6,3.22
+Assam,ASSA_D5,2011,Whole Year,Sugarcane,146.3,12411.7,2243.6,84.837
+Assam,ASSA_D5,2011,Rabi,Wheat,904.3,2189.3,2243.6,2.421
+Assam,ASSA_D5,2012,Rabi,Groundnut,852,1062,2205.2,1.246
+Assam,ASSA_D5,2012,Kharif,Jowar,1257.1,1061.2,2205.2,0.844
+Assam,ASSA_D5,2012,Kharif,Rice,418,940.7,2205.2,2.25
+Assam,ASSA_D5,2012,Kharif,Soyabean,66.3,84.2,2205.2,1.27
+Assam,ASSA_D5,2012,Rabi,Wheat,381.8,1399.4,2205.2,3.665
+Assam,ASSA_D5,2013,Kharif,Groundnut,218.9,248.8,2113.9,1.137
+Assam,ASSA_D5,2013,Kharif,Rice,1168.4,3615,2113.9,3.094
+Assam,ASSA_D5,2013,Rabi,Wheat,779.1,2801.5,2113.9,3.596
+Assam,ASSA_D5,2014,Rabi,Groundnut,1363.6,1959.9,1863.1,1.437
+Assam,ASSA_D5,2014,Autumn,Rice,946.4,2305.7,1863.1,2.436
+Assam,ASSA_D5,2014,Whole Year,Sugarcane,446.5,25104.7,1863.1,56.226
+Assam,ASSA_D5,2015,Kharif,Arhar/Tur,412.8,441.1,1641.6,1.069
+Assam,ASSA_D5,2015,Kharif,Bajra,2868,4492.5,1641.6,1.566
+Assam,ASSA_D5,2015,Rabi,Wheat,602.3,1494.1,1641.6,2.481
+Bihar,BIHA_D1,2005,Kharif,Bajra,180.5,231.1,1267.3,1.28
+Bihar,BIHA_D1,2005,Rabi,Groundnut,1543.1,2345.7,1267.3,1.52
+Bihar,BIHA_D1,2005,Kharif,Rice,1074.9,3814.9,1267.3,3.549
+Bihar,BIHA_D1,2005,Kharif,Soyabean,369.8,557.1,1267.3,1.506
+Bihar,BIHA_D1,2005,Rabi,Wheat,847,2210.7,1267.3,2.61
+Bihar,BIHA_D1,2006,Kharif,Jowar,1313,1685.3,1099.9,1.284
+Bihar,BIHA_D1,2006,Kharif,Rice,1687.4,3705.3,1099.9,2.196
+Bihar,BIHA_D1,2006,Kharif,Soyabean,2715.6,3313,1099.9,1.22
+Bihar,BIHA_D1,2007,Kharif,Bajra,1817.4,1563.1,1204.2,0.86
+Bihar,BIHA_D1,2007,Rabi,Maize,1324.1,3806.6,1204.2,2.875
+Bihar,BIHA_D1,2007,Autumn,Rice,989.9,3248.8,1204.2,3.282
+Bihar,BIHA_D1,2007,Kharif,Soyabean,1049.7,1503.1,1204.2,1.432
+Bihar,BIHA_D1,2007,Whole Year,Sugarcane,2040.9,159611,1204.2,78.206
+Bihar,BIHA_D1,2008,Kharif,Arhar/Tur,1033.4,845,994.4,0.818
+Bihar,BIHA_D1,2008,Kharif,Groundnut,225.4,326.2,994.4,1.447
+Bihar,BIHA_D1,2008,Kharif,Soyabean,640.3,898.9,994.4,1.404
+Bihar,BIHA_D1,2008,Rabi,Wheat,608.9,1404.6,994.4,2.307
+Bihar,BIHA_D1,2009,Kharif,Arhar/Tur,284.4,290.4,1398.7,1.021
+Bihar,BIHA_D1,2009,Rabi,Groundnut,354.8,690.6,1398.7,1.946
+Bihar,BIHA_D1,2009,Rabi,Maize,702.3,1671.4,1398.7,2.38
+Bihar,BIHA_D1,2010,Kharif,Arhar/Tur,333.3,286.4,1262,0.859
+Bihar,BIHA_D1,2010,Kharif,Jowar,313.9,360.3,1262,1.148
+Bihar,BIHA_D1,2010,Whole Year,Sugarcane,190.2,12896.3,1262,67.804
+Bihar,BIHA_D1,2010,Rabi,Wheat,235.5,699.3,1262,2.969
+Bihar,BIHA_D1,2011,Kharif,Arhar/Tur,481.6,360.6,1452.6,0.749
+Bihar,BIHA_D1,2011,Kharif,Bajra,765.7,1125,1452.6,1.469
+Bihar,BIHA_D1,2011,Kharif,Cotton(Lint),1223.4,773.2,1452.6,0.632
+Bihar,BIHA_D1,2011,Kharif,Groundnut,1059.5,1794.4,1452.6,1.694
+Bihar,BIHA_D1,2011,Whole Year,Sugarcane,2436.9,144949,1452.6,59.481
+Bihar,BIHA_D1,2012,Kharif,Arhar/Tur,4867.8,3474.7,1355.6,0.714
+Bihar,BIHA_D1,2012,Rabi,Jowar,1012.3,1064.6,1355.6,1.052
+Bihar,BIHA_D1,2012,Whole Year,Sugarcane,443.2,28125.8,1355.6,63.461
+Bihar,BIHA_D1,2013,Kharif,Bajra,387,415.2,761.7,1.073
+Bihar,BIHA_D1,2013,Rabi,Groundnut,1976.8,1859.4,761.7,0.941
+Bihar,BIHA_D1,2013,Kharif,Jowar,1268,1077.8,761.7,0.85
+Bihar,BIHA_D1,2013,Whole Year,Sugarcane,2033.7,143914.7,761.7,70.765
+Bihar,BIHA_D1,2014,Kharif,Cotton(Lint),579.9,240.3,627,0.414
+Bihar,BIHA_D1,2014,Kharif,Jowar,379.4,322.8,627,0.851
+Bihar,BIHA_D1,2014,Kharif,Rice,335.4,642.4,627,1.915
+Bihar,BIHA_D1,2014,Kharif,Soyabean,1667.8,1445.9,627,0.867
+Bihar,BIHA_D1,2015,Kharif,Bajra,198,251.4,1047.9,1.27
+Bihar,BIHA_D1,2015,Kharif,Groundnut,645.6,667.8,1047.9,1.034
+Bihar,BIHA_D1,2015,Rabi,Maize,1056.1,2802.6,1047.9,2.654
+Bihar,BIHA_D1,2015,Rabi,Wheat,631.1,1745,1047.9,2.765
+Bihar,BIHA_D2,2005,Kharif,Arhar/Tur,1601.5,1950.8,1267.3,1.218
+Bihar,BIHA_D2,2005,Kharif,Cotton(Lint),738.8,232.9,1267.3,0.315
+Bihar,BIHA_D2,2005,Kharif,Jowar,1734.4,2156.7,1267.3,1.243
+Bihar,BIHA_D2,2006,Kharif,Bajra,1208.9,1881.5,1099.9,1.556
+Bihar,BIHA_D2,2006,Kharif,Groundnut,957.1,1088.8,1099.9,1.138
+Bihar,BIHA_D2,2006,Kharif,Jowar,2049.9,1971.9,1099.9,0.962
+Bihar,BIHA_D2,2006,Kharif,Rice,50,107.5,1099.9,2.15
+Bihar,BIHA_D2,2006,Whole Year,Sugarcane,291.2,22527.2,1099.9,77.36
+Bihar,BIHA_D2,2007,Kharif,Bajra,2485.4,3807.4,1204.2,1.532
+Bihar,BIHA_D2,2007,Kharif,Groundnut,839.3,913,1204.2,1.088
+Bihar,BIHA_D2,2007,Rabi,Maize,654.4,1551.3,1204.2,2.371
+Bihar,BIHA_D2,2007,Kharif,Rice,865.6,2643.1,1204.2,3.053
+Bihar,BIHA_D2,2007,Whole Year,Sugarcane,1096.1,69877.4,1204.2,63.751
+Bihar,BIHA_D2,2008,Kharif,Groundnut,384.2,445.4,994.4,1.159
+Bihar,BIHA_D2,2008,Rabi,Jowar,1086.1,776,994.4,0.714
+Bihar,BIHA_D2,2008,Kharif,Soyabean,537.6,638.8,994.4,1.188
+Bihar,BIHA_D2,2008,Whole Year,Sugarcane,453.1,30145.3,994.4,66.531
+Bihar,BIHA_D2,2008,Rabi,Wheat,394.8,1275.4,994.4,3.23
+Bihar,BIHA_D2,2009,Kharif,Arhar/Tur,724.2,780.3,1398.7,1.077
+Bihar,BIHA_D2,2009,Kharif,Jowar,1473.6,1236.8,1398.7,0.839
+Bihar,BIHA_D2,2009,Kharif,Rice,357.9,1041.9,1398.7,2.911
+Bihar,BIHA_D2,2009,Kharif,Soyabean,618.8,798.5,1398.7,1.29
+Bihar,BIHA_D2,2010,Kharif,Groundnut,330.8,521.2,1262,1.576
+Bihar,BIHA_D2,2010,Kharif,Jowar,1472.9,1331.8,1262,0.904
+Bihar,BIHA_D2,2010,Rabi,Maize,637.7,1913.3,1262,3
+Bihar,BIHA_D2,2010,Kharif,Rice,1016.1,1936,1262,1.905
+Bihar,BIHA_D2,2010,Rabi,Wheat,546.5,1424.7,1262,2.607
+Bihar,BIHA_D2,2011,Kharif,Bajra,1017.1,1676.9,1452.6,1.649
+Bihar,BIHA_D2,2011,Kharif,Cotton(Lint),710.6,318.9,1452.6,0.449
+Bihar,BIHA_D2,2011,Rabi,Groundnut,607.5,1082.7,1452.6,1.782
+Bihar,BIHA_D2,2011,Kharif,Rice,207.6,696.2,1452.6,3.354
+Bihar,BIHA_D2,2011,Whole Year,Sugarcane,633.4,54175.1,1452.6,85.531
+Bihar,BIHA_D2,2012,Kharif,Bajra,541.8,544.4,1355.6,1.005
+Bihar,BIHA_D2,2012,Whole Year,Sugarcane,2072.2,172400.5,1355.6,83.197
+Bihar,BIHA_D2,2012,Rabi,Wheat,928.8,3677.7,1355.6,3.96
+Bihar,BIHA_D2,2013,Kharif,Arhar/Tur,151.8,170.3,761.7,1.122
+Bihar,BIHA_D2,2013,Kharif,Cotton(Lint),602.1,314.2,761.7,0.522
+Bihar,BIHA_D2,2013,Kharif,Groundnut,1369.7,1325.1,761.7,0.967
+Bihar,BIHA_D2,2013,Rabi,Jowar,519.2,506.2,761.7,0.975
+Bihar,BIHA_D2,2013,Kharif,Maize,465.2,1093.6,761.7,2.351
+Bihar,BIHA_D2,2014,Kharif,Arhar/Tur,116.8,128.1,627,1.097
+Bihar,BIHA_D2,2014,Kharif,Jowar,818.6,663.8,627,0.811
+Bihar,BIHA_D2,2014,Kharif,Soyabean,1775.1,2172.7,627,1.224
+Bihar,BIHA_D2,2014,Whole Year,Sugarcane,847.7,42574.9,627,50.224
+Bihar,BIHA_D2,2015,Rabi,Jowar,669.1,979.1,1047.9,1.463
+Bihar,BIHA_D2,2015,Autumn,Rice,218.7,423.1,1047.9,1.935
+Bihar,BIHA_D2,2015,Whole Year,Sugarcane,174.3,12180.4,1047.9,69.882
+Bihar,BIHA_D3,2005,Kharif,Arhar/Tur,88.6,113.3,1267.3,1.279
+Bihar,BIHA_D3,2005,Kharif,Groundnut,707.7,671.7,1267.3,0.949
+Bihar,BIHA_D3,2005,Kharif,Jowar,834.5,657.4,1267.3,0.788
+Bihar,BIHA_D3,2005,Kharif,Maize,803.6,2625.4,1267.3,3.267
+Bihar,BIHA_D3,2006,Kharif,Arhar/Tur,890,808.5,1099.9,0.908
+Bihar,BIHA_D3,2006,Rabi,Jowar,190.1,144.7,1099.9,0.761
+Bihar,BIHA_D3,2006,Kharif,Soyabean,492.7,395.7,1099.9,0.803
+Bihar,BIHA_D3,2007,Kharif,Arhar/Tur,1157,996.1,1204.2,0.861
+Bihar,BIHA_D3,2007,Kharif,Cotton(Lint),1126.8,701.4,1204.2,0.622
+Bihar,BIHA_D3,2007,Kharif,Jowar,803.3,857,1204.2,1.067
+Bihar,BIHA_D3,2007,Kharif,Maize,466.4,1269.2,1204.2,2.721
+Bihar,BIHA_D3,2007,Rabi,Wheat,1345.9,3948.2,1204.2,2.934
+Bihar,BIHA_D3,2008,Kharif,Bajra,801.9,1142.8,994.4,1.425
+Bihar,BIHA_D3,2008,Rabi,Maize,673.4,1031.2,994.4,1.531
+Bihar,BIHA_D3,2008,Whole Year,Sugarcane,131.3,9793.5,994.4,74.589
+Bihar,BIHA_D3,2009,Kharif,Jowar,477.8,403.2,1398.7,0.844
+Bihar,BIHA_D3,2009,Kharif,Soyabean,972.1,1520.2,1398.7,1.564
+Bihar,BIHA_D3,2010,Kharif,Cotton(Lint),1656.5,746,1262,0.45
+Bihar,BIHA_D3,2010,Rabi,Jowar,1068.8,1054.3,1262,0.986
+Bihar,BIHA_D3,2010,Kharif,Maize,491.9,1605.9,1262,3.265
+Bihar,BIHA_D3,2010,Rabi,Wheat,775.7,2936.5,1262,3.786
+Bihar,BIHA_D3,2011,Kharif,Arhar/Tur,481.4,324.6,1452.6,0.674
+Bihar,BIHA_D3,2011,Rabi,Groundnut,1511.9,2804.6,1452.6,1.855
+Bihar,BIHA_D3,2011,Autumn,Rice,618.7,1591.6,1452.6,2.572
+Bihar,BIHA_D3,2011,Whole Year,Sugarcane,907.5,57023.1,1452.6,62.835
+Bihar,BIHA_D3,2012,Kharif,Groundnut,264.7,424.4,1355.6,1.603
+Bihar,BIHA_D3,2012,Kharif,Rice,464.1,1011.4,1355.6,2.179
+Bihar,BIHA_D3,2013,Kharif,Bajra,700.2,910.6,761.7,1.3
+Bihar,BIHA_D3,2013,Kharif,Groundnut,1252.3,1639.9,761.7,1.31
+Bihar,BIHA_D3,2013,Kharif,Rice,622.3,1853.8,761.7,2.979
+Bihar,BIHA_D3,2013,Whole Year,Sugarcane,611.5,43585.6,761.7,71.277
+Bihar,BIHA_D3,2013,Rabi,Wheat,915.9,2684.8,761.7,2.931
+Bihar,BIHA_D3,2014,Kharif,Jowar,2002.7,2066.9,627,1.032
+Bihar,BIHA_D3,2014,Kharif,Rice,717,1458.3,627,2.034
+Bihar,BIHA_D3,2015,Kharif,Arhar/Tur,1173.3,784.2,1047.9,0.668
+Bihar,BIHA_D3,2015,Kharif,Cotton(Lint),954.7,320.1,1047.9,0.335
+Bihar,BIHA_D3,2015,Rabi,Maize,539.4,1530,1047.9,2.836
+Bihar,BIHA_D3,2015,Kharif,Soyabean,1223.9,1677.2,1047.9,1.37
+Bihar,BIHA_D3,2015,Whole Year,Sugarcane,1126.5,89977.5,1047.9,79.874
+Bihar,BIHA_D4,2005,Kharif,Arhar/Tur,264.5,311.5,1267.3,1.178
+Bihar,BIHA_D4,2005,Kharif,Bajra,545.8,940.6,1267.3,1.723
+Bihar,BIHA_D4,2005,Rabi,Groundnut,126.4,126.8,1267.3,1.003
+Bihar,BIHA_D4,2005,Whole Year,Sugarcane,490.4,38611,1267.3,78.734
+Bihar,BIHA_D4,2005,Rabi,Wheat,1138.6,4010.9,1267.3,3.523
+Bihar,BIHA_D4,2006,Kharif,Arhar/Tur,261.8,214.2,1099.9,0.818
+Bihar,BIHA_D4,2006,Kharif,Bajra,671.6,904.5,1099.9,1.347
+Bihar,BIHA_D4,2006,Kharif,Groundnut,744.9,983.9,1099.9,1.321
+Bihar,BIHA_D4,2006,Kharif,Jowar,1605.5,1543.8,1099.9,0.962
+Bihar,BIHA_D4,2006,Kharif,Rice,346.6,629.1,1099.9,1.815
+Bihar,BIHA_D4,2007,Rabi,Jowar,2118.4,1821.5,1204.2,0.86
+Bihar,BIHA_D4,2007,Kharif,Maize,1010.9,3143.3,1204.2,3.109
+Bihar,BIHA_D4,2007,Kharif,Rice,62.8,142.4,1204.2,2.268
+Bihar,BIHA_D4,2007,Kharif,Soyabean,942,1234.8,1204.2,1.311
+Bihar,BIHA_D4,2007,Whole Year,Sugarcane,166.6,10152.2,1204.2,60.938
+Bihar,BIHA_D4,2008,Kharif,Bajra,242.2,289.4,994.4,1.195
+Bihar,BIHA_D4,2008,Kharif,Soyabean,568.3,496.1,994.4,0.873
+Bihar,BIHA_D4,2008,Rabi,Wheat,990.5,3340.4,994.4,3.372
+Bihar,BIHA_D4,2009,Kharif,Arhar/Tur,53.2,66,1398.7,1.241
+Bihar,BIHA_D4,2009,Kharif,Bajra,1363.6,1457.9,1398.7,1.069
+Bihar,BIHA_D4,2009,Kharif,Jowar,958.6,1181.7,1398.7,1.233
+Bihar,BIHA_D4,2009,Whole Year,Sugarcane,336.6,20888.9,1398.7,62.059
+Bihar,BIHA_D4,2010,Kharif,Cotton(Lint),286.4,187.9,1262,0.656
+Bihar,BIHA_D4,2010,Kharif,Maize,846.3,2422.7,1262,2.863
+Bihar,BIHA_D4,2010,Kharif,Rice,732.7,2386,1262,3.256
+Bihar,BIHA_D4,2011,Kharif,Arhar/Tur,1585,1352.1,1452.6,0.853
+Bihar,BIHA_D4,2011,Kharif,Bajra,1608.1,1399.8,1452.6,0.87
+Bihar,BIHA_D4,2011,Rabi,Groundnut,664,910.9,1452.6,1.372
+Bihar,BIHA_D4,2011,Kharif,Jowar,1791.7,1712.9,1452.6,0.956
+Bihar,BIHA_D4,2011,Whole Year,Sugarcane,603.6,43677.1,1452.6,72.361
+Bihar,BIHA_D4,2012,Kharif,Bajra,571.6,710.7,1355.6,1.243
+Bihar,BIHA_D4,2012,Kharif,Groundnut,3008.7,5718.1,1355.6,1.901
+Bihar,BIHA_D4,2012,Kharif,Maize,1336.4,3245.9,1355.6,2.429
+Bihar,BIHA_D4,2013,Rabi,Jowar,1810.3,1642.3,761.7,0.907
+Bihar,BIHA_D4,2013,Kharif,Soyabean,553.8,556.5,761.7,1.005
+Bihar,BIHA_D4,2013,Whole Year,Sugarcane,931.5,65320.8,761.7,70.124
+Bihar,BIHA_D4,2014,Kharif,Arhar/Tur,1454.3,1289.1,627,0.886
+Bihar,BIHA_D4,2014,Kharif,Groundnut,113.2,128.4,627,1.134
+Bihar,BIHA_D4,2014,Rabi,Maize,599,1412.3,627,2.358
+Bihar,BIHA_D4,2014,Whole Year,Sugarcane,908.4,66294.5,627,72.979
+Bihar,BIHA_D4,2014,Rabi,Wheat,1345.6,4485.7,627,3.334
+Bihar,BIHA_D4,2015,Kharif,Cotton(Lint),942,377.5,1047.9,0.401
+Bihar,BIHA_D4,2015,Rabi,Jowar,262.1,363.2,1047.9,1.386
+Bihar,BIHA_D4,2015,Rabi,Maize,821.8,2289.8,1047.9,2.786
+Bihar,BIHA_D4,2015,Whole Year,Sugarcane,262.6,17735.3,1047.9,67.537
+Bihar,BIHA_D5,2005,Kharif,Arhar/Tur,460.9,562.5,1267.3,1.22
+Bihar,BIHA_D5,2005,Kharif,Bajra,886.7,897.3,1267.3,1.012
+Bihar,BIHA_D5,2005,Kharif,Groundnut,395,722.5,1267.3,1.829
+Bihar,BIHA_D5,2005,Kharif,Soyabean,1314.2,1637.8,1267.3,1.246
+Bihar,BIHA_D5,2006,Kharif,Groundnut,1155.8,1169.7,1099.9,1.012
+Bihar,BIHA_D5,2006,Kharif,Jowar,2455,3768.6,1099.9,1.535
+Bihar,BIHA_D5,2006,Rabi,Maize,543.1,1597.8,1099.9,2.942
+Bihar,BIHA_D5,2006,Kharif,Soyabean,540.6,658.1,1099.9,1.217
+Bihar,BIHA_D5,2006,Rabi,Wheat,1100.3,3505.4,1099.9,3.186
+Bihar,BIHA_D5,2007,Kharif,Bajra,142.1,214.9,1204.2,1.512
+Bihar,BIHA_D5,2007,Kharif,Groundnut,322,323.7,1204.2,1.005
+Bihar,BIHA_D5,2007,Kharif,Jowar,606,948.6,1204.2,1.565
+Bihar,BIHA_D5,2007,Kharif,Rice,268.7,752.3,1204.2,2.8
+Bihar,BIHA_D5,2008,Kharif,Arhar/Tur,353.1,277.8,994.4,0.787
+Bihar,BIHA_D5,2008,Kharif,Cotton(Lint),1419.6,601.9,994.4,0.424
+Bihar,BIHA_D5,2008,Kharif,Rice,1044.7,2081.9,994.4,1.993
+Bihar,BIHA_D5,2009,Kharif,Arhar/Tur,1560,1956.1,1398.7,1.254
+Bihar,BIHA_D5,2009,Kharif,Groundnut,379,420.1,1398.7,1.108
+Bihar,BIHA_D5,2009,Autumn,Rice,907,1980.6,1398.7,2.184
+Bihar,BIHA_D5,2010,Kharif,Bajra,627,1050.8,1262,1.676
+Bihar,BIHA_D5,2010,Kharif,Groundnut,1657.1,2180.9,1262,1.316
+Bihar,BIHA_D5,2010,Rabi,Jowar,792.3,867,1262,1.094
+Bihar,BIHA_D5,2011,Kharif,Arhar/Tur,1078.5,1484.6,1452.6,1.377
+Bihar,BIHA_D5,2011,Kharif,Cotton(Lint),100.8,45,1452.6,0.446
+Bihar,BIHA_D5,2011,Autumn,Rice,449.3,1567.2,1452.6,3.488
+Bihar,BIHA_D5,2011,Whole Year,Sugarcane,851.6,73193.8,1452.6,85.949
+Bihar,BIHA_D5,2011,Rabi,Wheat,177.4,635.8,1452.6,3.584
+Bihar,BIHA_D5,2012,Kharif,Bajra,601.2,1003.1,1355.6,1.668
+Bihar,BIHA_D5,2012,Kharif,Groundnut,515.8,886.5,1355.6,1.719
+Bihar,BIHA_D5,2012,Kharif,Jowar,1466,1150,1355.6,0.784
+Bihar,BIHA_D5,2012,Whole Year,Sugarcane,1286.3,81657,1355.6,63.482
+Bihar,BIHA_D5,2013,Kharif,Bajra,439.4,518,761.7,1.179
+Bihar,BIHA_D5,2013,Kharif,Cotton(Lint),871.2,441.6,761.7,0.507
+Bihar,BIHA_D5,2013,Kharif,Jowar,183,185.5,761.7,1.014
+Bihar,BIHA_D5,2013,Rabi,Wheat,1249.6,3917.1,761.7,3.135
+Bihar,BIHA_D5,2014,Kharif,Arhar/Tur,1845.8,1977.2,627,1.071
+Bihar,BIHA_D5,2014,Kharif,Cotton(Lint),768.1,345.3,627,0.45
+Bihar,BIHA_D5,2014,Rabi,Jowar,1005.2,721.2,627,0.717
+Bihar,BIHA_D5,2014,Kharif,Rice,551.8,1556,627,2.82
+Bihar,BIHA_D5,2015,Kharif,Arhar/Tur,270.1,215.1,1047.9,0.796
+Bihar,BIHA_D5,2015,Kharif,Bajra,50,66.1,1047.9,1.322
+Bihar,BIHA_D5,2015,Kharif,Groundnut,1063.9,1089.7,1047.9,1.024
+Bihar,BIHA_D5,2015,Rabi,Wheat,398.7,1299.4,1047.9,3.259
+Gujarat,GUJA_D1,2005,Kharif,Bajra,781.9,643.7,624.3,0.823
+Gujarat,GUJA_D1,2005,Kharif,Groundnut,1429.6,1854.2,624.3,1.297
+Gujarat,GUJA_D1,2005,Rabi,Maize,748.1,1069,624.3,1.429
+Gujarat,GUJA_D1,2005,Kharif,Rice,981.1,2928.3,624.3,2.985
+Gujarat,GUJA_D1,2005,Rabi,Wheat,655.3,1430.4,624.3,2.183
+Gujarat,GUJA_D1,2006,Kharif,Cotton(Lint),477.5,203.4,660.8,0.426
+Gujarat,GUJA_D1,2006,Kharif,Soyabean,237.2,258.3,660.8,1.089
+Gujarat,GUJA_D1,2006,Rabi,Wheat,491.3,1095.8,660.8,2.23
+Gujarat,GUJA_D1,2007,Kharif,Cotton(Lint),783,365.9,585.5,0.467
+Gujarat,GUJA_D1,2007,Rabi,Jowar,765,1122.1,585.5,1.467
+Gujarat,GUJA_D1,2007,Kharif,Rice,175.2,415.5,585.5,2.372
+Gujarat,GUJA_D1,2007,Whole Year,Sugarcane,441.6,24056.1,585.5,54.475
+Gujarat,GUJA_D1,2007,Rabi,Wheat,1066.4,3472,585.5,3.256
+Gujarat,GUJA_D1,2008,Kharif,Arhar/Tur,1289.4,1400,801.4,1.086
+Gujarat,GUJA_D1,2008,Kharif,Bajra,703.6,1197.9,801.4,1.703
+Gujarat,GUJA_D1,2008,Rabi,Groundnut,853.2,1202.3,801.4,1.409
+Gujarat,GUJA_D1,2008,Whole Year,Sugarcane,50,4094.6,801.4,81.892
+Gujarat,GUJA_D1,2008,Rabi,Wheat,331.5,726.3,801.4,2.191
+Gujarat,GUJA_D1,2009,Kharif,Cotton(Lint),625.6,291.8,734.6,0.466
+Gujarat,GUJA_D1,2009,Kharif,Jowar,1588.2,1180.7,734.6,0.743
+Gujarat,GUJA_D1,2009,Kharif,Rice,557.2,1788.3,734.6,3.209
+Gujarat,GUJA_D1,2009,Whole Year,Sugarcane,1416,92827.7,734.6,65.556
+Gujarat,GUJA_D1,2009,Rabi,Wheat,1251.6,4132.9,734.6,3.302
+Gujarat,GUJA_D1,2010,Rabi,Jowar,853.9,936.5,945.8,1.097
+Gujarat,GUJA_D1,2010,Kharif,Maize,404.3,1162.9,945.8,2.876
+Gujarat,GUJA_D1,2010,Kharif,Rice,1438.7,3247.4,945.8,2.257
+Gujarat,GUJA_D1,2010,Rabi,Wheat,278.5,1102.3,945.8,3.958
+Gujarat,GUJA_D1,2011,Kharif,Arhar/Tur,1142.3,657.2,598.8,0.575
+Gujarat,GUJA_D1,2011,Kharif,Jowar,585.2,466.1,598.8,0.796
+Gujarat,GUJA_D1,2011,Kharif,Rice,190.3,520.4,598.8,2.735
+Gujarat,GUJA_D1,2011,Whole Year,Sugarcane,1109.7,86525.1,598.8,77.972
+Gujarat,GUJA_D1,2012,Kharif,Bajra,391.5,606,774.6,1.548
+Gujarat,GUJA_D1,2012,Kharif,Cotton(Lint),532.4,260.8,774.6,0.49
+Gujarat,GUJA_D1,2012,Kharif,Soyabean,700.6,813.2,774.6,1.161
+Gujarat,GUJA_D1,2012,Rabi,Wheat,476.9,1566,774.6,3.284
+Gujarat,GUJA_D1,2013,Kharif,Arhar/Tur,261.6,275.1,682.8,1.052
+Gujarat,GUJA_D1,2013,Kharif,Bajra,498.1,791.5,682.8,1.589
+Gujarat,GUJA_D1,2013,Kharif,Maize,1144,2724.6,682.8,2.382
+Gujarat,GUJA_D1,2013,Whole Year,Sugarcane,2089.1,113516.4,682.8,54.337
+Gujarat,GUJA_D1,2014,Kharif,Arhar/Tur,1105.1,1030.7,639,0.933
+Gujarat,GUJA_D1,2014,Kharif,Groundnut,468.9,661.6,639,1.411
+Gujarat,GUJA_D1,2014,Whole Year,Sugarcane,297.7,16192.7,639,54.393
+Gujarat,GUJA_D1,2014,Rabi,Wheat,2245.7,4944.5,639,2.202
+Gujarat,GUJA_D1,2015,Kharif,Arhar/Tur,449.7,370.1,626.9,0.823
+Gujarat,GUJA_D1,2015,Kharif,Cotton(Lint),528.2,185.1,626.9,0.35
+Gujarat,GUJA_D1,2015,Kharif,Jowar,500.1,457.2,626.9,0.914
+Gujarat,GUJA_D1,2015,Kharif,Rice,217.2,382.3,626.9,1.76
+Gujarat,GUJA_D2,2005,Kharif,Bajra,1179.9,1398.3,624.3,1.185
+Gujarat,GUJA_D2,2005,Kharif,Maize,539,1621.5,624.3,3.008
+Gujarat,GUJA_D2,2005,Autumn,Rice,670.1,1224.2,624.3,1.827
+Gujarat,GUJA_D2,2005,Whole Year,Sugarcane,836.3,44330,624.3,53.007
+Gujarat,GUJA_D2,2005,Rabi,Wheat,139,291.9,624.3,2.1
+Gujarat,GUJA_D2,2006,Kharif,Groundnut,916.2,897.2,660.8,0.979
+Gujarat,GUJA_D2,2006,Kharif,Soyabean,886.9,1083.9,660.8,1.222
+Gujarat,GUJA_D2,2007,Kharif,Arhar/Tur,1599,1274,585.5,0.797
+Gujarat,GUJA_D2,2007,Rabi,Groundnut,392.3,601.4,585.5,1.533
+Gujarat,GUJA_D2,2007,Rabi,Maize,542.9,907.5,585.5,1.672
+Gujarat,GUJA_D2,2007,Autumn,Rice,1255.5,3989.3,585.5,3.177
+Gujarat,GUJA_D2,2008,Kharif,Arhar/Tur,1017.8,1166.3,801.4,1.146
+Gujarat,GUJA_D2,2008,Kharif,Jowar,717.6,849.8,801.4,1.184
+Gujarat,GUJA_D2,2008,Kharif,Rice,1575.4,3788.7,801.4,2.405
+Gujarat,GUJA_D2,2008,Kharif,Soyabean,676.3,905.1,801.4,1.338
+Gujarat,GUJA_D2,2008,Rabi,Wheat,929.3,3215.8,801.4,3.46
+Gujarat,GUJA_D2,2009,Kharif,Arhar/Tur,327.9,314.2,734.6,0.958
+Gujarat,GUJA_D2,2009,Kharif,Cotton(Lint),1154.1,454.8,734.6,0.394
+Gujarat,GUJA_D2,2009,Kharif,Jowar,171.1,129.9,734.6,0.759
+Gujarat,GUJA_D2,2009,Kharif,Rice,1587.3,5487.9,734.6,3.457
+Gujarat,GUJA_D2,2010,Kharif,Bajra,1367,1230.8,945.8,0.9
+Gujarat,GUJA_D2,2010,Kharif,Cotton(Lint),1156.7,440.5,945.8,0.381
+Gujarat,GUJA_D2,2010,Rabi,Maize,519.7,1083,945.8,2.084
+Gujarat,GUJA_D2,2011,Kharif,Cotton(Lint),805.1,492.9,598.8,0.612
+Gujarat,GUJA_D2,2011,Kharif,Rice,635.5,1426.6,598.8,2.245
+Gujarat,GUJA_D2,2011,Whole Year,Sugarcane,994.7,53072.4,598.8,53.355
+Gujarat,GUJA_D2,2012,Kharif,Bajra,537.1,552.4,774.6,1.028
+Gujarat,GUJA_D2,2012,Kharif,Cotton(Lint),1113.4,393.7,774.6,0.354
+Gujarat,GUJA_D2,2012,Kharif,Maize,966.9,2001.8,774.6,2.07
+Gujarat,GUJA_D2,2012,Kharif,Soyabean,162.5,181.5,774.6,1.117
+Gujarat,GUJA_D2,2012,Rabi,Wheat,350.2,1092.8,774.6,3.121
+Gujarat,GUJA_D2,2013,Kharif,Arhar/Tur,1680.6,1236.3,682.8,0.736
+Gujarat,GUJA_D2,2013,Kharif,Jowar,2170.1,3128.1,682.8,1.441
+Gujarat,GUJA_D2,2013,Kharif,Soyabean,446.1,395.1,682.8,0.886
+Gujarat,GUJA_D2,2013,Rabi,Wheat,1493.5,3377.1,682.8,2.261
+Gujarat,GUJA_D2,2014,Kharif,Arhar/Tur,1302.2,1302.1,639,1
+Gujarat,GUJA_D2,2014,Kharif,Cotton(Lint),1353.5,589,639,0.435
+Gujarat,GUJA_D2,2014,Kharif,Maize,382.8,1124.3,639,2.937
+Gujarat,GUJA_D2,2014,Kharif,Rice,1417.1,3840.2,639,2.71
+Gujarat,GUJA_D2,2015,Kharif,Arhar/Tur,193.1,159.1,626.9,0.824
+Gujarat,GUJA_D2,2015,Kharif,Bajra,1120.3,1473.1,626.9,1.315
+Gujarat,GUJA_D2,2015,Kharif,Groundnut,1305.4,1908.9,626.9,1.462
+Gujarat,GUJA_D2,2015,Kharif,Rice,1102.4,2818.9,626.9,2.557
+Gujarat,GUJA_D2,2015,Whole Year,Sugarcane,362.6,25855.1,626.9,71.305
+Gujarat,GUJA_D3,2005,Kharif,Bajra,708.1,1049.7,624.3,1.482
+Gujarat,GUJA_D3,2005,Kharif,Jowar,223.4,253.5,624.3,1.135
+Gujarat,GUJA_D3,2005,Whole Year,Sugarcane,342.9,24390.5,624.3,71.13
+Gujarat,GUJA_D3,2005,Rabi,Wheat,453.7,1046.1,624.3,2.306
+Gujarat,GUJA_D3,2006,Kharif,Cotton(Lint),535.8,207.6,660.8,0.387
+Gujarat,GUJA_D3,2006,Rabi,Groundnut,872.7,1227.8,660.8,1.407
+Gujarat,GUJA_D3,2006,Kharif,Maize,600.7,1312.5,660.8,2.185
+Gujarat,GUJA_D3,2006,Kharif,Soyabean,688.3,794,660.8,1.154
+Gujarat,GUJA_D3,2006,Rabi,Wheat,588.8,1612.6,660.8,2.739
+Gujarat,GUJA_D3,2007,Kharif,Jowar,496.8,466.4,585.5,0.939
+Gujarat,GUJA_D3,2007,Autumn,Rice,68.6,213.2,585.5,3.108
+Gujarat,GUJA_D3,2007,Rabi,Wheat,1181.9,3374.2,585.5,2.855
+Gujarat,GUJA_D3,2008,Kharif,Arhar/Tur,1035.3,796,801.4,0.769
+Gujarat,GUJA_D3,2008,Kharif,Bajra,943.4,941.4,801.4,0.998
+Gujarat,GUJA_D3,2008,Rabi,Jowar,781.3,1053.1,801.4,1.348
+Gujarat,GUJA_D3,2008,Kharif,Rice,585.1,1845.6,801.4,3.154
+Gujarat,GUJA_D3,2008,Whole Year,Sugarcane,432.9,28744.3,801.4,66.399
+Gujarat,GUJA_D3,2009,Kharif,Arhar/Tur,1062.5,723,734.6,0.68
+Gujarat,GUJA_D3,2009,Kharif,Groundnut,1148,1280,734.6,1.115
+Gujarat,GUJA_D3,2009,Kharif,Maize,791.1,2378,734.6,3.006
+Gujarat,GUJA_D3,2009,Kharif,Soyabean,1807.4,2640.4,734.6,1.461
+Gujarat,GUJA_D3,2010,Kharif,Arhar/Tur,337.2,397.5,945.8,1.179
+Gujarat,GUJA_D3,2010,Rabi,Jowar,684.9,944.2,945.8,1.379
+Gujarat,GUJA_D3,2010,Kharif,Rice,2079.2,6971.6,945.8,3.353
+Gujarat,GUJA_D3,2010,Whole Year,Sugarcane,688.4,54147.9,945.8,78.658
+Gujarat,GUJA_D3,2011,Kharif,Arhar/Tur,475.1,273.8,598.8,0.576
+Gujarat,GUJA_D3,2011,Kharif,Rice,1410.7,4202.9,598.8,2.979
+Gujarat,GUJA_D3,2011,Kharif,Soyabean,81.2,121.8,598.8,1.5
+Gujarat,GUJA_D3,2011,Whole Year,Sugarcane,1582.5,117115.5,598.8,74.007
+Gujarat,GUJA_D3,2012,Kharif,Cotton(Lint),494.4,333.6,774.6,0.675
+Gujarat,GUJA_D3,2012,Kharif,Maize,295.4,788.4,774.6,2.669
+Gujarat,GUJA_D3,2012,Kharif,Soyabean,685.8,858.7,774.6,1.252
+Gujarat,GUJA_D3,2012,Whole Year,Sugarcane,991.3,77271.6,774.6,77.95
+Gujarat,GUJA_D3,2013,Kharif,Arhar/Tur,935.7,840.1,682.8,0.898
+Gujarat,GUJA_D3,2013,Kharif,Cotton(Lint),290.9,137.5,682.8,0.473
+Gujarat,GUJA_D3,2013,Rabi,Groundnut,648.1,828.1,682.8,1.278
+Gujarat,GUJA_D3,2013,Rabi,Maize,1121.3,3011,682.8,2.685
+Gujarat,GUJA_D3,2013,Whole Year,Sugarcane,1348.8,81545.2,682.8,60.458
+Gujarat,GUJA_D3,2014,Kharif,Bajra,465.2,650.9,639,1.399
+Gujarat,GUJA_D3,2014,Kharif,Soyabean,234.3,191.8,639,0.819
+Gujarat,GUJA_D3,2014,Rabi,Wheat,1847.3,6274.5,639,3.397
+Gujarat,GUJA_D3,2015,Kharif,Groundnut,794.2,1173.5,626.9,1.478
+Gujarat,GUJA_D3,2015,Kharif,Rice,140.2,351.4,626.9,2.506
+Gujarat,GUJA_D3,2015,Kharif,Soyabean,1274.1,1432.7,626.9,1.124
+Gujarat,GUJA_D3,2015,Whole Year,Sugarcane,709.8,38407.7,626.9,54.111
+Gujarat,GUJA_D4,2005,Kharif,Cotton(Lint),1138.2,682,624.3,0.599
+Gujarat,GUJA_D4,2005,Rabi,Jowar,88.8,111.4,624.3,1.255
+Gujarat,GUJA_D4,2005,Rabi,Maize,235.8,465.3,624.3,1.973
+Gujarat,GUJA_D4,2005,Kharif,Soyabean,1669.6,2384.2,624.3,1.428
+Gujarat,GUJA_D4,2006,Kharif,Cotton(Lint),1026.5,601.2,660.8,0.586
+Gujarat,GUJA_D4,2006,Kharif,Soyabean,457,626.9,660.8,1.372
+Gujarat,GUJA_D4,2006,Whole Year,Sugarcane,368.8,19861.6,660.8,53.855
+Gujarat,GUJA_D4,2006,Rabi,Wheat,1445.1,5066.8,660.8,3.506
+Gujarat,GUJA_D4,2007,Kharif,Arhar/Tur,526.7,448.1,585.5,0.851
+Gujarat,GUJA_D4,2007,Kharif,Bajra,983.3,1436.2,585.5,1.461
+Gujarat,GUJA_D4,2007,Rabi,Jowar,2151.9,2202.8,585.5,1.024
+Gujarat,GUJA_D4,2007,Kharif,Maize,1111.6,2856.7,585.5,2.57
+Gujarat,GUJA_D4,2007,Autumn,Rice,200.6,669.6,585.5,3.338
+Gujarat,GUJA_D4,2008,Kharif,Arhar/Tur,1596.1,1364.1,801.4,0.855
+Gujarat,GUJA_D4,2008,Kharif,Groundnut,474.3,741,801.4,1.562
+Gujarat,GUJA_D4,2008,Rabi,Jowar,267.4,423.4,801.4,1.583
+Gujarat,GUJA_D4,2008,Autumn,Rice,2364.7,7771,801.4,3.286
+Gujarat,GUJA_D4,2009,Kharif,Bajra,475.9,732.3,734.6,1.539
+Gujarat,GUJA_D4,2009,Kharif,Jowar,2440.2,2218.8,734.6,0.909
+Gujarat,GUJA_D4,2009,Kharif,Rice,737.6,2544.5,734.6,3.45
+Gujarat,GUJA_D4,2010,Kharif,Arhar/Tur,888.6,872.4,945.8,0.982
+Gujarat,GUJA_D4,2010,Kharif,Cotton(Lint),635.9,443.3,945.8,0.697
+Gujarat,GUJA_D4,2010,Kharif,Soyabean,965.5,1162.6,945.8,1.204
+Gujarat,GUJA_D4,2011,Kharif,Cotton(Lint),1256.5,722.9,598.8,0.575
+Gujarat,GUJA_D4,2011,Kharif,Rice,376.8,1178.2,598.8,3.127
+Gujarat,GUJA_D4,2011,Kharif,Soyabean,585.3,759.4,598.8,1.297
+Gujarat,GUJA_D4,2011,Whole Year,Sugarcane,660.8,42316.1,598.8,64.038
+Gujarat,GUJA_D4,2011,Rabi,Wheat,753.3,1619.7,598.8,2.15
+Gujarat,GUJA_D4,2012,Kharif,Arhar/Tur,720.2,870.8,774.6,1.209
+Gujarat,GUJA_D4,2012,Kharif,Cotton(Lint),720.3,294.4,774.6,0.409
+Gujarat,GUJA_D4,2012,Rabi,Maize,1992.7,3120.1,774.6,1.566
+Gujarat,GUJA_D4,2012,Kharif,Soyabean,399.2,575,774.6,1.44
+Gujarat,GUJA_D4,2012,Whole Year,Sugarcane,246,14243.4,774.6,57.9
+Gujarat,GUJA_D4,2013,Kharif,Arhar/Tur,360.2,444.7,682.8,1.235
+Gujarat,GUJA_D4,2013,Kharif,Bajra,499.1,443.9,682.8,0.889
+Gujarat,GUJA_D4,2013,Kharif,Soyabean,909.7,864.7,682.8,0.951
+Gujarat,GUJA_D4,2013,Whole Year,Sugarcane,479.8,25956.7,682.8,54.099
+Gujarat,GUJA_D4,2014,Kharif,Arhar/Tur,449.6,519.4,639,1.155
+Gujarat,GUJA_D4,2014,Kharif,Bajra,824.9,977.2,639,1.185
+Gujarat,GUJA_D4,2014,Kharif,Groundnut,701.6,665.5,639,0.949
+Gujarat,GUJA_D4,2014,Kharif,Soyabean,1634.1,2207.5,639,1.351
+Gujarat,GUJA_D4,2015,Kharif,Arhar/Tur,220.1,188.5,626.9,0.856
+Gujarat,GUJA_D4,2015,Kharif,Bajra,1634.2,2090.2,626.9,1.279
+Gujarat,GUJA_D4,2015,Kharif,Cotton(Lint),811.6,373,626.9,0.46
+Gujarat,GUJA_D4,2015,Kharif,Soyabean,1361.4,1516.1,626.9,1.114
+Gujarat,GUJA_D5,2005,Rabi,Groundnut,734.3,730.6,624.3,0.995
+Gujarat,GUJA_D5,2005,Kharif,Soyabean,312.7,446.8,624.3,1.429
+Gujarat,GUJA_D5,2005,Rabi,Wheat,1560.4,3162.4,624.3,2.027
+Gujarat,GUJA_D5,2006,Kharif,Soyabean,807.3,625.1,660.8,0.774
+Gujarat,GUJA_D5,2006,Whole Year,Sugarcane,197,13134.7,660.8,66.674
+Gujarat,GUJA_D5,2006,Rabi,Wheat,1675.8,5946.2,660.8,3.548
+Gujarat,GUJA_D5,2007,Kharif,Bajra,1016.7,1266.7,585.5,1.246
+Gujarat,GUJA_D5,2007,Rabi,Groundnut,694.3,896.2,585.5,1.291
+Gujarat,GUJA_D5,2007,Autumn,Rice,1300.9,2843.4,585.5,2.186
+Gujarat,GUJA_D5,2007,Whole Year,Sugarcane,540.6,34470.2,585.5,63.763
+Gujarat,GUJA_D5,2008,Rabi,Jowar,219.2,245.7,801.4,1.121
+Gujarat,GUJA_D5,2008,Rabi,Maize,211.5,498.7,801.4,2.358
+Gujarat,GUJA_D5,2008,Kharif,Rice,510.7,964.4,801.4,1.888
+Gujarat,GUJA_D5,2008,Kharif,Soyabean,2248.5,2314,801.4,1.029
+Gujarat,GUJA_D5,2009,Kharif,Arhar/Tur,93.8,99.1,734.6,1.057
+Gujarat,GUJA_D5,2009,Kharif,Bajra,1197.2,1445.7,734.6,1.208
+Gujarat,GUJA_D5,2009,Kharif,Jowar,1229.5,1708.1,734.6,1.389
+Gujarat,GUJA_D5,2009,Rabi,Maize,356.1,604,734.6,1.696
+Gujarat,GUJA_D5,2009,Autumn,Rice,119.8,345.6,734.6,2.885
+Gujarat,GUJA_D5,2010,Kharif,Bajra,548.6,891.9,945.8,1.626
+Gujarat,GUJA_D5,2010,Rabi,Groundnut,250.6,408.7,945.8,1.631
+Gujarat,GUJA_D5,2010,Kharif,Jowar,773.8,1082.8,945.8,1.399
+Gujarat,GUJA_D5,2011,Kharif,Cotton(Lint),566.8,315,598.8,0.556
+Gujarat,GUJA_D5,2011,Kharif,Jowar,1283.4,1747.6,598.8,1.362
+Gujarat,GUJA_D5,2011,Autumn,Rice,756.1,2403.7,598.8,3.179
+Gujarat,GUJA_D5,2012,Kharif,Bajra,953.6,1239,774.6,1.299
+Gujarat,GUJA_D5,2012,Kharif,Cotton(Lint),1136.8,372.6,774.6,0.328
+Gujarat,GUJA_D5,2012,Kharif,Maize,503,1605.5,774.6,3.192
+Gujarat,GUJA_D5,2012,Rabi,Wheat,888,3059,774.6,3.445
+Gujarat,GUJA_D5,2013,Kharif,Arhar/Tur,2468.8,2676.8,682.8,1.084
+Gujarat,GUJA_D5,2013,Kharif,Groundnut,1310.4,1833.8,682.8,1.399
+Gujarat,GUJA_D5,2013,Whole Year,Sugarcane,630,40369.4,682.8,64.078
+Gujarat,GUJA_D5,2014,Kharif,Arhar/Tur,789.6,723,639,0.916
+Gujarat,GUJA_D5,2014,Kharif,Bajra,59.9,77.4,639,1.292
+Gujarat,GUJA_D5,2014,Kharif,Soyabean,688.7,786.9,639,1.143
+Gujarat,GUJA_D5,2014,Whole Year,Sugarcane,504.4,39116.3,639,77.55
+Gujarat,GUJA_D5,2015,Kharif,Arhar/Tur,1328.4,975.1,626.9,0.734
+Gujarat,GUJA_D5,2015,Kharif,Bajra,111.2,145.7,626.9,1.31
+Gujarat,GUJA_D5,2015,Whole Year,Sugarcane,901.1,47273.6,626.9,52.462
+Haryana,HARY_D1,2005,Kharif,Cotton(Lint),440.2,215.1,505.7,0.489
+Haryana,HARY_D1,2005,Kharif,Groundnut,1932.2,3394.4,505.7,1.757
+Haryana,HARY_D1,2005,Kharif,Jowar,341.8,367.6,505.7,1.075
+Haryana,HARY_D1,2005,Kharif,Maize,925.5,2735.2,505.7,2.955
+Haryana,HARY_D1,2006,Kharif,Bajra,1486.4,2251.7,532.4,1.515
+Haryana,HARY_D1,2006,Rabi,Maize,651.2,998,532.4,1.533
+Haryana,HARY_D1,2006,Kharif,Soyabean,414.5,582.5,532.4,1.405
+Haryana,HARY_D1,2006,Whole Year,Sugarcane,1020,56755.1,532.4,55.642
+Haryana,HARY_D1,2006,Rabi,Wheat,1505.5,4294.9,532.4,2.853
+Haryana,HARY_D1,2007,Kharif,Arhar/Tur,1221.5,1382.7,480.4,1.132
+Haryana,HARY_D1,2007,Kharif,Bajra,948.8,754.8,480.4,0.796
+Haryana,HARY_D1,2008,Kharif,Arhar/Tur,466.5,324.4,708.5,0.695
+Haryana,HARY_D1,2008,Kharif,Bajra,3231.9,5070.8,708.5,1.569
+Haryana,HARY_D1,2008,Autumn,Rice,872.2,2803.6,708.5,3.214
+Haryana,HARY_D1,2009,Kharif,Bajra,544.2,681.7,504.8,1.253
+Haryana,HARY_D1,2009,Rabi,Groundnut,1184.4,1367.8,504.8,1.155
+Haryana,HARY_D1,2009,Autumn,Rice,815.6,1483.6,504.8,1.819
+Haryana,HARY_D1,2010,Kharif,Groundnut,947.1,1214.1,552.9,1.282
+Haryana,HARY_D1,2010,Kharif,Rice,980.6,2928.5,552.9,2.986
+Haryana,HARY_D1,2010,Whole Year,Sugarcane,1016.5,56954.5,552.9,56.03
+Haryana,HARY_D1,2010,Rabi,Wheat,426.5,1345.7,552.9,3.155
+Haryana,HARY_D1,2011,Kharif,Arhar/Tur,940.8,1191.4,648.1,1.266
+Haryana,HARY_D1,2011,Kharif,Bajra,481.5,477.4,648.1,0.991
+Haryana,HARY_D1,2011,Kharif,Jowar,91.3,88.5,648.1,0.969
+Haryana,HARY_D1,2011,Autumn,Rice,407,1011.8,648.1,2.486
+Haryana,HARY_D1,2012,Rabi,Jowar,540.2,385.5,614.9,0.714
+Haryana,HARY_D1,2012,Kharif,Soyabean,1303.5,1501.2,614.9,1.152
+Haryana,HARY_D1,2012,Whole Year,Sugarcane,3359.6,252091.6,614.9,75.036
+Haryana,HARY_D1,2012,Rabi,Wheat,835.1,1861.9,614.9,2.23
+Haryana,HARY_D1,2013,Kharif,Jowar,128.3,146.5,415.8,1.142
+Haryana,HARY_D1,2013,Kharif,Rice,332.1,608.1,415.8,1.831
+Haryana,HARY_D1,2013,Kharif,Soyabean,1025.9,783.9,415.8,0.764
+Haryana,HARY_D1,2014,Kharif,Soyabean,931.4,1110.4,654.5,1.192
+Haryana,HARY_D1,2014,Whole Year,Sugarcane,1190.2,75232,654.5,63.21
+Haryana,HARY_D1,2014,Rabi,Wheat,308.1,904.1,654.5,2.934
+Haryana,HARY_D1,2015,Rabi,Jowar,361.8,535.7,635.3,1.481
+Haryana,HARY_D1,2015,Autumn,Rice,345.2,966,635.3,2.798
+Haryana,HARY_D1,2015,Rabi,Wheat,50,119.2,635.3,2.384
+Haryana,HARY_D2,2005,Kharif,Bajra,866.3,912.9,505.7,1.054
+Haryana,HARY_D2,2005,Rabi,Jowar,936.5,839.9,505.7,0.897
+Haryana,HARY_D2,2005,Whole Year,Sugarcane,2753.8,195012.4,505.7,70.816
+Haryana,HARY_D2,2006,Kharif,Arhar/Tur,1210.1,1409.4,532.4,1.165
+Haryana,HARY_D2,2006,Kharif,Cotton(Lint),1747.4,1092.5,532.4,0.625
+Haryana,HARY_D2,2006,Rabi,Groundnut,1164.6,1036.4,532.4,0.89
+Haryana,HARY_D2,2006,Rabi,Jowar,2068.5,1532.7,532.4,0.741
+Haryana,HARY_D2,2006,Autumn,Rice,779.3,1893.8,532.4,2.43
+Haryana,HARY_D2,2007,Kharif,Cotton(Lint),95.7,35.8,480.4,0.374
+Haryana,HARY_D2,2007,Rabi,Groundnut,518.4,870.2,480.4,1.679
+Haryana,HARY_D2,2007,Rabi,Wheat,937.4,2596.1,480.4,2.769
+Haryana,HARY_D2,2008,Kharif,Arhar/Tur,829.6,828.7,708.5,0.999
+Haryana,HARY_D2,2008,Kharif,Bajra,413.4,727,708.5,1.759
+Haryana,HARY_D2,2008,Kharif,Cotton(Lint),546,285.8,708.5,0.523
+Haryana,HARY_D2,2008,Rabi,Maize,1486.7,4460,708.5,3
+Haryana,HARY_D2,2008,Kharif,Soyabean,55.7,58.5,708.5,1.05
+Haryana,HARY_D2,2009,Kharif,Arhar/Tur,560.1,337.3,504.8,0.602
+Haryana,HARY_D2,2009,Kharif,Bajra,1434.9,1253.3,504.8,0.873
+Haryana,HARY_D2,2009,Kharif,Cotton(Lint),497.6,266.5,504.8,0.536
+Haryana,HARY_D2,2009,Rabi,Maize,1593.4,3029,504.8,1.901
+Haryana,HARY_D2,2010,Kharif,Arhar/Tur,528,436.3,552.9,0.826
+Haryana,HARY_D2,2010,Kharif,Bajra,409.1,507.9,552.9,1.242
+Haryana,HARY_D2,2010,Kharif,Jowar,784.6,1047.8,552.9,1.335
+Haryana,HARY_D2,2010,Rabi,Maize,526.4,1658.6,552.9,3.151
+Haryana,HARY_D2,2010,Whole Year,Sugarcane,3193.9,176332.5,552.9,55.209
+Haryana,HARY_D2,2011,Kharif,Cotton(Lint),117.1,59.6,648.1,0.509
+Haryana,HARY_D2,2011,Kharif,Groundnut,530.5,701.4,648.1,1.322
+Haryana,HARY_D2,2011,Kharif,Jowar,184.8,263.6,648.1,1.426
+Haryana,HARY_D2,2011,Rabi,Wheat,449,957.4,648.1,2.132
+Haryana,HARY_D2,2012,Kharif,Arhar/Tur,967.8,779.5,614.9,0.805
+Haryana,HARY_D2,2012,Rabi,Jowar,1298.9,2095.1,614.9,1.613
+Haryana,HARY_D2,2012,Rabi,Maize,552.9,1125.8,614.9,2.036
+Haryana,HARY_D2,2013,Kharif,Arhar/Tur,1001,736.4,415.8,0.736
+Haryana,HARY_D2,2013,Kharif,Cotton(Lint),528.8,242.6,415.8,0.459
+Haryana,HARY_D2,2013,Whole Year,Sugarcane,159.5,11160.8,415.8,69.974
+Haryana,HARY_D2,2014,Kharif,Jowar,1265.1,1036,654.5,0.819
+Haryana,HARY_D2,2014,Kharif,Soyabean,626.8,725.8,654.5,1.158
+Haryana,HARY_D2,2014,Rabi,Wheat,1875.5,5180,654.5,2.762
+Haryana,HARY_D2,2015,Kharif,Bajra,91.6,88.4,635.3,0.965
+Haryana,HARY_D2,2015,Kharif,Cotton(Lint),1479.1,740.8,635.3,0.501
+Haryana,HARY_D2,2015,Kharif,Groundnut,1021.5,979.1,635.3,0.958
+Haryana,HARY_D2,2015,Kharif,Maize,1149.1,2983.4,635.3,2.596
+Haryana,HARY_D2,2015,Rabi,Wheat,300.4,980.2,635.3,3.263
+Haryana,HARY_D3,2005,Kharif,Cotton(Lint),243.7,159.7,505.7,0.655
+Haryana,HARY_D3,2005,Rabi,Groundnut,716.1,810.2,505.7,1.131
+Haryana,HARY_D3,2005,Kharif,Jowar,633.5,735.6,505.7,1.161
+Haryana,HARY_D3,2005,Rabi,Wheat,1061.2,3339.3,505.7,3.147
+Haryana,HARY_D3,2006,Kharif,Arhar/Tur,1268.5,1277.7,532.4,1.007
+Haryana,HARY_D3,2006,Rabi,Groundnut,2178.9,2146.5,532.4,0.985
+Haryana,HARY_D3,2006,Kharif,Soyabean,167.1,132.3,532.4,0.792
+Haryana,HARY_D3,2006,Whole Year,Sugarcane,1337,106604.9,532.4,79.734
+Haryana,HARY_D3,2006,Rabi,Wheat,296.2,1080.2,532.4,3.647
+Haryana,HARY_D3,2007,Kharif,Bajra,2302,2231.9,480.4,0.97
+Haryana,HARY_D3,2007,Kharif,Cotton(Lint),539.6,274.4,480.4,0.509
+Haryana,HARY_D3,2007,Kharif,Groundnut,1309.6,1120,480.4,0.855
+Haryana,HARY_D3,2007,Rabi,Maize,697.6,1980.2,480.4,2.839
+Haryana,HARY_D3,2007,Autumn,Rice,731.2,1547.3,480.4,2.116
+Haryana,HARY_D3,2008,Kharif,Arhar/Tur,264,293.5,708.5,1.112
+Haryana,HARY_D3,2008,Kharif,Jowar,497.2,555.2,708.5,1.117
+Haryana,HARY_D3,2008,Kharif,Maize,1082.5,3303.1,708.5,3.051
+Haryana,HARY_D3,2008,Kharif,Rice,1368.9,3379.5,708.5,2.469
+Haryana,HARY_D3,2008,Rabi,Wheat,124.3,273.1,708.5,2.197
+Haryana,HARY_D3,2009,Kharif,Bajra,583.7,492.1,504.8,0.843
+Haryana,HARY_D3,2009,Kharif,Cotton(Lint),680.2,218.7,504.8,0.322
+Haryana,HARY_D3,2009,Rabi,Maize,485.2,1143.9,504.8,2.358
+Haryana,HARY_D3,2009,Kharif,Rice,1159.7,2304,504.8,1.987
+Haryana,HARY_D3,2010,Kharif,Arhar/Tur,352.6,293.6,552.9,0.833
+Haryana,HARY_D3,2010,Rabi,Groundnut,1104.6,1126.4,552.9,1.02
+Haryana,HARY_D3,2010,Whole Year,Sugarcane,1554.4,121675.4,552.9,78.278
+Haryana,HARY_D3,2010,Rabi,Wheat,62,185.7,552.9,2.995
+Haryana,HARY_D3,2011,Kharif,Arhar/Tur,203.4,161.6,648.1,0.794
+Haryana,HARY_D3,2011,Rabi,Groundnut,3075,5308.6,648.1,1.726
+Haryana,HARY_D3,2011,Kharif,Jowar,860.3,1261.2,648.1,1.466
+Haryana,HARY_D3,2011,Kharif,Soyabean,363,601,648.1,1.656
+Haryana,HARY_D3,2012,Kharif,Bajra,1104,1219.4,614.9,1.105
+Haryana,HARY_D3,2012,Kharif,Cotton(Lint),713.8,235.7,614.9,0.33
+Haryana,HARY_D3,2012,Kharif,Maize,1139,2097.8,614.9,1.842
+Haryana,HARY_D3,2012,Whole Year,Sugarcane,405.6,32931.2,614.9,81.191
+Haryana,HARY_D3,2013,Kharif,Bajra,493.7,658.1,415.8,1.333
+Haryana,HARY_D3,2013,Kharif,Cotton(Lint),1094.9,372.1,415.8,0.34
+Haryana,HARY_D3,2013,Kharif,Jowar,448.6,485.5,415.8,1.082
+Haryana,HARY_D3,2013,Rabi,Maize,542.1,1407.8,415.8,2.597
+Haryana,HARY_D3,2013,Kharif,Soyabean,1095,1304.1,415.8,1.191
+Haryana,HARY_D3,2014,Kharif,Bajra,682.8,870.4,654.5,1.275
+Haryana,HARY_D3,2014,Rabi,Groundnut,1266.3,2000.5,654.5,1.58
+Haryana,HARY_D3,2014,Whole Year,Sugarcane,128.7,8386.7,654.5,65.165
+Haryana,HARY_D3,2015,Kharif,Arhar/Tur,901.7,1133.9,635.3,1.258
+Haryana,HARY_D3,2015,Kharif,Bajra,769,982,635.3,1.277
+Haryana,HARY_D3,2015,Kharif,Groundnut,1785,3032.6,635.3,1.699
+Haryana,HARY_D3,2015,Kharif,Rice,1644,4320.7,635.3,2.628
+Haryana,HARY_D3,2015,Rabi,Wheat,1457.3,5095.4,635.3,3.496
+Haryana,HARY_D4,2005,Kharif,Maize,856.9,2327.3,505.7,2.716
+Haryana,HARY_D4,2005,Kharif,Rice,368.1,963.2,505.7,2.617
+Haryana,HARY_D4,2005,Rabi,Wheat,1061.2,3543.8,505.7,3.339
+Haryana,HARY_D4,2006,Kharif,Bajra,550.2,746,532.4,1.356
+Haryana,HARY_D4,2006,Kharif,Cotton(Lint),1532,853.9,532.4,0.557
+Haryana,HARY_D4,2006,Rabi,Wheat,777,2646.1,532.4,3.406
+Haryana,HARY_D4,2007,Kharif,Bajra,618.6,569.4,480.4,0.92
+Haryana,HARY_D4,2007,Kharif,Jowar,647.3,506.6,480.4,0.783
+Haryana,HARY_D4,2007,Kharif,Maize,254.5,540.8,480.4,2.125
+Haryana,HARY_D4,2008,Kharif,Cotton(Lint),209.3,109.8,708.5,0.525
+Haryana,HARY_D4,2008,Kharif,Jowar,480.3,718.8,708.5,1.497
+Haryana,HARY_D4,2008,Kharif,Soyabean,1703.2,2065,708.5,1.212
+Haryana,HARY_D4,2008,Whole Year,Sugarcane,937.2,69580.7,708.5,74.243
+Haryana,HARY_D4,2008,Rabi,Wheat,144.1,554.5,708.5,3.848
+Haryana,HARY_D4,2009,Kharif,Arhar/Tur,663.3,733.3,504.8,1.106
+Haryana,HARY_D4,2009,Rabi,Jowar,1437.9,1459,504.8,1.015
+Haryana,HARY_D4,2009,Kharif,Soyabean,295.5,228.9,504.8,0.775
+Haryana,HARY_D4,2010,Kharif,Bajra,1454,1461.3,552.9,1.005
+Haryana,HARY_D4,2010,Rabi,Groundnut,986.5,1565.6,552.9,1.587
+Haryana,HARY_D4,2010,Kharif,Jowar,698.6,1034,552.9,1.48
+Haryana,HARY_D4,2010,Kharif,Soyabean,1013.3,851.5,552.9,0.84
+Haryana,HARY_D4,2010,Rabi,Wheat,301.6,931,552.9,3.087
+Haryana,HARY_D4,2011,Kharif,Arhar/Tur,563.6,377.8,648.1,0.67
+Haryana,HARY_D4,2011,Kharif,Jowar,303.2,466.3,648.1,1.538
+Haryana,HARY_D4,2012,Kharif,Arhar/Tur,575.4,638.9,614.9,1.11
+Haryana,HARY_D4,2012,Kharif,Maize,166.4,367.5,614.9,2.209
+Haryana,HARY_D4,2012,Whole Year,Sugarcane,1073.2,70216.6,614.9,65.427
+Haryana,HARY_D4,2012,Rabi,Wheat,671.1,2564.3,614.9,3.821
+Haryana,HARY_D4,2013,Rabi,Jowar,1153.9,1576.4,415.8,1.366
+Haryana,HARY_D4,2013,Kharif,Soyabean,653.8,869.8,415.8,1.33
+Haryana,HARY_D4,2013,Whole Year,Sugarcane,816.1,51732.6,415.8,63.39
+Haryana,HARY_D4,2014,Kharif,Arhar/Tur,669.5,836,654.5,1.249
+Haryana,HARY_D4,2014,Kharif,Bajra,955.3,1405.7,654.5,1.471
+Haryana,HARY_D4,2014,Kharif,Soyabean,2803.8,3089.9,654.5,1.102
+Haryana,HARY_D4,2014,Rabi,Wheat,281.5,951.9,654.5,3.382
+Haryana,HARY_D4,2015,Kharif,Arhar/Tur,691.3,479,635.3,0.693
+Haryana,HARY_D4,2015,Kharif,Rice,1672.6,3883.4,635.3,2.322
+Haryana,HARY_D4,2015,Whole Year,Sugarcane,1346.7,94191.8,635.3,69.943
+Haryana,HARY_D5,2005,Kharif,Cotton(Lint),881.5,447.6,505.7,0.508
+Haryana,HARY_D5,2005,Kharif,Groundnut,2958.7,4117.8,505.7,1.392
+Haryana,HARY_D5,2005,Kharif,Maize,850.1,1522.5,505.7,1.791
+Haryana,HARY_D5,2005,Autumn,Rice,2139.2,5724,505.7,2.676
+Haryana,HARY_D5,2006,Kharif,Cotton(Lint),926.5,482.3,532.4,0.521
+Haryana,HARY_D5,2006,Rabi,Jowar,546.5,820.8,532.4,1.502
+Haryana,HARY_D5,2006,Rabi,Maize,1057.9,3205.2,532.4,3.03
+Haryana,HARY_D5,2006,Kharif,Soyabean,433.4,479.1,532.4,1.105
+Haryana,HARY_D5,2007,Kharif,Arhar/Tur,1018,1220.2,480.4,1.199
+Haryana,HARY_D5,2007,Rabi,Jowar,208.2,258.7,480.4,1.243
+Haryana,HARY_D5,2007,Rabi,Wheat,1298.1,3462.5,480.4,2.667
+Haryana,HARY_D5,2008,Kharif,Bajra,475.4,428.5,708.5,0.901
+Haryana,HARY_D5,2008,Kharif,Cotton(Lint),1304.5,526.2,708.5,0.403
+Haryana,HARY_D5,2008,Kharif,Maize,2139.4,4169.5,708.5,1.949
+Haryana,HARY_D5,2008,Kharif,Soyabean,207,324.2,708.5,1.566
+Haryana,HARY_D5,2008,Rabi,Wheat,1110.8,3551.2,708.5,3.197
+Haryana,HARY_D5,2009,Rabi,Jowar,1720.1,1223.7,504.8,0.711
+Haryana,HARY_D5,2009,Kharif,Soyabean,827.7,1241.8,504.8,1.5
+Haryana,HARY_D5,2009,Rabi,Wheat,1590.2,4403.7,504.8,2.769
+Haryana,HARY_D5,2010,Kharif,Arhar/Tur,876.4,752.8,552.9,0.859
+Haryana,HARY_D5,2010,Kharif,Bajra,1435,2242.3,552.9,1.563
+Haryana,HARY_D5,2010,Rabi,Jowar,550.4,777.9,552.9,1.413
+Haryana,HARY_D5,2010,Kharif,Maize,409,950,552.9,2.323
+Haryana,HARY_D5,2011,Rabi,Groundnut,190.9,209.6,648.1,1.098
+Haryana,HARY_D5,2011,Autumn,Rice,1205.6,4380.1,648.1,3.633
+Haryana,HARY_D5,2011,Kharif,Soyabean,998.4,1230,648.1,1.232
+Haryana,HARY_D5,2011,Rabi,Wheat,657.2,2185,648.1,3.325
+Haryana,HARY_D5,2012,Kharif,Arhar/Tur,312.1,359.9,614.9,1.153
+Haryana,HARY_D5,2012,Kharif,Bajra,1315.8,1991.8,614.9,1.514
+Haryana,HARY_D5,2012,Kharif,Cotton(Lint),1088.8,438.3,614.9,0.403
+Haryana,HARY_D5,2012,Rabi,Wheat,1745.1,5880.5,614.9,3.37
+Haryana,HARY_D5,2013,Kharif,Bajra,527.2,602.1,415.8,1.142
+Haryana,HARY_D5,2013,Rabi,Groundnut,2239.1,2490.7,415.8,1.112
+Haryana,HARY_D5,2013,Kharif,Rice,1254.7,2555.8,415.8,2.037
+Haryana,HARY_D5,2014,Rabi,Jowar,617.1,913.2,654.5,1.48
+Haryana,HARY_D5,2014,Kharif,Maize,663.1,1768.9,654.5,2.668
+Haryana,HARY_D5,2014,Autumn,Rice,776.7,1739.4,654.5,2.239
+Haryana,HARY_D5,2014,Kharif,Soyabean,593.4,715.1,654.5,1.205
+Haryana,HARY_D5,2014,Rabi,Wheat,2416.7,7588.2,654.5,3.14
+Haryana,HARY_D5,2015,Kharif,Cotton(Lint),708.9,470.8,635.3,0.664
+Haryana,HARY_D5,2015,Rabi,Groundnut,239.5,280.8,635.3,1.172
+Haryana,HARY_D5,2015,Kharif,Maize,1847.2,5397.1,635.3,2.922
+Haryana,HARY_D5,2015,Kharif,Soyabean,786,1230.8,635.3,1.566
+Karnataka,KARN_D1,2005,Kharif,Arhar/Tur,727.3,917.4,1065.8,1.261
+Karnataka,KARN_D1,2005,Kharif,Bajra,362.5,340.2,1065.8,0.938
+Karnataka,KARN_D1,2005,Kharif,Jowar,791.2,990.1,1065.8,1.251
+Karnataka,KARN_D1,2005,Kharif,Rice,1119.2,3600,1065.8,3.217
+Karnataka,KARN_D1,2005,Whole Year,Sugarcane,653,54700.4,1065.8,83.768
+Karnataka,KARN_D1,2006,Kharif,Arhar/Tur,1135.8,956.6,651.2,0.842
+Karnataka,KARN_D1,2006,Kharif,Groundnut,279,458.6,651.2,1.644
+Karnataka,KARN_D1,2006,Rabi,Jowar,1996.4,1974,651.2,0.989
+Karnataka,KARN_D1,2006,Whole Year,Sugarcane,2155.5,152317.6,651.2,70.665
+Karnataka,KARN_D1,2006,Rabi,Wheat,370,1189,651.2,3.214
+Karnataka,KARN_D1,2007,Kharif,Bajra,933.2,1264.8,940.1,1.355
+Karnataka,KARN_D1,2007,Kharif,Soyabean,1566.6,1844.2,940.1,1.177
+Karnataka,KARN_D1,2007,Whole Year,Sugarcane,902.2,67231.2,940.1,74.519
+Karnataka,KARN_D1,2008,Kharif,Arhar/Tur,380.3,273,708.1,0.718
+Karnataka,KARN_D1,2008,Kharif,Groundnut,1072.9,957.8,708.1,0.893
+Karnataka,KARN_D1,2008,Whole Year,Sugarcane,335.3,22337.7,708.1,66.62
+Karnataka,KARN_D1,2008,Rabi,Wheat,1236.6,3168.1,708.1,2.562
+Karnataka,KARN_D1,2009,Rabi,Groundnut,906.3,881,950.6,0.972
+Karnataka,KARN_D1,2009,Kharif,Soyabean,50,58.4,950.6,1.168
+Karnataka,KARN_D1,2009,Rabi,Wheat,2169.1,6631.7,950.6,3.057
+Karnataka,KARN_D1,2010,Rabi,Jowar,328.6,335.1,847,1.02
+Karnataka,KARN_D1,2010,Rabi,Maize,112.4,163.5,847,1.455
+Karnataka,KARN_D1,2010,Autumn,Rice,2130,4067.4,847,1.91
+Karnataka,KARN_D1,2010,Rabi,Wheat,182.4,383.3,847,2.101
+Karnataka,KARN_D1,2011,Kharif,Arhar/Tur,1824.8,1860.9,942.6,1.02
+Karnataka,KARN_D1,2011,Kharif,Cotton(Lint),962.5,649.7,942.6,0.675
+Karnataka,KARN_D1,2011,Rabi,Groundnut,1205.5,1152.8,942.6,0.956
+Karnataka,KARN_D1,2011,Kharif,Soyabean,455,533.3,942.6,1.172
+Karnataka,KARN_D1,2011,Whole Year,Sugarcane,653.5,54747.8,942.6,83.776
+Karnataka,KARN_D1,2012,Rabi,Jowar,378.6,353.5,1075.6,0.934
+Karnataka,KARN_D1,2012,Kharif,Maize,1372.4,4308.5,1075.6,3.139
+Karnataka,KARN_D1,2012,Kharif,Rice,1527.5,4083.3,1075.6,2.673
+Karnataka,KARN_D1,2012,Whole Year,Sugarcane,567.9,46298.4,1075.6,81.526
+Karnataka,KARN_D1,2013,Kharif,Cotton(Lint),286.7,121.8,932.8,0.425
+Karnataka,KARN_D1,2013,Rabi,Jowar,647.3,984.5,932.8,1.521
+Karnataka,KARN_D1,2013,Autumn,Rice,702.2,1740.2,932.8,2.478
+Karnataka,KARN_D1,2013,Rabi,Wheat,1893.3,6505.1,932.8,3.436
+Karnataka,KARN_D1,2014,Kharif,Bajra,1447,1479.2,971.9,1.022
+Karnataka,KARN_D1,2014,Kharif,Groundnut,1342.4,1638.2,971.9,1.22
+Karnataka,KARN_D1,2014,Kharif,Jowar,1424.2,1543.4,971.9,1.084
+Karnataka,KARN_D1,2014,Rabi,Maize,1238.5,2286.5,971.9,1.846
+Karnataka,KARN_D1,2015,Kharif,Groundnut,450.4,758,938.4,1.683
+Karnataka,KARN_D1,2015,Kharif,Jowar,847.8,624.5,938.4,0.737
+Karnataka,KARN_D1,2015,Kharif,Maize,1011.1,2734.6,938.4,2.705
+Karnataka,KARN_D2,2005,Kharif,Jowar,690.1,894.4,1065.8,1.296
+Karnataka,KARN_D2,2005,Kharif,Rice,902.3,2608.1,1065.8,2.891
+Karnataka,KARN_D2,2005,Kharif,Soyabean,728.8,943.8,1065.8,1.295
+Karnataka,KARN_D2,2005,Rabi,Wheat,1065.6,2595.8,1065.8,2.436
+Karnataka,KARN_D2,2006,Kharif,Bajra,473.1,411.6,651.2,0.87
+Karnataka,KARN_D2,2006,Rabi,Groundnut,912.9,961.7,651.2,1.053
+Karnataka,KARN_D2,2006,Whole Year,Sugarcane,1300.1,66659,651.2,51.272
+Karnataka,KARN_D2,2007,Kharif,Arhar/Tur,571.9,655.6,940.1,1.146
+Karnataka,KARN_D2,2007,Kharif,Bajra,609.8,538.3,940.1,0.883
+Karnataka,KARN_D2,2007,Kharif,Cotton(Lint),411,218,940.1,0.53
+Karnataka,KARN_D2,2007,Autumn,Rice,587.6,1223.1,940.1,2.082
+Karnataka,KARN_D2,2008,Kharif,Arhar/Tur,1132.6,1222.3,708.1,1.079
+Karnataka,KARN_D2,2008,Rabi,Groundnut,702.4,591.2,708.1,0.842
+Karnataka,KARN_D2,2008,Rabi,Jowar,1157.7,791.4,708.1,0.684
+Karnataka,KARN_D2,2009,Rabi,Groundnut,1034.7,1660.2,950.6,1.605
+Karnataka,KARN_D2,2009,Whole Year,Sugarcane,418.1,23537.6,950.6,56.297
+Karnataka,KARN_D2,2009,Rabi,Wheat,2028.4,4320.8,950.6,2.13
+Karnataka,KARN_D2,2010,Kharif,Bajra,894,747.3,847,0.836
+Karnataka,KARN_D2,2010,Autumn,Rice,117.9,280.7,847,2.381
+Karnataka,KARN_D2,2010,Kharif,Soyabean,1183.6,1198.4,847,1.013
+Karnataka,KARN_D2,2011,Kharif,Bajra,679,1013.3,942.6,1.492
+Karnataka,KARN_D2,2011,Rabi,Jowar,429.7,602.7,942.6,1.403
+Karnataka,KARN_D2,2011,Kharif,Soyabean,464.4,713.4,942.6,1.536
+Karnataka,KARN_D2,2012,Kharif,Bajra,1080.9,1342,1075.6,1.242
+Karnataka,KARN_D2,2012,Kharif,Maize,497.2,1567,1075.6,3.152
+Karnataka,KARN_D2,2013,Kharif,Groundnut,1203.2,1475.3,932.8,1.226
+Karnataka,KARN_D2,2013,Kharif,Jowar,390.7,320.6,932.8,0.821
+Karnataka,KARN_D2,2013,Rabi,Wheat,1342.5,4008.2,932.8,2.986
+Karnataka,KARN_D2,2014,Kharif,Cotton(Lint),1704.9,1085.2,971.9,0.637
+Karnataka,KARN_D2,2014,Rabi,Groundnut,1396.3,1510,971.9,1.081
+Karnataka,KARN_D2,2014,Kharif,Soyabean,985.9,1569.3,971.9,1.592
+Karnataka,KARN_D2,2014,Rabi,Wheat,1329.7,3852.6,971.9,2.897
+Karnataka,KARN_D2,2015,Kharif,Arhar/Tur,454.2,301.6,938.4,0.664
+Karnataka,KARN_D2,2015,Kharif,Cotton(Lint),533.2,212.4,938.4,0.398
+Karnataka,KARN_D2,2015,Rabi,Maize,718.8,1466.5,938.4,2.04
+Karnataka,KARN_D3,2005,Kharif,Bajra,193,175.3,1065.8,0.908
+Karnataka,KARN_D3,2005,Rabi,Groundnut,940.1,905.8,1065.8,0.964
+Karnataka,KARN_D3,2005,Rabi,Jowar,1172.1,1379.5,1065.8,1.177
+Karnataka,KARN_D3,2005,Kharif,Maize,487,1295.1,1065.8,2.659
+Karnataka,KARN_D3,2005,Autumn,Rice,117.1,424.8,1065.8,3.628
+Karnataka,KARN_D3,2006,Kharif,Arhar/Tur,663.9,623.8,651.2,0.94
+Karnataka,KARN_D3,2006,Kharif,Cotton(Lint),624.6,309.4,651.2,0.495
+Karnataka,KARN_D3,2006,Rabi,Groundnut,932.8,1127.5,651.2,1.209
+Karnataka,KARN_D3,2006,Whole Year,Sugarcane,345.3,20454.2,651.2,59.236
+Karnataka,KARN_D3,2007,Rabi,Jowar,1197.7,1457.6,940.1,1.217
+Karnataka,KARN_D3,2007,Kharif,Rice,571.3,1586.9,940.1,2.778
+Karnataka,KARN_D3,2007,Whole Year,Sugarcane,1444.9,96455,940.1,66.755
+Karnataka,KARN_D3,2008,Kharif,Arhar/Tur,1414.2,1293.1,708.1,0.914
+Karnataka,KARN_D3,2008,Kharif,Groundnut,1167,1851.4,708.1,1.586
+Karnataka,KARN_D3,2008,Rabi,Jowar,1702,1818.7,708.1,1.069
+Karnataka,KARN_D3,2008,Rabi,Wheat,767.2,2594,708.1,3.381
+Karnataka,KARN_D3,2009,Kharif,Arhar/Tur,1659.1,1500.9,950.6,0.905
+Karnataka,KARN_D3,2009,Kharif,Jowar,784,929.2,950.6,1.185
+Karnataka,KARN_D3,2009,Kharif,Maize,1547.1,2773,950.6,1.792
+Karnataka,KARN_D3,2009,Autumn,Rice,622.4,1206.1,950.6,1.938
+Karnataka,KARN_D3,2009,Kharif,Soyabean,786,990.4,950.6,1.26
+Karnataka,KARN_D3,2010,Rabi,Jowar,1083.2,1385.8,847,1.279
+Karnataka,KARN_D3,2010,Kharif,Soyabean,1811.7,1838.2,847,1.015
+Karnataka,KARN_D3,2010,Whole Year,Sugarcane,822.5,46622.1,847,56.683
+Karnataka,KARN_D3,2010,Rabi,Wheat,952.5,1922.5,847,2.018
+Karnataka,KARN_D3,2011,Kharif,Arhar/Tur,1127,1163.3,942.6,1.032
+Karnataka,KARN_D3,2011,Kharif,Cotton(Lint),707.3,378.1,942.6,0.535
+Karnataka,KARN_D3,2011,Kharif,Jowar,1774.7,1406.4,942.6,0.792
+Karnataka,KARN_D3,2011,Kharif,Maize,1601.9,5041,942.6,3.147
+Karnataka,KARN_D3,2012,Kharif,Cotton(Lint),480,277,1075.6,0.577
+Karnataka,KARN_D3,2012,Kharif,Soyabean,288.9,251.3,1075.6,0.87
+Karnataka,KARN_D3,2012,Rabi,Wheat,847.4,2882.7,1075.6,3.402
+Karnataka,KARN_D3,2013,Kharif,Rice,652.7,1724,932.8,2.641
+Karnataka,KARN_D3,2013,Whole Year,Sugarcane,1658.8,95283,932.8,57.441
+Karnataka,KARN_D3,2014,Kharif,Arhar/Tur,928.4,691.8,971.9,0.745
+Karnataka,KARN_D3,2014,Kharif,Maize,1712.2,4282.5,971.9,2.501
+Karnataka,KARN_D3,2014,Kharif,Soyabean,269.1,311.8,971.9,1.159
+Karnataka,KARN_D3,2014,Whole Year,Sugarcane,485.9,32969.2,971.9,67.852
+Karnataka,KARN_D3,2015,Kharif,Jowar,255.7,301.5,938.4,1.179
+Karnataka,KARN_D3,2015,Rabi,Maize,1256.6,2309.4,938.4,1.838
+Karnataka,KARN_D3,2015,Rabi,Wheat,422.9,1206.8,938.4,2.854
+Karnataka,KARN_D4,2005,Kharif,Groundnut,2160.5,3684.5,1065.8,1.705
+Karnataka,KARN_D4,2005,Rabi,Jowar,364.3,350.7,1065.8,0.963
+Karnataka,KARN_D4,2005,Whole Year,Sugarcane,302.7,23626.9,1065.8,78.054
+Karnataka,KARN_D4,2006,Kharif,Cotton(Lint),937.9,302.7,651.2,0.323
+Karnataka,KARN_D4,2006,Autumn,Rice,504.2,832.5,651.2,1.651
+Karnataka,KARN_D4,2006,Kharif,Soyabean,989.5,1016.3,651.2,1.027
+Karnataka,KARN_D4,2007,Kharif,Bajra,599.6,611.3,940.1,1.02
+Karnataka,KARN_D4,2007,Kharif,Cotton(Lint),848.6,325.1,940.1,0.383
+Karnataka,KARN_D4,2007,Whole Year,Sugarcane,561.6,42262.1,940.1,75.253
+Karnataka,KARN_D4,2008,Rabi,Groundnut,2063.7,3330.8,708.1,1.614
+Karnataka,KARN_D4,2008,Rabi,Jowar,1003.3,711.7,708.1,0.709
+Karnataka,KARN_D4,2008,Kharif,Maize,557,869.2,708.1,1.561
+Karnataka,KARN_D4,2008,Autumn,Rice,2191.9,4699.1,708.1,2.144
+Karnataka,KARN_D4,2009,Kharif,Arhar/Tur,1752.4,2052.7,950.6,1.171
+Karnataka,KARN_D4,2009,Kharif,Cotton(Lint),140.7,45.3,950.6,0.322
+Karnataka,KARN_D4,2009,Kharif,Soyabean,956.3,1186.2,950.6,1.24
+Karnataka,KARN_D4,2009,Rabi,Wheat,854.7,2385.5,950.6,2.791
+Karnataka,KARN_D4,2010,Kharif,Arhar/Tur,905.4,997.7,847,1.102
+Karnataka,KARN_D4,2010,Kharif,Bajra,70.2,111.6,847,1.59
+Karnataka,KARN_D4,2010,Kharif,Groundnut,151.4,164.6,847,1.087
+Karnataka,KARN_D4,2010,Kharif,Rice,2115.3,6877,847,3.251
+Karnataka,KARN_D4,2011,Kharif,Arhar/Tur,326,410.8,942.6,1.26
+Karnataka,KARN_D4,2011,Kharif,Cotton(Lint),1831.5,655.8,942.6,0.358
+Karnataka,KARN_D4,2011,Kharif,Groundnut,1599.8,1868.9,942.6,1.168
+Karnataka,KARN_D4,2011,Kharif,Maize,1533.4,2609.7,942.6,1.702
+Karnataka,KARN_D4,2011,Kharif,Soyabean,1494,1487.8,942.6,0.996
+Karnataka,KARN_D4,2012,Kharif,Cotton(Lint),702.1,239.2,1075.6,0.341
+Karnataka,KARN_D4,2012,Rabi,Maize,1099.4,1748,1075.6,1.59
+Karnataka,KARN_D4,2012,Kharif,Rice,1381.5,4663.8,1075.6,3.376
+Karnataka,KARN_D4,2012,Whole Year,Sugarcane,1181.5,96897.1,1075.6,82.012
+Karnataka,KARN_D4,2013,Kharif,Arhar/Tur,219.3,250.7,932.8,1.143
+Karnataka,KARN_D4,2013,Kharif,Bajra,1590.5,1918.5,932.8,1.206
+Karnataka,KARN_D4,2013,Kharif,Maize,622,1685.4,932.8,2.71
+Karnataka,KARN_D4,2013,Whole Year,Sugarcane,1456.2,87669,932.8,60.204
+Karnataka,KARN_D4,2014,Kharif,Cotton(Lint),799.2,523.2,971.9,0.655
+Karnataka,KARN_D4,2014,Kharif,Groundnut,847.1,1295.9,971.9,1.53
+Karnataka,KARN_D4,2014,Whole Year,Sugarcane,981.6,83523.3,971.9,85.089
+Karnataka,KARN_D4,2015,Kharif,Cotton(Lint),823.9,283.8,938.4,0.344
+Karnataka,KARN_D4,2015,Kharif,Groundnut,977.6,1594.8,938.4,1.631
+Karnataka,KARN_D4,2015,Kharif,Soyabean,1192.4,1583.6,938.4,1.328
+Karnataka,KARN_D5,2005,Kharif,Arhar/Tur,554,581,1065.8,1.049
+Karnataka,KARN_D5,2005,Rabi,Jowar,597.7,975.2,1065.8,1.632
+Karnataka,KARN_D5,2005,Whole Year,Sugarcane,1138.7,90817,1065.8,79.755
+Karnataka,KARN_D5,2006,Kharif,Bajra,1598.3,1206.9,651.2,0.755
+Karnataka,KARN_D5,2006,Kharif,Cotton(Lint),1328.7,472.8,651.2,0.356
+Karnataka,KARN_D5,2006,Rabi,Groundnut,992.8,1428,651.2,1.438
+Karnataka,KARN_D5,2006,Rabi,Maize,1082.3,1634.6,651.2,1.51
+Karnataka,KARN_D5,2006,Rabi,Wheat,206.5,679,651.2,3.288
+Karnataka,KARN_D5,2007,Kharif,Cotton(Lint),707,262.3,940.1,0.371
+Karnataka,KARN_D5,2007,Whole Year,Sugarcane,1573.7,93357.4,940.1,59.324
+Karnataka,KARN_D5,2008,Kharif,Bajra,574.7,779.5,708.1,1.356
+Karnataka,KARN_D5,2008,Rabi,Jowar,959.5,1031.3,708.1,1.075
+Karnataka,KARN_D5,2008,Kharif,Soyabean,1105.2,826.5,708.1,0.748
+Karnataka,KARN_D5,2008,Whole Year,Sugarcane,296.8,22308.1,708.1,75.162
+Karnataka,KARN_D5,2008,Rabi,Wheat,1819.5,4743.5,708.1,2.607
+Karnataka,KARN_D5,2009,Kharif,Cotton(Lint),1098.2,352.2,950.6,0.321
+Karnataka,KARN_D5,2009,Rabi,Jowar,525.8,770.9,950.6,1.466
+Karnataka,KARN_D5,2009,Autumn,Rice,792.9,1953.4,950.6,2.464
+Karnataka,KARN_D5,2009,Kharif,Soyabean,3150.3,4989.9,950.6,1.584
+Karnataka,KARN_D5,2010,Kharif,Bajra,213.2,310.8,847,1.458
+Karnataka,KARN_D5,2010,Kharif,Cotton(Lint),1146.7,425.1,847,0.371
+Karnataka,KARN_D5,2010,Rabi,Groundnut,2086,3162.9,847,1.516
+Karnataka,KARN_D5,2010,Rabi,Wheat,703.2,1447.9,847,2.059
+Karnataka,KARN_D5,2011,Kharif,Arhar/Tur,535.1,634.6,942.6,1.186
+Karnataka,KARN_D5,2011,Kharif,Cotton(Lint),943.3,425.4,942.6,0.451
+Karnataka,KARN_D5,2011,Rabi,Wheat,371.7,1384.7,942.6,3.725
+Karnataka,KARN_D5,2012,Kharif,Arhar/Tur,113.3,120.5,1075.6,1.064
+Karnataka,KARN_D5,2012,Kharif,Cotton(Lint),2033.5,1182.8,1075.6,0.582
+Karnataka,KARN_D5,2012,Kharif,Rice,473.6,1679.7,1075.6,3.547
+Karnataka,KARN_D5,2013,Kharif,Arhar/Tur,1151.1,930.5,932.8,0.808
+Karnataka,KARN_D5,2013,Rabi,Groundnut,865.3,1521,932.8,1.758
+Karnataka,KARN_D5,2013,Rabi,Jowar,464.4,683.3,932.8,1.471
+Karnataka,KARN_D5,2013,Whole Year,Sugarcane,576.3,33833.4,932.8,58.708
+Karnataka,KARN_D5,2014,Rabi,Jowar,610.8,794.4,971.9,1.301
+Karnataka,KARN_D5,2014,Autumn,Rice,700.6,1500.4,971.9,2.142
+Karnataka,KARN_D5,2014,Whole Year,Sugarcane,503.3,41935.4,971.9,83.321
+Karnataka,KARN_D5,2014,Rabi,Wheat,295.5,693,971.9,2.345
+Karnataka,KARN_D5,2015,Kharif,Groundnut,987.9,1553.2,938.4,1.572
+Karnataka,KARN_D5,2015,Whole Year,Sugarcane,1233.1,73057.1,938.4,59.247
+Karnataka,KARN_D5,2015,Rabi,Wheat,640.2,1358.8,938.4,2.122
+Madhya Pradesh,MADH_D1,2005,Kharif,Bajra,891.6,1118.6,1027.3,1.255
+Madhya Pradesh,MADH_D1,2005,Rabi,Groundnut,776.3,749.9,1027.3,0.966
+Madhya Pradesh,MADH_D1,2005,Rabi,Maize,645.9,1411.6,1027.3,2.185
+Madhya Pradesh,MADH_D1,2006,Kharif,Arhar/Tur,864.6,712.4,909.9,0.824
+Madhya Pradesh,MADH_D1,2006,Kharif,Groundnut,1140.7,1972.1,909.9,1.729
+Madhya Pradesh,MADH_D1,2006,Rabi,Maize,1013,1621.3,909.9,1.6
+Madhya Pradesh,MADH_D1,2006,Whole Year,Sugarcane,1184.7,94147.3,909.9,79.469
+Madhya Pradesh,MADH_D1,2007,Kharif,Arhar/Tur,1925.2,1436,1074.9,0.746
+Madhya Pradesh,MADH_D1,2007,Kharif,Bajra,1144.1,1724.1,1074.9,1.507
+Madhya Pradesh,MADH_D1,2007,Kharif,Rice,200.3,374,1074.9,1.867
+Madhya Pradesh,MADH_D1,2008,Kharif,Bajra,560.3,953.6,1114.5,1.702
+Madhya Pradesh,MADH_D1,2008,Kharif,Cotton(Lint),424.4,216.1,1114.5,0.509
+Madhya Pradesh,MADH_D1,2008,Kharif,Groundnut,1067.4,1529.7,1114.5,1.433
+Madhya Pradesh,MADH_D1,2008,Kharif,Maize,613.9,1796.8,1114.5,2.927
+Madhya Pradesh,MADH_D1,2008,Rabi,Wheat,661.6,2338.5,1114.5,3.535
+Madhya Pradesh,MADH_D1,2009,Kharif,Jowar,750,886.9,932.5,1.183
+Madhya Pradesh,MADH_D1,2009,Kharif,Maize,757.7,2144.7,932.5,2.831
+Madhya Pradesh,MADH_D1,2009,Whole Year,Sugarcane,274.7,22269.7,932.5,81.069
+Madhya Pradesh,MADH_D1,2010,Kharif,Arhar/Tur,1563.8,1631.1,962.5,1.043
+Madhya Pradesh,MADH_D1,2010,Kharif,Groundnut,311.6,367.4,962.5,1.179
+Madhya Pradesh,MADH_D1,2010,Kharif,Soyabean,1755.7,1408.3,962.5,0.802
+Madhya Pradesh,MADH_D1,2010,Whole Year,Sugarcane,1534.1,92579.8,962.5,60.348
+Madhya Pradesh,MADH_D1,2011,Kharif,Arhar/Tur,1936,2163.6,912.8,1.118
+Madhya Pradesh,MADH_D1,2011,Kharif,Cotton(Lint),1048,381.2,912.8,0.364
+Madhya Pradesh,MADH_D1,2011,Rabi,Groundnut,1750.9,2590.3,912.8,1.479
+Madhya Pradesh,MADH_D1,2011,Kharif,Rice,89.9,177.9,912.8,1.979
+Madhya Pradesh,MADH_D1,2011,Whole Year,Sugarcane,2380.1,158705.6,912.8,66.68
+Madhya Pradesh,MADH_D1,2012,Kharif,Rice,2156.2,4238.3,854.2,1.966
+Madhya Pradesh,MADH_D1,2012,Whole Year,Sugarcane,1295.6,92556.9,854.2,71.439
+Madhya Pradesh,MADH_D1,2012,Rabi,Wheat,529.1,1673.9,854.2,3.164
+Madhya Pradesh,MADH_D1,2013,Kharif,Groundnut,881.9,1541.2,1139.3,1.748
+Madhya Pradesh,MADH_D1,2013,Kharif,Jowar,1246.5,1600.3,1139.3,1.284
+Madhya Pradesh,MADH_D1,2013,Autumn,Rice,975.8,2049.9,1139.3,2.101
+Madhya Pradesh,MADH_D1,2014,Kharif,Arhar/Tur,1266.4,1458.4,871,1.152
+Madhya Pradesh,MADH_D1,2014,Kharif,Groundnut,1287.2,1962.6,871,1.525
+Madhya Pradesh,MADH_D1,2014,Kharif,Soyabean,169.9,168.9,871,0.994
+Madhya Pradesh,MADH_D1,2015,Kharif,Bajra,660.9,831.9,1039.6,1.259
+Madhya Pradesh,MADH_D1,2015,Kharif,Cotton(Lint),880.7,619.7,1039.6,0.704
+Madhya Pradesh,MADH_D1,2015,Kharif,Jowar,342.8,436,1039.6,1.272
+Madhya Pradesh,MADH_D1,2015,Rabi,Maize,974,2383.9,1039.6,2.448
+Madhya Pradesh,MADH_D1,2015,Whole Year,Sugarcane,867.5,66874.1,1039.6,77.088
+Madhya Pradesh,MADH_D2,2005,Kharif,Bajra,277.9,338.6,1027.3,1.218
+Madhya Pradesh,MADH_D2,2005,Autumn,Rice,74.4,266.6,1027.3,3.583
+Madhya Pradesh,MADH_D2,2005,Kharif,Soyabean,230,340.5,1027.3,1.48
+Madhya Pradesh,MADH_D2,2006,Kharif,Arhar/Tur,388.7,478.8,909.9,1.232
+Madhya Pradesh,MADH_D2,2006,Kharif,Bajra,192.7,179.1,909.9,0.929
+Madhya Pradesh,MADH_D2,2006,Kharif,Cotton(Lint),357.9,161.6,909.9,0.452
+Madhya Pradesh,MADH_D2,2006,Kharif,Maize,1669,3532.7,909.9,2.117
+Madhya Pradesh,MADH_D2,2006,Whole Year,Sugarcane,311.7,20743,909.9,66.548
+Madhya Pradesh,MADH_D2,2007,Kharif,Arhar/Tur,985,659.9,1074.9,0.67
+Madhya Pradesh,MADH_D2,2007,Kharif,Rice,867.1,2310.5,1074.9,2.665
+Madhya Pradesh,MADH_D2,2007,Rabi,Wheat,1509.9,4515.3,1074.9,2.99
+Madhya Pradesh,MADH_D2,2008,Kharif,Arhar/Tur,975.8,714,1114.5,0.732
+Madhya Pradesh,MADH_D2,2008,Kharif,Cotton(Lint),1101.3,651.1,1114.5,0.591
+Madhya Pradesh,MADH_D2,2008,Kharif,Rice,1415.4,3770,1114.5,2.664
+Madhya Pradesh,MADH_D2,2009,Kharif,Arhar/Tur,754.6,928,932.5,1.23
+Madhya Pradesh,MADH_D2,2009,Kharif,Bajra,212.1,275,932.5,1.297
+Madhya Pradesh,MADH_D2,2009,Autumn,Rice,390.8,815.8,932.5,2.088
+Madhya Pradesh,MADH_D2,2010,Kharif,Bajra,154.2,201.8,962.5,1.309
+Madhya Pradesh,MADH_D2,2010,Rabi,Groundnut,160,189.5,962.5,1.184
+Madhya Pradesh,MADH_D2,2010,Rabi,Maize,959.4,1545.1,962.5,1.61
+Madhya Pradesh,MADH_D2,2010,Kharif,Soyabean,1556.3,1661.9,962.5,1.068
+Madhya Pradesh,MADH_D2,2011,Kharif,Arhar/Tur,725.4,667.1,912.8,0.92
+Madhya Pradesh,MADH_D2,2011,Kharif,Bajra,906.9,1107.2,912.8,1.221
+Madhya Pradesh,MADH_D2,2011,Rabi,Wheat,631.6,2244.2,912.8,3.553
+Madhya Pradesh,MADH_D2,2012,Kharif,Cotton(Lint),1139.9,452.8,854.2,0.397
+Madhya Pradesh,MADH_D2,2012,Rabi,Maize,1631.5,2783.6,854.2,1.706
+Madhya Pradesh,MADH_D2,2012,Kharif,Soyabean,229.1,327.6,854.2,1.43
+Madhya Pradesh,MADH_D2,2013,Rabi,Maize,1390.5,4513.4,1139.3,3.246
+Madhya Pradesh,MADH_D2,2013,Kharif,Rice,404.3,1478,1139.3,3.656
+Madhya Pradesh,MADH_D2,2013,Rabi,Wheat,124.8,321.2,1139.3,2.574
+Madhya Pradesh,MADH_D2,2014,Kharif,Arhar/Tur,478.1,595.3,871,1.245
+Madhya Pradesh,MADH_D2,2014,Rabi,Groundnut,834,1087.1,871,1.303
+Madhya Pradesh,MADH_D2,2014,Kharif,Jowar,820.2,609.1,871,0.743
+Madhya Pradesh,MADH_D2,2014,Kharif,Maize,473.2,1334.3,871,2.82
+Madhya Pradesh,MADH_D2,2015,Kharif,Bajra,264.8,434,1039.6,1.639
+Madhya Pradesh,MADH_D2,2015,Kharif,Cotton(Lint),1103.2,453.4,1039.6,0.411
+Madhya Pradesh,MADH_D2,2015,Kharif,Groundnut,1272.3,2162.5,1039.6,1.7
+Madhya Pradesh,MADH_D2,2015,Autumn,Rice,845.3,2782.9,1039.6,3.292
+Madhya Pradesh,MADH_D2,2015,Whole Year,Sugarcane,1088.7,84655,1039.6,77.758
+Madhya Pradesh,MADH_D3,2005,Kharif,Cotton(Lint),624.1,218.5,1027.3,0.35
+Madhya Pradesh,MADH_D3,2005,Rabi,Maize,807.2,2216.8,1027.3,2.746
+Madhya Pradesh,MADH_D3,2005,Kharif,Soyabean,1976.8,1686.4,1027.3,0.853
+Madhya Pradesh,MADH_D3,2005,Whole Year,Sugarcane,1824.6,107929.5,1027.3,59.152
+Madhya Pradesh,MADH_D3,2005,Rabi,Wheat,321.4,1053.6,1027.3,3.278
+Madhya Pradesh,MADH_D3,2006,Kharif,Bajra,835.7,1062.7,909.9,1.272
+Madhya Pradesh,MADH_D3,2006,Rabi,Maize,1898.7,4724,909.9,2.488
+Madhya Pradesh,MADH_D3,2006,Whole Year,Sugarcane,839.7,63381.7,909.9,75.481
+Madhya Pradesh,MADH_D3,2007,Kharif,Cotton(Lint),2237.2,877.9,1074.9,0.392
+Madhya Pradesh,MADH_D3,2007,Autumn,Rice,3194,11168.9,1074.9,3.497
+Madhya Pradesh,MADH_D3,2007,Whole Year,Sugarcane,988.3,69411.3,1074.9,70.233
+Madhya Pradesh,MADH_D3,2008,Kharif,Cotton(Lint),456.3,290.7,1114.5,0.637
+Madhya Pradesh,MADH_D3,2008,Kharif,Rice,316.9,974.4,1114.5,3.075
+Madhya Pradesh,MADH_D3,2008,Whole Year,Sugarcane,826.6,58344.8,1114.5,70.584
+Madhya Pradesh,MADH_D3,2009,Kharif,Cotton(Lint),842.8,335,932.5,0.397
+Madhya Pradesh,MADH_D3,2009,Rabi,Groundnut,611.7,1032.1,932.5,1.687
+Madhya Pradesh,MADH_D3,2009,Kharif,Soyabean,2420,2544.9,932.5,1.052
+Madhya Pradesh,MADH_D3,2009,Rabi,Wheat,1752.9,4226.1,932.5,2.411
+Madhya Pradesh,MADH_D3,2010,Rabi,Groundnut,476.3,538,962.5,1.13
+Madhya Pradesh,MADH_D3,2010,Rabi,Maize,764.1,1534.9,962.5,2.009
+Madhya Pradesh,MADH_D3,2010,Rabi,Wheat,889.8,2170.6,962.5,2.439
+Madhya Pradesh,MADH_D3,2011,Kharif,Cotton(Lint),875.1,294.4,912.8,0.336
+Madhya Pradesh,MADH_D3,2011,Kharif,Jowar,204.8,154.8,912.8,0.756
+Madhya Pradesh,MADH_D3,2011,Whole Year,Sugarcane,245.7,14027.5,912.8,57.092
+Madhya Pradesh,MADH_D3,2012,Kharif,Arhar/Tur,679,425.9,854.2,0.627
+Madhya Pradesh,MADH_D3,2012,Kharif,Cotton(Lint),282.6,187.7,854.2,0.664
+Madhya Pradesh,MADH_D3,2012,Autumn,Rice,238.9,635.6,854.2,2.661
+Madhya Pradesh,MADH_D3,2013,Kharif,Arhar/Tur,1037.9,1384.1,1139.3,1.334
+Madhya Pradesh,MADH_D3,2013,Kharif,Rice,735.4,2318.4,1139.3,3.153
+Madhya Pradesh,MADH_D3,2013,Whole Year,Sugarcane,153.2,10771.8,1139.3,70.312
+Madhya Pradesh,MADH_D3,2014,Kharif,Arhar/Tur,1936.8,1148.6,871,0.593
+Madhya Pradesh,MADH_D3,2014,Rabi,Jowar,1315,1853.2,871,1.409
+Madhya Pradesh,MADH_D3,2014,Rabi,Wheat,825.6,1611.5,871,1.952
+Madhya Pradesh,MADH_D3,2015,Kharif,Cotton(Lint),2060.9,1015.3,1039.6,0.493
+Madhya Pradesh,MADH_D3,2015,Whole Year,Sugarcane,106.1,8855.2,1039.6,83.461
+Madhya Pradesh,MADH_D3,2015,Rabi,Wheat,711.3,2600.3,1039.6,3.656
+Madhya Pradesh,MADH_D4,2005,Kharif,Arhar/Tur,767.3,981.2,1027.3,1.279
+Madhya Pradesh,MADH_D4,2005,Kharif,Bajra,922.8,1462.1,1027.3,1.584
+Madhya Pradesh,MADH_D4,2005,Rabi,Maize,1348.4,2672.4,1027.3,1.982
+Madhya Pradesh,MADH_D4,2005,Autumn,Rice,689.3,2023.1,1027.3,2.935
+Madhya Pradesh,MADH_D4,2006,Kharif,Bajra,1301.7,1258.9,909.9,0.967
+Madhya Pradesh,MADH_D4,2006,Kharif,Cotton(Lint),728.6,387.4,909.9,0.532
+Madhya Pradesh,MADH_D4,2006,Rabi,Groundnut,409.1,730.8,909.9,1.786
+Madhya Pradesh,MADH_D4,2006,Kharif,Maize,1119.9,3102,909.9,2.77
+Madhya Pradesh,MADH_D4,2007,Rabi,Groundnut,731.1,1211.8,1074.9,1.658
+Madhya Pradesh,MADH_D4,2007,Rabi,Jowar,398.8,423.5,1074.9,1.062
+Madhya Pradesh,MADH_D4,2007,Kharif,Soyabean,763.8,1217.5,1074.9,1.594
+Madhya Pradesh,MADH_D4,2007,Whole Year,Sugarcane,829,64519.7,1074.9,77.828
+Madhya Pradesh,MADH_D4,2007,Rabi,Wheat,1202.2,3704.3,1074.9,3.081
+Madhya Pradesh,MADH_D4,2008,Kharif,Cotton(Lint),1383.4,950.5,1114.5,0.687
+Madhya Pradesh,MADH_D4,2008,Kharif,Groundnut,1374.9,1312.2,1114.5,0.954
+Madhya Pradesh,MADH_D4,2008,Kharif,Rice,754.3,2039,1114.5,2.703
+Madhya Pradesh,MADH_D4,2008,Kharif,Soyabean,1369.1,1803.3,1114.5,1.317
+Madhya Pradesh,MADH_D4,2008,Rabi,Wheat,611.3,1689.8,1114.5,2.764
+Madhya Pradesh,MADH_D4,2009,Kharif,Bajra,744.5,596.2,932.5,0.801
+Madhya Pradesh,MADH_D4,2009,Kharif,Groundnut,801.5,1293.7,932.5,1.614
+Madhya Pradesh,MADH_D4,2009,Rabi,Wheat,1262.9,3994.9,932.5,3.163
+Madhya Pradesh,MADH_D4,2010,Kharif,Arhar/Tur,240.4,211.1,962.5,0.878
+Madhya Pradesh,MADH_D4,2010,Rabi,Groundnut,1020.7,1133.8,962.5,1.111
+Madhya Pradesh,MADH_D4,2010,Rabi,Jowar,1396.4,999.3,962.5,0.716
+Madhya Pradesh,MADH_D4,2010,Whole Year,Sugarcane,2108.9,163866.7,962.5,77.702
+Madhya Pradesh,MADH_D4,2011,Kharif,Cotton(Lint),360.2,212.4,912.8,0.59
+Madhya Pradesh,MADH_D4,2011,Kharif,Groundnut,1522.6,1380.8,912.8,0.907
+Madhya Pradesh,MADH_D4,2011,Kharif,Maize,787.5,1290,912.8,1.638
+Madhya Pradesh,MADH_D4,2011,Kharif,Soyabean,1290,1892.8,912.8,1.467
+Madhya Pradesh,MADH_D4,2011,Rabi,Wheat,724.4,2669,912.8,3.684
+Madhya Pradesh,MADH_D4,2012,Kharif,Arhar/Tur,644.3,566.9,854.2,0.88
+Madhya Pradesh,MADH_D4,2012,Kharif,Cotton(Lint),603.4,273,854.2,0.452
+Madhya Pradesh,MADH_D4,2012,Rabi,Maize,613.2,1143.7,854.2,1.865
+Madhya Pradesh,MADH_D4,2012,Whole Year,Sugarcane,2165.9,164042,854.2,75.738
+Madhya Pradesh,MADH_D4,2012,Rabi,Wheat,1155.1,2809.5,854.2,2.432
+Madhya Pradesh,MADH_D4,2013,Kharif,Arhar/Tur,651.1,834.2,1139.3,1.281
+Madhya Pradesh,MADH_D4,2013,Rabi,Groundnut,567.8,804.1,1139.3,1.416
+Madhya Pradesh,MADH_D4,2013,Kharif,Rice,472.3,1393,1139.3,2.949
+Madhya Pradesh,MADH_D4,2013,Kharif,Soyabean,953.6,1098.4,1139.3,1.152
+Madhya Pradesh,MADH_D4,2013,Rabi,Wheat,790.6,1839.6,1139.3,2.327
+Madhya Pradesh,MADH_D4,2014,Kharif,Cotton(Lint),2659,1603.7,871,0.603
+Madhya Pradesh,MADH_D4,2014,Kharif,Maize,711.6,1525.5,871,2.144
+Madhya Pradesh,MADH_D4,2014,Kharif,Soyabean,2634.1,2627.2,871,0.997
+Madhya Pradesh,MADH_D4,2015,Kharif,Cotton(Lint),566.3,315.3,1039.6,0.557
+Madhya Pradesh,MADH_D4,2015,Kharif,Jowar,261.9,348.2,1039.6,1.33
+Madhya Pradesh,MADH_D4,2015,Rabi,Wheat,1357.2,5103.3,1039.6,3.76
+Madhya Pradesh,MADH_D5,2005,Kharif,Cotton(Lint),888.5,465.9,1027.3,0.524
+Madhya Pradesh,MADH_D5,2005,Rabi,Maize,703.8,1783.4,1027.3,2.534
+Madhya Pradesh,MADH_D5,2005,Autumn,Rice,808.6,2132.9,1027.3,2.638
+Madhya Pradesh,MADH_D5,2005,Whole Year,Sugarcane,406.7,27458.4,1027.3,67.515
+Madhya Pradesh,MADH_D5,2006,Kharif,Bajra,435.2,598.1,909.9,1.374
+Madhya Pradesh,MADH_D5,2006,Rabi,Groundnut,345.4,605.1,909.9,1.752
+Madhya Pradesh,MADH_D5,2006,Kharif,Maize,456.5,669.1,909.9,1.466
+Madhya Pradesh,MADH_D5,2006,Rabi,Wheat,63.1,152.4,909.9,2.415
+Madhya Pradesh,MADH_D5,2007,Kharif,Arhar/Tur,510.2,330.8,1074.9,0.648
+Madhya Pradesh,MADH_D5,2007,Kharif,Cotton(Lint),637.9,288.2,1074.9,0.452
+Madhya Pradesh,MADH_D5,2007,Kharif,Groundnut,876.5,936.7,1074.9,1.069
+Madhya Pradesh,MADH_D5,2007,Rabi,Jowar,366.9,411.5,1074.9,1.122
+Madhya Pradesh,MADH_D5,2007,Whole Year,Sugarcane,668.4,53435.2,1074.9,79.945
+Madhya Pradesh,MADH_D5,2008,Kharif,Bajra,866.2,921.5,1114.5,1.064
+Madhya Pradesh,MADH_D5,2008,Kharif,Jowar,1393.5,2113.2,1114.5,1.516
+Madhya Pradesh,MADH_D5,2008,Kharif,Soyabean,2067.6,2907,1114.5,1.406
+Madhya Pradesh,MADH_D5,2008,Whole Year,Sugarcane,982.8,74470.2,1114.5,75.774
+Madhya Pradesh,MADH_D5,2009,Kharif,Arhar/Tur,1133.4,1341,932.5,1.183
+Madhya Pradesh,MADH_D5,2009,Kharif,Bajra,202.6,162.3,932.5,0.801
+Madhya Pradesh,MADH_D5,2009,Kharif,Maize,1141.6,2239.3,932.5,1.962
+Madhya Pradesh,MADH_D5,2009,Whole Year,Sugarcane,287.6,17885.4,932.5,62.188
+Madhya Pradesh,MADH_D5,2010,Kharif,Bajra,208.9,176.7,962.5,0.846
+Madhya Pradesh,MADH_D5,2010,Rabi,Groundnut,1438.3,2392.2,962.5,1.663
+Madhya Pradesh,MADH_D5,2010,Kharif,Maize,510.3,1100.9,962.5,2.157
+Madhya Pradesh,MADH_D5,2010,Kharif,Rice,293.5,613.5,962.5,2.09
+Madhya Pradesh,MADH_D5,2010,Rabi,Wheat,277.4,893.1,962.5,3.22
+Madhya Pradesh,MADH_D5,2011,Kharif,Cotton(Lint),2125,890.9,912.8,0.419
+Madhya Pradesh,MADH_D5,2011,Rabi,Maize,367.6,685.4,912.8,1.865
+Madhya Pradesh,MADH_D5,2011,Kharif,Soyabean,1503.2,2282.4,912.8,1.518
+Madhya Pradesh,MADH_D5,2011,Whole Year,Sugarcane,652.5,37823,912.8,57.966
+Madhya Pradesh,MADH_D5,2012,Kharif,Arhar/Tur,1001.1,822.4,854.2,0.821
+Madhya Pradesh,MADH_D5,2012,Rabi,Maize,1109.9,3358.1,854.2,3.026
+Madhya Pradesh,MADH_D5,2012,Rabi,Wheat,694.3,2027.1,854.2,2.92
+Madhya Pradesh,MADH_D5,2013,Kharif,Arhar/Tur,1133.1,1127.4,1139.3,0.995
+Madhya Pradesh,MADH_D5,2013,Rabi,Maize,234,524.4,1139.3,2.241
+Madhya Pradesh,MADH_D5,2013,Autumn,Rice,262.2,973.4,1139.3,3.712
+Madhya Pradesh,MADH_D5,2013,Kharif,Soyabean,1573.2,2271.4,1139.3,1.444
+Madhya Pradesh,MADH_D5,2013,Whole Year,Sugarcane,1400.9,115400.3,1139.3,82.376
+Madhya Pradesh,MADH_D5,2014,Kharif,Bajra,1243.3,1168.8,871,0.94
+Madhya Pradesh,MADH_D5,2014,Kharif,Cotton(Lint),2710.6,1048.1,871,0.387
+Madhya Pradesh,MADH_D5,2014,Kharif,Jowar,920,1036.4,871,1.127
+Madhya Pradesh,MADH_D5,2014,Rabi,Wheat,265.6,734.1,871,2.764
+Madhya Pradesh,MADH_D5,2015,Kharif,Bajra,2073.4,1925.1,1039.6,0.928
+Madhya Pradesh,MADH_D5,2015,Rabi,Jowar,1368.4,2133.1,1039.6,1.559
+Madhya Pradesh,MADH_D5,2015,Kharif,Rice,220.5,481.5,1039.6,2.184
+Madhya Pradesh,MADH_D5,2015,Whole Year,Sugarcane,947.8,57090.1,1039.6,60.234
+Madhya Pradesh,MADH_D5,2015,Rabi,Wheat,441.8,1378.4,1039.6,3.12
+Maharashtra,MAHA_D1,2005,Kharif,Cotton(Lint),423.9,153.2,1356.2,0.361
+Maharashtra,MAHA_D1,2005,Rabi,Wheat,568.4,1327.4,1356.2,2.335
+Maharashtra,MAHA_D1,2006,Kharif,Cotton(Lint),953,472.6,852.2,0.496
+Maharashtra,MAHA_D1,2006,Rabi,Groundnut,487.5,514.5,852.2,1.055
+Maharashtra,MAHA_D1,2006,Kharif,Soyabean,703.2,760.5,852.2,1.081
+Maharashtra,MAHA_D1,2006,Whole Year,Sugarcane,707.4,54071.2,852.2,76.437
+Maharashtra,MAHA_D1,2006,Rabi,Wheat,308.7,1051,852.2,3.405
+Maharashtra,MAHA_D1,2007,Kharif,Bajra,1295.9,1883.9,775.9,1.454
+Maharashtra,MAHA_D1,2007,Kharif,Groundnut,429.3,705.9,775.9,1.644
+Maharashtra,MAHA_D1,2007,Rabi,Maize,1995.1,4331.6,775.9,2.171
+Maharashtra,MAHA_D1,2007,Whole Year,Sugarcane,412.4,27429,775.9,66.511
+Maharashtra,MAHA_D1,2007,Rabi,Wheat,357.8,863.1,775.9,2.412
+Maharashtra,MAHA_D1,2008,Kharif,Cotton(Lint),522.4,202.1,1276.4,0.387
+Maharashtra,MAHA_D1,2008,Kharif,Groundnut,333.9,407.6,1276.4,1.221
+Maharashtra,MAHA_D1,2008,Kharif,Jowar,1121,1662.2,1276.4,1.483
+Maharashtra,MAHA_D1,2008,Autumn,Rice,1332.7,4895.7,1276.4,3.674
+Maharashtra,MAHA_D1,2009,Kharif,Groundnut,1798.6,2182.2,891.6,1.213
+Maharashtra,MAHA_D1,2009,Kharif,Rice,676.2,1341.2,891.6,1.983
+Maharashtra,MAHA_D1,2009,Kharif,Soyabean,2462.7,2367.6,891.6,0.961
+Maharashtra,MAHA_D1,2009,Whole Year,Sugarcane,574.2,44711.5,891.6,77.867
+Maharashtra,MAHA_D1,2009,Rabi,Wheat,427.9,1348.2,891.6,3.151
+Maharashtra,MAHA_D1,2010,Kharif,Cotton(Lint),980.5,627,921.1,0.639
+Maharashtra,MAHA_D1,2010,Autumn,Rice,242.6,530.2,921.1,2.185
+Maharashtra,MAHA_D1,2010,Whole Year,Sugarcane,1568.1,110432,921.1,70.424
+Maharashtra,MAHA_D1,2010,Rabi,Wheat,2309.1,8212.4,921.1,3.557
+Maharashtra,MAHA_D1,2011,Kharif,Arhar/Tur,1033.8,1002.1,1354.2,0.969
+Maharashtra,MAHA_D1,2011,Kharif,Cotton(Lint),532.5,209.4,1354.2,0.393
+Maharashtra,MAHA_D1,2011,Rabi,Jowar,568.2,453.4,1354.2,0.798
+Maharashtra,MAHA_D1,2011,Kharif,Maize,670.4,1810.2,1354.2,2.7
+Maharashtra,MAHA_D1,2011,Whole Year,Sugarcane,148.7,11370.9,1354.2,76.469
+Maharashtra,MAHA_D1,2012,Kharif,Arhar/Tur,379.8,298.3,1102.2,0.785
+Maharashtra,MAHA_D1,2012,Rabi,Groundnut,1846.9,2553,1102.2,1.382
+Maharashtra,MAHA_D1,2012,Whole Year,Sugarcane,1977.5,116037.1,1102.2,58.679
+Maharashtra,MAHA_D1,2013,Kharif,Arhar/Tur,626.1,512.8,931.6,0.819
+Maharashtra,MAHA_D1,2013,Kharif,Jowar,631.5,433.8,931.6,0.687
+Maharashtra,MAHA_D1,2013,Rabi,Maize,578.8,1492.1,931.6,2.578
+Maharashtra,MAHA_D1,2014,Rabi,Maize,1357.2,2792.3,1168.8,2.057
+Maharashtra,MAHA_D1,2014,Rabi,Wheat,1489.5,4629.7,1168.8,3.108
+Maharashtra,MAHA_D1,2015,Kharif,Cotton(Lint),522.9,287.9,1166.9,0.551
+Maharashtra,MAHA_D1,2015,Kharif,Maize,230.8,754.4,1166.9,3.269
+Maharashtra,MAHA_D1,2015,Autumn,Rice,1610.9,4202.2,1166.9,2.609
+Maharashtra,MAHA_D1,2015,Whole Year,Sugarcane,1566.3,96444.2,1166.9,61.575
+Maharashtra,MAHA_D2,2005,Kharif,Bajra,904.4,1625.1,1356.2,1.797
+Maharashtra,MAHA_D2,2005,Kharif,Cotton(Lint),852.9,505.7,1356.2,0.593
+Maharashtra,MAHA_D2,2005,Rabi,Groundnut,255.2,486.2,1356.2,1.905
+Maharashtra,MAHA_D2,2005,Rabi,Wheat,1113.6,2488.7,1356.2,2.235
+Maharashtra,MAHA_D2,2006,Kharif,Cotton(Lint),910.5,459.4,852.2,0.505
+Maharashtra,MAHA_D2,2006,Kharif,Groundnut,1151.9,1661.1,852.2,1.442
+Maharashtra,MAHA_D2,2006,Kharif,Soyabean,1209.4,1394.2,852.2,1.153
+Maharashtra,MAHA_D2,2007,Kharif,Bajra,378.4,432.7,775.9,1.143
+Maharashtra,MAHA_D2,2007,Kharif,Groundnut,612.5,1025.9,775.9,1.675
+Maharashtra,MAHA_D2,2007,Whole Year,Sugarcane,816.4,60780.2,775.9,74.449
+Maharashtra,MAHA_D2,2007,Rabi,Wheat,958.7,3167.4,775.9,3.304
+Maharashtra,MAHA_D2,2008,Kharif,Arhar/Tur,972.6,1105.2,1276.4,1.136
+Maharashtra,MAHA_D2,2008,Rabi,Maize,2939.5,7343.4,1276.4,2.498
+Maharashtra,MAHA_D2,2008,Autumn,Rice,1429.8,5227.4,1276.4,3.656
+Maharashtra,MAHA_D2,2008,Kharif,Soyabean,847.1,849,1276.4,1.002
+Maharashtra,MAHA_D2,2009,Kharif,Cotton(Lint),1707.1,956,891.6,0.56
+Maharashtra,MAHA_D2,2009,Kharif,Groundnut,1220.4,1945.6,891.6,1.594
+Maharashtra,MAHA_D2,2009,Kharif,Jowar,901,1173.9,891.6,1.303
+Maharashtra,MAHA_D2,2009,Whole Year,Sugarcane,444.3,33857.6,891.6,76.204
+Maharashtra,MAHA_D2,2010,Kharif,Soyabean,1188.4,1246,921.1,1.048
+Maharashtra,MAHA_D2,2010,Whole Year,Sugarcane,1178.1,88217,921.1,74.881
+Maharashtra,MAHA_D2,2010,Rabi,Wheat,1175.1,3102.4,921.1,2.64
+Maharashtra,MAHA_D2,2011,Kharif,Arhar/Tur,326.2,267,1354.2,0.819
+Maharashtra,MAHA_D2,2011,Kharif,Bajra,592.8,532.8,1354.2,0.899
+Maharashtra,MAHA_D2,2011,Kharif,Cotton(Lint),815.7,394.9,1354.2,0.484
+Maharashtra,MAHA_D2,2011,Kharif,Jowar,539.8,424.9,1354.2,0.787
+Maharashtra,MAHA_D2,2011,Autumn,Rice,1113.7,4334.1,1354.2,3.892
+Maharashtra,MAHA_D2,2012,Kharif,Soyabean,192.3,247.5,1102.2,1.287
+Maharashtra,MAHA_D2,2012,Whole Year,Sugarcane,638.7,48341.9,1102.2,75.688
+Maharashtra,MAHA_D2,2012,Rabi,Wheat,621.7,2179.8,1102.2,3.506
+Maharashtra,MAHA_D2,2013,Kharif,Arhar/Tur,52.9,65.7,931.6,1.242
+Maharashtra,MAHA_D2,2013,Kharif,Maize,929.1,2447.3,931.6,2.634
+Maharashtra,MAHA_D2,2013,Autumn,Rice,1026,2515.1,931.6,2.451
+Maharashtra,MAHA_D2,2013,Kharif,Soyabean,592.7,909.7,931.6,1.535
+Maharashtra,MAHA_D2,2013,Rabi,Wheat,427.5,1246.2,931.6,2.915
+Maharashtra,MAHA_D2,2014,Kharif,Arhar/Tur,553.1,640.9,1168.8,1.159
+Maharashtra,MAHA_D2,2014,Rabi,Groundnut,120.4,229.6,1168.8,1.907
+Maharashtra,MAHA_D2,2014,Rabi,Jowar,609,738.9,1168.8,1.213
+Maharashtra,MAHA_D2,2015,Kharif,Arhar/Tur,456.5,486.2,1166.9,1.065
+Maharashtra,MAHA_D2,2015,Rabi,Maize,967.6,1657.7,1166.9,1.713
+Maharashtra,MAHA_D2,2015,Rabi,Wheat,734.8,2177.3,1166.9,2.963
+Maharashtra,MAHA_D3,2005,Kharif,Bajra,603.5,701,1356.2,1.162
+Maharashtra,MAHA_D3,2005,Rabi,Groundnut,1857.5,3214.7,1356.2,1.731
+Maharashtra,MAHA_D3,2005,Kharif,Rice,1062.1,4119.7,1356.2,3.879
+Maharashtra,MAHA_D3,2005,Whole Year,Sugarcane,992.8,60487.7,1356.2,60.926
+Maharashtra,MAHA_D3,2005,Rabi,Wheat,101.6,396.4,1356.2,3.902
+Maharashtra,MAHA_D3,2006,Kharif,Arhar/Tur,853.7,804.7,852.2,0.943
+Maharashtra,MAHA_D3,2006,Rabi,Groundnut,620.1,757.7,852.2,1.222
+Maharashtra,MAHA_D3,2006,Kharif,Maize,253.6,732.7,852.2,2.889
+Maharashtra,MAHA_D3,2006,Whole Year,Sugarcane,666.8,37094.5,852.2,55.631
+Maharashtra,MAHA_D3,2006,Rabi,Wheat,2944.9,5741.6,852.2,1.95
+Maharashtra,MAHA_D3,2007,Kharif,Bajra,1217,1208,775.9,0.993
+Maharashtra,MAHA_D3,2007,Rabi,Jowar,540.7,484.2,775.9,0.896
+Maharashtra,MAHA_D3,2007,Autumn,Rice,847.4,2255.7,775.9,2.662
+Maharashtra,MAHA_D3,2007,Whole Year,Sugarcane,1841.6,110456.6,775.9,59.979
+Maharashtra,MAHA_D3,2008,Kharif,Cotton(Lint),247.1,126.9,1276.4,0.514
+Maharashtra,MAHA_D3,2008,Rabi,Jowar,293.6,460.3,1276.4,1.568
+Maharashtra,MAHA_D3,2008,Kharif,Maize,756.4,1877.6,1276.4,2.482
+Maharashtra,MAHA_D3,2008,Whole Year,Sugarcane,1965.9,149599.1,1276.4,76.097
+Maharashtra,MAHA_D3,2009,Kharif,Arhar/Tur,904.7,813.3,891.6,0.899
+Maharashtra,MAHA_D3,2009,Kharif,Cotton(Lint),358.3,123.1,891.6,0.344
+Maharashtra,MAHA_D3,2009,Kharif,Jowar,262.8,344.7,891.6,1.312
+Maharashtra,MAHA_D3,2009,Rabi,Wheat,305.5,909.8,891.6,2.978
+Maharashtra,MAHA_D3,2010,Kharif,Arhar/Tur,761.7,778.3,921.1,1.022
+Maharashtra,MAHA_D3,2010,Rabi,Groundnut,604.3,1023.3,921.1,1.693
+Maharashtra,MAHA_D3,2010,Kharif,Maize,773.7,1571.6,921.1,2.031
+Maharashtra,MAHA_D3,2010,Whole Year,Sugarcane,656.7,36496.3,921.1,55.575
+Maharashtra,MAHA_D3,2011,Autumn,Rice,1213.6,4561.3,1354.2,3.758
+Maharashtra,MAHA_D3,2011,Kharif,Soyabean,890.4,1422.9,1354.2,1.598
+Maharashtra,MAHA_D3,2011,Whole Year,Sugarcane,1793.7,151105,1354.2,84.242
+Maharashtra,MAHA_D3,2012,Kharif,Bajra,810.8,662.5,1102.2,0.817
+Maharashtra,MAHA_D3,2012,Kharif,Maize,1340.7,3167.1,1102.2,2.362
+Maharashtra,MAHA_D3,2012,Autumn,Rice,289.2,725.4,1102.2,2.508
+Maharashtra,MAHA_D3,2013,Kharif,Groundnut,803.4,1149.7,931.6,1.431
+Maharashtra,MAHA_D3,2013,Rabi,Maize,509.3,798.2,931.6,1.567
+Maharashtra,MAHA_D3,2013,Whole Year,Sugarcane,971.2,68018.8,931.6,70.036
+Maharashtra,MAHA_D3,2014,Kharif,Bajra,990.4,1241.8,1168.8,1.254
+Maharashtra,MAHA_D3,2014,Kharif,Cotton(Lint),779.9,396,1168.8,0.508
+Maharashtra,MAHA_D3,2014,Rabi,Wheat,466.6,1731.4,1168.8,3.711
+Maharashtra,MAHA_D3,2015,Kharif,Bajra,1223.3,1435.4,1166.9,1.173
+Maharashtra,MAHA_D3,2015,Kharif,Cotton(Lint),2160.2,859.1,1166.9,0.398
+Maharashtra,MAHA_D3,2015,Kharif,Jowar,1133.5,1654.6,1166.9,1.46
+Maharashtra,MAHA_D3,2015,Kharif,Maize,231.7,751.9,1166.9,3.245
+Maharashtra,MAHA_D3,2015,Rabi,Wheat,629.5,1914.9,1166.9,3.042
+Maharashtra,MAHA_D4,2005,Kharif,Arhar/Tur,1694.2,1188.1,1356.2,0.701
+Maharashtra,MAHA_D4,2005,Kharif,Cotton(Lint),800.5,564.3,1356.2,0.705
+Maharashtra,MAHA_D4,2005,Kharif,Groundnut,529.8,987.7,1356.2,1.864
+Maharashtra,MAHA_D4,2005,Rabi,Wheat,516.5,2048.7,1356.2,3.967
+Maharashtra,MAHA_D4,2006,Kharif,Jowar,667,548.2,852.2,0.822
+Maharashtra,MAHA_D4,2006,Autumn,Rice,232,612.7,852.2,2.641
+Maharashtra,MAHA_D4,2006,Whole Year,Sugarcane,1960.6,101781.3,852.2,51.913
+Maharashtra,MAHA_D4,2006,Rabi,Wheat,323.3,881.7,852.2,2.727
+Maharashtra,MAHA_D4,2007,Kharif,Cotton(Lint),241.5,139.4,775.9,0.577
+Maharashtra,MAHA_D4,2007,Autumn,Rice,2229.5,6864.8,775.9,3.079
+Maharashtra,MAHA_D4,2008,Kharif,Bajra,2846.4,3765.3,1276.4,1.323
+Maharashtra,MAHA_D4,2008,Rabi,Maize,262.6,534.9,1276.4,2.037
+Maharashtra,MAHA_D4,2008,Kharif,Rice,739.3,2255.5,1276.4,3.051
+Maharashtra,MAHA_D4,2008,Whole Year,Sugarcane,255.6,18867.5,1276.4,73.817
+Maharashtra,MAHA_D4,2008,Rabi,Wheat,1371.9,3664.1,1276.4,2.671
+Maharashtra,MAHA_D4,2009,Kharif,Cotton(Lint),270.7,112.5,891.6,0.416
+Maharashtra,MAHA_D4,2009,Rabi,Groundnut,517.5,903.2,891.6,1.745
+Maharashtra,MAHA_D4,2009,Rabi,Maize,769.4,1765.9,891.6,2.295
+Maharashtra,MAHA_D4,2009,Kharif,Soyabean,1799.1,2200.7,891.6,1.223
+Maharashtra,MAHA_D4,2010,Kharif,Arhar/Tur,1308.7,1511,921.1,1.155
+Maharashtra,MAHA_D4,2010,Rabi,Groundnut,1763.5,1872.6,921.1,1.062
+Maharashtra,MAHA_D4,2010,Kharif,Soyabean,539.1,552.3,921.1,1.024
+Maharashtra,MAHA_D4,2010,Whole Year,Sugarcane,402.4,30422.7,921.1,75.603
+Maharashtra,MAHA_D4,2010,Rabi,Wheat,1124.5,4014.6,921.1,3.57
+Maharashtra,MAHA_D4,2011,Kharif,Arhar/Tur,1276.8,1340.4,1354.2,1.05
+Maharashtra,MAHA_D4,2011,Kharif,Bajra,603.7,642.1,1354.2,1.064
+Maharashtra,MAHA_D4,2011,Rabi,Jowar,1226.8,1846.6,1354.2,1.505
+Maharashtra,MAHA_D4,2012,Rabi,Maize,642.2,1953.9,1102.2,3.043
+Maharashtra,MAHA_D4,2012,Kharif,Soyabean,676.7,557.1,1102.2,0.823
+Maharashtra,MAHA_D4,2012,Whole Year,Sugarcane,885.2,54964.2,1102.2,62.092
+Maharashtra,MAHA_D4,2013,Kharif,Bajra,988.6,1077,931.6,1.089
+Maharashtra,MAHA_D4,2013,Rabi,Jowar,75.6,66.3,931.6,0.877
+Maharashtra,MAHA_D4,2013,Autumn,Rice,1073.8,3452.1,931.6,3.215
+Maharashtra,MAHA_D4,2013,Whole Year,Sugarcane,1640.2,97801.3,931.6,59.628
+Maharashtra,MAHA_D4,2013,Rabi,Wheat,246.7,501.5,931.6,2.033
+Maharashtra,MAHA_D4,2014,Kharif,Bajra,834.9,1310,1168.8,1.569
+Maharashtra,MAHA_D4,2014,Autumn,Rice,821.4,2441.1,1168.8,2.972
+Maharashtra,MAHA_D4,2014,Kharif,Soyabean,1682.8,2658.3,1168.8,1.58
+Maharashtra,MAHA_D4,2014,Whole Year,Sugarcane,614,43803.9,1168.8,71.342
+Maharashtra,MAHA_D4,2015,Kharif,Bajra,630.3,936.3,1166.9,1.485
+Maharashtra,MAHA_D4,2015,Kharif,Cotton(Lint),810.3,435.1,1166.9,0.537
+Maharashtra,MAHA_D4,2015,Rabi,Jowar,512.1,610.6,1166.9,1.192
+Maharashtra,MAHA_D4,2015,Autumn,Rice,1218,4294.2,1166.9,3.526
+Maharashtra,MAHA_D4,2015,Rabi,Wheat,1341.6,3237.9,1166.9,2.413
+Maharashtra,MAHA_D5,2005,Kharif,Arhar/Tur,215.5,234,1356.2,1.086
+Maharashtra,MAHA_D5,2005,Rabi,Groundnut,452.2,457.4,1356.2,1.011
+Maharashtra,MAHA_D5,2005,Rabi,Maize,593.2,1739.9,1356.2,2.933
+Maharashtra,MAHA_D5,2005,Kharif,Soyabean,338.1,475.2,1356.2,1.406
+Maharashtra,MAHA_D5,2006,Kharif,Arhar/Tur,2215.8,1424.6,852.2,0.643
+Maharashtra,MAHA_D5,2006,Kharif,Cotton(Lint),1611.4,554.8,852.2,0.344
+Maharashtra,MAHA_D5,2006,Rabi,Jowar,819.3,1050,852.2,1.282
+Maharashtra,MAHA_D5,2006,Kharif,Rice,398.3,1240.3,852.2,3.114
+Maharashtra,MAHA_D5,2007,Kharif,Jowar,1506.5,1809.7,775.9,1.201
+Maharashtra,MAHA_D5,2007,Kharif,Maize,1250.2,3654.8,775.9,2.923
+Maharashtra,MAHA_D5,2007,Kharif,Rice,688.3,2194.2,775.9,3.188
+Maharashtra,MAHA_D5,2008,Kharif,Arhar/Tur,1690.3,2095.8,1276.4,1.24
+Maharashtra,MAHA_D5,2008,Kharif,Bajra,734.9,1287.1,1276.4,1.751
+Maharashtra,MAHA_D5,2008,Kharif,Groundnut,592.6,989.1,1276.4,1.669
+Maharashtra,MAHA_D5,2008,Autumn,Rice,1445.4,4990.4,1276.4,3.453
+Maharashtra,MAHA_D5,2008,Whole Year,Sugarcane,2186,146082.5,1276.4,66.826
+Maharashtra,MAHA_D5,2009,Kharif,Cotton(Lint),513.8,338.3,891.6,0.658
+Maharashtra,MAHA_D5,2009,Kharif,Jowar,182,195.1,891.6,1.072
+Maharashtra,MAHA_D5,2009,Whole Year,Sugarcane,1801.5,100097.7,891.6,55.564
+Maharashtra,MAHA_D5,2009,Rabi,Wheat,84,201,891.6,2.393
+Maharashtra,MAHA_D5,2010,Kharif,Arhar/Tur,261.6,199.1,921.1,0.761
+Maharashtra,MAHA_D5,2010,Kharif,Cotton(Lint),1013.7,499,921.1,0.492
+Maharashtra,MAHA_D5,2010,Rabi,Wheat,1891.5,6065.4,921.1,3.207
+Maharashtra,MAHA_D5,2011,Kharif,Bajra,710.4,1192.6,1354.2,1.679
+Maharashtra,MAHA_D5,2011,Kharif,Maize,1186.9,2383.8,1354.2,2.008
+Maharashtra,MAHA_D5,2011,Kharif,Soyabean,196.2,288.1,1354.2,1.468
+Maharashtra,MAHA_D5,2012,Kharif,Arhar/Tur,1865.5,2062.1,1102.2,1.105
+Maharashtra,MAHA_D5,2012,Kharif,Bajra,199.2,243.4,1102.2,1.222
+Maharashtra,MAHA_D5,2012,Kharif,Maize,108.6,325.7,1102.2,2.999
+Maharashtra,MAHA_D5,2012,Kharif,Rice,1061.7,1983.2,1102.2,1.868
+Maharashtra,MAHA_D5,2012,Rabi,Wheat,275.4,921.1,1102.2,3.345
+Maharashtra,MAHA_D5,2013,Kharif,Arhar/Tur,1599.2,1938,931.6,1.212
+Maharashtra,MAHA_D5,2013,Kharif,Cotton(Lint),1282,562.5,931.6,0.439
+Maharashtra,MAHA_D5,2013,Kharif,Maize,1125,3308.8,931.6,2.941
+Maharashtra,MAHA_D5,2013,Kharif,Rice,315.9,849.6,931.6,2.689
+Maharashtra,MAHA_D5,2014,Rabi,Jowar,1145.9,1257.3,1168.8,1.097
+Maharashtra,MAHA_D5,2014,Kharif,Soyabean,181.6,288.9,1168.8,1.591
+Maharashtra,MAHA_D5,2014,Whole Year,Sugarcane,340,23393,1168.8,68.803
+Maharashtra,MAHA_D5,2014,Rabi,Wheat,504.1,1862.1,1168.8,3.694
+Maharashtra,MAHA_D5,2015,Kharif,Arhar/Tur,529.9,478.9,1166.9,0.904
+Maharashtra,MAHA_D5,2015,Kharif,Cotton(Lint),319.8,167.7,1166.9,0.524
+Maharashtra,MAHA_D5,2015,Rabi,Maize,669.4,2146.2,1166.9,3.206
+Maharashtra,MAHA_D5,2015,Whole Year,Sugarcane,1585.3,131016.6,1166.9,82.645
+Odisha,ODIS_D1,2005,Kharif,Bajra,571.5,637.7,1609,1.116
+Odisha,ODIS_D1,2005,Rabi,Groundnut,669.5,1324.9,1609,1.979
+Odisha,ODIS_D1,2005,Rabi,Maize,1631.3,3410.5,1609,2.091
+Odisha,ODIS_D1,2005,Kharif,Soyabean,918.2,1294.4,1609,1.41
+Odisha,ODIS_D1,2005,Rabi,Wheat,414.3,1458.4,1609,3.52
+Odisha,ODIS_D1,2006,Kharif,Arhar/Tur,1276.1,1175.9,1170.6,0.921
+Odisha,ODIS_D1,2006,Kharif,Cotton(Lint),836.2,489.2,1170.6,0.585
+Odisha,ODIS_D1,2006,Rabi,Groundnut,477.7,858.7,1170.6,1.798
+Odisha,ODIS_D1,2006,Whole Year,Sugarcane,620.7,46557.4,1170.6,75.008
+Odisha,ODIS_D1,2007,Kharif,Arhar/Tur,561.7,586.9,1027.2,1.045
+Odisha,ODIS_D1,2007,Kharif,Bajra,990.3,1391,1027.2,1.405
+Odisha,ODIS_D1,2007,Kharif,Groundnut,948.2,1151.9,1027.2,1.215
+Odisha,ODIS_D1,2007,Autumn,Rice,292,507.5,1027.2,1.738
+Odisha,ODIS_D1,2008,Kharif,Bajra,701.5,643,1286.8,0.917
+Odisha,ODIS_D1,2008,Kharif,Cotton(Lint),553.1,199.3,1286.8,0.36
+Odisha,ODIS_D1,2008,Kharif,Maize,343.1,886.3,1286.8,2.583
+Odisha,ODIS_D1,2008,Kharif,Soyabean,700.1,637.3,1286.8,0.91
+Odisha,ODIS_D1,2009,Kharif,Cotton(Lint),340.1,122.5,1220.9,0.36
+Odisha,ODIS_D1,2009,Kharif,Soyabean,1619.6,1862.4,1220.9,1.15
+Odisha,ODIS_D1,2009,Rabi,Wheat,446.9,1116.7,1220.9,2.499
+Odisha,ODIS_D1,2010,Rabi,Groundnut,836,1410.1,1402.8,1.687
+Odisha,ODIS_D1,2010,Kharif,Rice,1542.3,3005.1,1402.8,1.948
+Odisha,ODIS_D1,2010,Rabi,Wheat,703.9,2658,1402.8,3.776
+Odisha,ODIS_D1,2011,Kharif,Jowar,2154.5,2164.3,1600.4,1.005
+Odisha,ODIS_D1,2011,Autumn,Rice,561.1,1296.5,1600.4,2.311
+Odisha,ODIS_D1,2011,Rabi,Wheat,1156.2,4197,1600.4,3.63
+Odisha,ODIS_D1,2012,Kharif,Arhar/Tur,626.9,736.9,1343.1,1.175
+Odisha,ODIS_D1,2012,Kharif,Groundnut,581.8,935.2,1343.1,1.607
+Odisha,ODIS_D1,2012,Whole Year,Sugarcane,511.4,37707.4,1343.1,73.734
+Odisha,ODIS_D1,2012,Rabi,Wheat,855.5,3074.9,1343.1,3.594
+Odisha,ODIS_D1,2013,Rabi,Maize,384.9,672.7,1565,1.748
+Odisha,ODIS_D1,2013,Whole Year,Sugarcane,252.6,18763.9,1565,74.283
+Odisha,ODIS_D1,2013,Rabi,Wheat,1074.4,3108.3,1565,2.893
+Odisha,ODIS_D1,2014,Kharif,Bajra,572.9,954.8,1314.7,1.667
+Odisha,ODIS_D1,2014,Rabi,Groundnut,533.1,517.3,1314.7,0.97
+Odisha,ODIS_D1,2014,Rabi,Wheat,102.6,300.1,1314.7,2.925
+Odisha,ODIS_D1,2015,Kharif,Arhar/Tur,489.9,514.9,1238.5,1.051
+Odisha,ODIS_D1,2015,Kharif,Bajra,803,1057.5,1238.5,1.317
+Odisha,ODIS_D1,2015,Kharif,Groundnut,1344.2,2218.6,1238.5,1.65
+Odisha,ODIS_D1,2015,Autumn,Rice,1656.3,4980.1,1238.5,3.007
+Odisha,ODIS_D1,2015,Rabi,Wheat,911.9,2775.7,1238.5,3.044
+Odisha,ODIS_D2,2005,Kharif,Jowar,2048.3,1767,1609,0.863
+Odisha,ODIS_D2,2005,Autumn,Rice,1049.2,3121.4,1609,2.975
+Odisha,ODIS_D2,2005,Rabi,Wheat,1464,3856.6,1609,2.634
+Odisha,ODIS_D2,2006,Kharif,Groundnut,606.4,766.9,1170.6,1.265
+Odisha,ODIS_D2,2006,Kharif,Jowar,901.3,1267.1,1170.6,1.406
+Odisha,ODIS_D2,2006,Rabi,Maize,758.9,1388.9,1170.6,1.83
+Odisha,ODIS_D2,2006,Kharif,Soyabean,854.1,1266.2,1170.6,1.482
+Odisha,ODIS_D2,2006,Rabi,Wheat,1277.8,3451.5,1170.6,2.701
+Odisha,ODIS_D2,2007,Kharif,Cotton(Lint),229.9,108.3,1027.2,0.471
+Odisha,ODIS_D2,2007,Rabi,Groundnut,665.6,849.9,1027.2,1.277
+Odisha,ODIS_D2,2007,Kharif,Jowar,769.7,875.4,1027.2,1.137
+Odisha,ODIS_D2,2007,Kharif,Soyabean,426.1,442.7,1027.2,1.039
+Odisha,ODIS_D2,2007,Rabi,Wheat,2232.3,6183.8,1027.2,2.77
+Odisha,ODIS_D2,2008,Rabi,Groundnut,274.8,483.4,1286.8,1.759
+Odisha,ODIS_D2,2008,Kharif,Jowar,893.2,954.6,1286.8,1.069
+Odisha,ODIS_D2,2008,Kharif,Maize,1254.4,3948.7,1286.8,3.148
+Odisha,ODIS_D2,2008,Autumn,Rice,85.2,180.7,1286.8,2.121
+Odisha,ODIS_D2,2009,Kharif,Bajra,2133.8,1855.6,1220.9,0.87
+Odisha,ODIS_D2,2009,Autumn,Rice,736.3,1866,1220.9,2.534
+Odisha,ODIS_D2,2009,Kharif,Soyabean,520.3,655.7,1220.9,1.26
+Odisha,ODIS_D2,2009,Whole Year,Sugarcane,681.9,48799,1220.9,71.563
+Odisha,ODIS_D2,2010,Kharif,Jowar,419.8,673,1402.8,1.603
+Odisha,ODIS_D2,2010,Whole Year,Sugarcane,224.8,19204.5,1402.8,85.429
+Odisha,ODIS_D2,2010,Rabi,Wheat,917.6,2869.9,1402.8,3.128
+Odisha,ODIS_D2,2011,Kharif,Bajra,1968.5,2371.8,1600.4,1.205
+Odisha,ODIS_D2,2011,Rabi,Groundnut,221.7,277,1600.4,1.249
+Odisha,ODIS_D2,2011,Kharif,Jowar,1004.4,1072.7,1600.4,1.068
+Odisha,ODIS_D2,2012,Kharif,Arhar/Tur,765,615,1343.1,0.804
+Odisha,ODIS_D2,2012,Kharif,Bajra,192.2,237.4,1343.1,1.235
+Odisha,ODIS_D2,2012,Kharif,Cotton(Lint),936,294.5,1343.1,0.315
+Odisha,ODIS_D2,2012,Rabi,Groundnut,1476.5,1847.8,1343.1,1.251
+Odisha,ODIS_D2,2013,Kharif,Bajra,556.5,595.4,1565,1.07
+Odisha,ODIS_D2,2013,Kharif,Cotton(Lint),1922.9,745.8,1565,0.388
+Odisha,ODIS_D2,2013,Kharif,Rice,957.5,2010.3,1565,2.1
+Odisha,ODIS_D2,2013,Kharif,Soyabean,1026.9,1169.1,1565,1.138
+Odisha,ODIS_D2,2014,Rabi,Maize,1381.8,2899,1314.7,2.098
+Odisha,ODIS_D2,2014,Kharif,Rice,538.3,1276.2,1314.7,2.371
+Odisha,ODIS_D2,2014,Kharif,Soyabean,314.9,404.6,1314.7,1.285
+Odisha,ODIS_D2,2014,Whole Year,Sugarcane,1391.9,97737.6,1314.7,70.219
+Odisha,ODIS_D2,2015,Kharif,Maize,298.5,504.6,1238.5,1.69
+Odisha,ODIS_D2,2015,Kharif,Rice,1240.4,2854.9,1238.5,2.302
+Odisha,ODIS_D2,2015,Whole Year,Sugarcane,577.1,43924.6,1238.5,76.113
+Odisha,ODIS_D2,2015,Rabi,Wheat,990.2,3233.5,1238.5,3.266
+Odisha,ODIS_D3,2005,Kharif,Bajra,1214.2,1552.1,1609,1.278
+Odisha,ODIS_D3,2005,Kharif,Cotton(Lint),318.5,172.4,1609,0.541
+Odisha,ODIS_D3,2005,Kharif,Soyabean,119.9,128.7,1609,1.073
+Odisha,ODIS_D3,2006,Kharif,Groundnut,382.5,439.2,1170.6,1.148
+Odisha,ODIS_D3,2006,Autumn,Rice,380.3,884.5,1170.6,2.326
+Odisha,ODIS_D3,2006,Whole Year,Sugarcane,213.7,17270.2,1170.6,80.815
+Odisha,ODIS_D3,2007,Kharif,Cotton(Lint),1903.3,1003.4,1027.2,0.527
+Odisha,ODIS_D3,2007,Whole Year,Sugarcane,1005.2,71173.5,1027.2,70.805
+Odisha,ODIS_D3,2007,Rabi,Wheat,791.7,2605.3,1027.2,3.291
+Odisha,ODIS_D3,2008,Kharif,Arhar/Tur,1272.2,988.3,1286.8,0.777
+Odisha,ODIS_D3,2008,Kharif,Bajra,656,902.8,1286.8,1.376
+Odisha,ODIS_D3,2008,Rabi,Maize,591.1,986.6,1286.8,1.669
+Odisha,ODIS_D3,2008,Kharif,Rice,439,1555.4,1286.8,3.543
+Odisha,ODIS_D3,2008,Whole Year,Sugarcane,977.1,64147.4,1286.8,65.651
+Odisha,ODIS_D3,2009,Kharif,Bajra,1065.4,1064.8,1220.9,0.999
+Odisha,ODIS_D3,2009,Kharif,Jowar,1324.4,1824.6,1220.9,1.378
+Odisha,ODIS_D3,2009,Rabi,Maize,553.1,1541.9,1220.9,2.788
+Odisha,ODIS_D3,2009,Kharif,Soyabean,332.4,357.7,1220.9,1.076
+Odisha,ODIS_D3,2010,Kharif,Rice,595,1733.9,1402.8,2.914
+Odisha,ODIS_D3,2010,Kharif,Soyabean,874.1,1133.3,1402.8,1.297
+Odisha,ODIS_D3,2010,Whole Year,Sugarcane,383.3,32146.5,1402.8,83.868
+Odisha,ODIS_D3,2011,Kharif,Arhar/Tur,1352.9,1121.5,1600.4,0.829
+Odisha,ODIS_D3,2011,Whole Year,Sugarcane,1228.1,92109.5,1600.4,75.002
+Odisha,ODIS_D3,2011,Rabi,Wheat,750.5,2055.1,1600.4,2.738
+Odisha,ODIS_D3,2012,Kharif,Cotton(Lint),1316,683.2,1343.1,0.519
+Odisha,ODIS_D3,2012,Whole Year,Sugarcane,146,10601.3,1343.1,72.612
+Odisha,ODIS_D3,2013,Kharif,Bajra,950.6,1376.4,1565,1.448
+Odisha,ODIS_D3,2013,Kharif,Cotton(Lint),1092.7,643.7,1565,0.589
+Odisha,ODIS_D3,2013,Kharif,Rice,930.4,2097.5,1565,2.254
+Odisha,ODIS_D3,2013,Whole Year,Sugarcane,626.3,36832.5,1565,58.81
+Odisha,ODIS_D3,2014,Kharif,Groundnut,896.6,1663.4,1314.7,1.855
+Odisha,ODIS_D3,2014,Rabi,Maize,367.5,636.5,1314.7,1.732
+Odisha,ODIS_D3,2014,Autumn,Rice,684.3,1706,1314.7,2.493
+Odisha,ODIS_D3,2015,Rabi,Groundnut,176.3,244.6,1238.5,1.387
+Odisha,ODIS_D3,2015,Kharif,Jowar,1209.3,1575.5,1238.5,1.303
+Odisha,ODIS_D3,2015,Kharif,Maize,167.5,275.3,1238.5,1.644
+Odisha,ODIS_D3,2015,Autumn,Rice,324,980.4,1238.5,3.026
+Odisha,ODIS_D3,2015,Kharif,Soyabean,768,810.6,1238.5,1.055
+Odisha,ODIS_D4,2005,Kharif,Arhar/Tur,1630.4,1289.9,1609,0.791
+Odisha,ODIS_D4,2005,Kharif,Jowar,462.5,693.5,1609,1.499
+Odisha,ODIS_D4,2005,Rabi,Maize,297.8,515.3,1609,1.73
+Odisha,ODIS_D4,2006,Kharif,Arhar/Tur,1227.5,1193.1,1170.6,0.972
+Odisha,ODIS_D4,2006,Kharif,Rice,821.5,2168.3,1170.6,2.639
+Odisha,ODIS_D4,2006,Whole Year,Sugarcane,2595,197702.8,1170.6,76.186
+Odisha,ODIS_D4,2007,Kharif,Cotton(Lint),1917.8,625.9,1027.2,0.326
+Odisha,ODIS_D4,2007,Kharif,Groundnut,808.1,914.8,1027.2,1.132
+Odisha,ODIS_D4,2007,Kharif,Soyabean,1619.3,2177.2,1027.2,1.345
+Odisha,ODIS_D4,2007,Whole Year,Sugarcane,1401.6,98280.5,1027.2,70.12
+Odisha,ODIS_D4,2008,Kharif,Arhar/Tur,927.6,1138.6,1286.8,1.227
+Odisha,ODIS_D4,2008,Rabi,Jowar,605.9,497.1,1286.8,0.82
+Odisha,ODIS_D4,2008,Rabi,Wheat,2348.9,8094.2,1286.8,3.446
+Odisha,ODIS_D4,2009,Rabi,Jowar,263,217.4,1220.9,0.827
+Odisha,ODIS_D4,2009,Rabi,Maize,1036,1871,1220.9,1.806
+Odisha,ODIS_D4,2009,Autumn,Rice,407.4,1074,1220.9,2.636
+Odisha,ODIS_D4,2009,Whole Year,Sugarcane,2996.3,237313.2,1220.9,79.202
+Odisha,ODIS_D4,2010,Kharif,Arhar/Tur,829.8,1012.2,1402.8,1.22
+Odisha,ODIS_D4,2010,Kharif,Bajra,2259.9,3792.3,1402.8,1.678
+Odisha,ODIS_D4,2011,Kharif,Bajra,534.4,928.5,1600.4,1.737
+Odisha,ODIS_D4,2011,Kharif,Cotton(Lint),212.1,76,1600.4,0.358
+Odisha,ODIS_D4,2011,Whole Year,Sugarcane,1324.6,88752.4,1600.4,67.003
+Odisha,ODIS_D4,2012,Kharif,Arhar/Tur,698.7,820.9,1343.1,1.175
+Odisha,ODIS_D4,2012,Kharif,Cotton(Lint),1114.5,352.7,1343.1,0.316
+Odisha,ODIS_D4,2012,Rabi,Jowar,1730.6,2099.5,1343.1,1.213
+Odisha,ODIS_D4,2012,Autumn,Rice,2176,5079.1,1343.1,2.334
+Odisha,ODIS_D4,2013,Rabi,Groundnut,1115.2,1107.6,1565,0.993
+Odisha,ODIS_D4,2013,Kharif,Jowar,506.5,417.5,1565,0.824
+Odisha,ODIS_D4,2013,Rabi,Maize,565.9,1890,1565,3.34
+Odisha,ODIS_D4,2013,Kharif,Rice,584.6,1640.5,1565,2.806
+Odisha,ODIS_D4,2013,Whole Year,Sugarcane,1642.9,105145.5,1565,64
+Odisha,ODIS_D4,2014,Kharif,Arhar/Tur,385.2,419.9,1314.7,1.09
+Odisha,ODIS_D4,2014,Rabi,Groundnut,2156.6,3998.4,1314.7,1.854
+Odisha,ODIS_D4,2014,Kharif,Rice,504.8,1571.2,1314.7,3.113
+Odisha,ODIS_D4,2014,Kharif,Soyabean,651.7,875.4,1314.7,1.343
+Odisha,ODIS_D4,2014,Whole Year,Sugarcane,635.4,42697.3,1314.7,67.198
+Odisha,ODIS_D4,2015,Rabi,Jowar,1772,2616.7,1238.5,1.477
+Odisha,ODIS_D4,2015,Rabi,Maize,785.7,2447.6,1238.5,3.115
+Odisha,ODIS_D4,2015,Whole Year,Sugarcane,1934.3,155549.9,1238.5,80.417
+Odisha,ODIS_D4,2015,Rabi,Wheat,699.3,1934.3,1238.5,2.766
+Odisha,ODIS_D5,2005,Kharif,Bajra,120.6,146.7,1609,1.216
+Odisha,ODIS_D5,2005,Kharif,Cotton(Lint),469.2,213.1,1609,0.454
+Odisha,ODIS_D5,2005,Kharif,Maize,668.8,2144.2,1609,3.206
+Odisha,ODIS_D5,2005,Kharif,Rice,817.9,2998.5,1609,3.666
+Odisha,ODIS_D5,2006,Kharif,Bajra,2947.4,2683.9,1170.6,0.911
+Odisha,ODIS_D5,2006,Kharif,Groundnut,569.6,678.1,1170.6,1.19
+Odisha,ODIS_D5,2006,Whole Year,Sugarcane,269.3,21947.6,1170.6,81.499
+Odisha,ODIS_D5,2006,Rabi,Wheat,627.4,1672.7,1170.6,2.666
+Odisha,ODIS_D5,2007,Kharif,Cotton(Lint),247.4,150,1027.2,0.606
+Odisha,ODIS_D5,2007,Kharif,Maize,1790.1,5235.3,1027.2,2.925
+Odisha,ODIS_D5,2007,Autumn,Rice,318.2,829.9,1027.2,2.608
+Odisha,ODIS_D5,2008,Kharif,Arhar/Tur,317.9,188.9,1286.8,0.594
+Odisha,ODIS_D5,2008,Kharif,Bajra,1036.1,1054.2,1286.8,1.017
+Odisha,ODIS_D5,2008,Rabi,Jowar,576.5,403.5,1286.8,0.7
+Odisha,ODIS_D5,2009,Kharif,Arhar/Tur,852.8,811.5,1220.9,0.952
+Odisha,ODIS_D5,2009,Kharif,Cotton(Lint),2309.3,1559.5,1220.9,0.675
+Odisha,ODIS_D5,2009,Rabi,Maize,1958.1,5402.3,1220.9,2.759
+Odisha,ODIS_D5,2009,Autumn,Rice,1703,5838.1,1220.9,3.428
+Odisha,ODIS_D5,2009,Rabi,Wheat,2395.2,5251.7,1220.9,2.193
+Odisha,ODIS_D5,2010,Kharif,Jowar,264.4,313,1402.8,1.184
+Odisha,ODIS_D5,2010,Rabi,Maize,1262.1,2812.6,1402.8,2.229
+Odisha,ODIS_D5,2010,Autumn,Rice,539.5,1198.2,1402.8,2.221
+Odisha,ODIS_D5,2010,Kharif,Soyabean,866.7,1358.2,1402.8,1.567
+Odisha,ODIS_D5,2011,Kharif,Arhar/Tur,357.5,484.2,1600.4,1.354
+Odisha,ODIS_D5,2011,Kharif,Bajra,550.4,939,1600.4,1.706
+Odisha,ODIS_D5,2011,Kharif,Maize,706.9,2149.6,1600.4,3.041
+Odisha,ODIS_D5,2011,Rabi,Wheat,1067.8,4105.7,1600.4,3.845
+Odisha,ODIS_D5,2012,Kharif,Jowar,393.9,350.3,1343.1,0.889
+Odisha,ODIS_D5,2012,Kharif,Maize,1289.4,3637.7,1343.1,2.821
+Odisha,ODIS_D5,2012,Kharif,Rice,788,1454.6,1343.1,1.846
+Odisha,ODIS_D5,2012,Kharif,Soyabean,699.2,1074.4,1343.1,1.537
+Odisha,ODIS_D5,2012,Rabi,Wheat,303.8,726.4,1343.1,2.391
+Odisha,ODIS_D5,2013,Kharif,Bajra,486.3,475.4,1565,0.978
+Odisha,ODIS_D5,2013,Rabi,Groundnut,161.5,234,1565,1.449
+Odisha,ODIS_D5,2013,Rabi,Jowar,1396.9,1806.8,1565,1.293
+Odisha,ODIS_D5,2013,Rabi,Maize,494.1,909.9,1565,1.842
+Odisha,ODIS_D5,2013,Rabi,Wheat,894.6,2808.3,1565,3.139
+Odisha,ODIS_D5,2014,Kharif,Arhar/Tur,693.1,431.9,1314.7,0.623
+Odisha,ODIS_D5,2014,Kharif,Bajra,715.9,840.3,1314.7,1.174
+Odisha,ODIS_D5,2014,Rabi,Jowar,263.2,318,1314.7,1.208
+Odisha,ODIS_D5,2015,Kharif,Arhar/Tur,884,536.3,1238.5,0.607
+Odisha,ODIS_D5,2015,Kharif,Bajra,935.3,786.9,1238.5,0.841
+Odisha,ODIS_D5,2015,Kharif,Cotton(Lint),1117.2,702,1238.5,0.628
+Odisha,ODIS_D5,2015,Rabi,Maize,717.5,1677.4,1238.5,2.338
+Punjab,PUNJ_D1,2005,Kharif,Cotton(Lint),1058.3,547.6,777.2,0.517
+Punjab,PUNJ_D1,2005,Kharif,Groundnut,519.9,716.6,777.2,1.378
+Punjab,PUNJ_D1,2005,Whole Year,Sugarcane,612.7,48144.3,777.2,78.577
+Punjab,PUNJ_D1,2006,Kharif,Bajra,1229.1,1650.8,645.6,1.343
+Punjab,PUNJ_D1,2006,Rabi,Groundnut,2272.4,2216.9,645.6,0.976
+Punjab,PUNJ_D1,2006,Kharif,Jowar,93.5,114.6,645.6,1.226
+Punjab,PUNJ_D1,2006,Kharif,Soyabean,579,716.7,645.6,1.238
+Punjab,PUNJ_D1,2006,Whole Year,Sugarcane,882.1,74419.9,645.6,84.367
+Punjab,PUNJ_D1,2007,Kharif,Arhar/Tur,701.4,606,657.8,0.864
+Punjab,PUNJ_D1,2007,Kharif,Bajra,656.5,714.1,657.8,1.088
+Punjab,PUNJ_D1,2007,Kharif,Cotton(Lint),132.4,53.5,657.8,0.404
+Punjab,PUNJ_D1,2007,Rabi,Groundnut,938.9,1710.4,657.8,1.822
+Punjab,PUNJ_D1,2007,Rabi,Wheat,529.5,2018.3,657.8,3.812
+Punjab,PUNJ_D1,2008,Rabi,Jowar,1139.8,1840.7,790.9,1.615
+Punjab,PUNJ_D1,2008,Kharif,Maize,854.1,2648.4,790.9,3.101
+Punjab,PUNJ_D1,2008,Whole Year,Sugarcane,439.1,33338.4,790.9,75.924
+Punjab,PUNJ_D1,2009,Kharif,Arhar/Tur,50,46.5,684.4,0.93
+Punjab,PUNJ_D1,2009,Kharif,Jowar,1519.4,1438.5,684.4,0.947
+Punjab,PUNJ_D1,2009,Whole Year,Sugarcane,822.8,56911.7,684.4,69.168
+Punjab,PUNJ_D1,2010,Kharif,Arhar/Tur,626.7,449.9,630.1,0.718
+Punjab,PUNJ_D1,2010,Kharif,Bajra,952.3,897,630.1,0.942
+Punjab,PUNJ_D1,2010,Kharif,Rice,758.4,2469.4,630.1,3.256
+Punjab,PUNJ_D1,2010,Whole Year,Sugarcane,837,60725.8,630.1,72.552
+Punjab,PUNJ_D1,2011,Kharif,Bajra,336.3,281.9,529.2,0.838
+Punjab,PUNJ_D1,2011,Kharif,Jowar,420.6,412.1,529.2,0.98
+Punjab,PUNJ_D1,2011,Whole Year,Sugarcane,1402.4,102594.2,529.2,73.156
+Punjab,PUNJ_D1,2011,Rabi,Wheat,758.2,1815.5,529.2,2.394
+Punjab,PUNJ_D1,2012,Kharif,Bajra,1072.4,1586.4,725.7,1.479
+Punjab,PUNJ_D1,2012,Kharif,Cotton(Lint),887,514.2,725.7,0.58
+Punjab,PUNJ_D1,2012,Rabi,Groundnut,630.8,993.3,725.7,1.575
+Punjab,PUNJ_D1,2012,Kharif,Soyabean,596.9,776.6,725.7,1.301
+Punjab,PUNJ_D1,2012,Whole Year,Sugarcane,1650.6,125975.1,725.7,76.321
+Punjab,PUNJ_D1,2013,Kharif,Arhar/Tur,113.3,88.4,642.3,0.78
+Punjab,PUNJ_D1,2013,Kharif,Groundnut,775.1,883.4,642.3,1.14
+Punjab,PUNJ_D1,2013,Rabi,Maize,602.8,1863.4,642.3,3.091
+Punjab,PUNJ_D1,2013,Kharif,Rice,926.9,2857,642.3,3.082
+Punjab,PUNJ_D1,2013,Whole Year,Sugarcane,884.9,57639.7,642.3,65.137
+Punjab,PUNJ_D1,2014,Kharif,Bajra,307.9,325.5,552.3,1.057
+Punjab,PUNJ_D1,2014,Kharif,Groundnut,550.1,846.6,552.3,1.539
+Punjab,PUNJ_D1,2014,Kharif,Jowar,516.6,580.8,552.3,1.124
+Punjab,PUNJ_D1,2014,Whole Year,Sugarcane,191.2,12656.9,552.3,66.197
+Punjab,PUNJ_D1,2014,Rabi,Wheat,674.3,2094.1,552.3,3.106
+Punjab,PUNJ_D1,2015,Rabi,Jowar,1949.3,2963.5,561.9,1.52
+Punjab,PUNJ_D1,2015,Kharif,Maize,1237.4,2335.9,561.9,1.888
+Punjab,PUNJ_D1,2015,Whole Year,Sugarcane,2433.3,198502.4,561.9,81.577
+Punjab,PUNJ_D1,2015,Rabi,Wheat,969,3350.4,561.9,3.458
+Punjab,PUNJ_D2,2005,Kharif,Arhar/Tur,118.4,158.6,777.2,1.34
+Punjab,PUNJ_D2,2005,Kharif,Maize,564,1195.6,777.2,2.12
+Punjab,PUNJ_D2,2005,Autumn,Rice,1032.7,3813.5,777.2,3.693
+Punjab,PUNJ_D2,2006,Rabi,Maize,921.1,1436.8,645.6,1.56
+Punjab,PUNJ_D2,2006,Kharif,Soyabean,868.2,873.9,645.6,1.007
+Punjab,PUNJ_D2,2006,Rabi,Wheat,1431.3,3212.8,645.6,2.245
+Punjab,PUNJ_D2,2007,Kharif,Bajra,759.2,622.4,657.8,0.82
+Punjab,PUNJ_D2,2007,Kharif,Groundnut,645.1,935.3,657.8,1.45
+Punjab,PUNJ_D2,2007,Kharif,Jowar,927.7,1030.7,657.8,1.111
+Punjab,PUNJ_D2,2007,Whole Year,Sugarcane,1119.5,67798.2,657.8,60.561
+Punjab,PUNJ_D2,2007,Rabi,Wheat,310.3,1065.9,657.8,3.435
+Punjab,PUNJ_D2,2008,Kharif,Cotton(Lint),275.4,134.1,790.9,0.487
+Punjab,PUNJ_D2,2008,Rabi,Groundnut,409.7,766.4,790.9,1.871
+Punjab,PUNJ_D2,2008,Rabi,Jowar,1268.9,1107,790.9,0.872
+Punjab,PUNJ_D2,2008,Kharif,Rice,352,1341.5,790.9,3.811
+Punjab,PUNJ_D2,2009,Rabi,Groundnut,378.7,521.9,684.4,1.378
+Punjab,PUNJ_D2,2009,Kharif,Jowar,923.6,892.5,684.4,0.966
+Punjab,PUNJ_D2,2009,Kharif,Maize,1251.9,2328.7,684.4,1.86
+Punjab,PUNJ_D2,2009,Autumn,Rice,1382.6,2702,684.4,1.954
+Punjab,PUNJ_D2,2010,Kharif,Bajra,813.2,1249.7,630.1,1.537
+Punjab,PUNJ_D2,2010,Rabi,Groundnut,618.5,1173.5,630.1,1.897
+Punjab,PUNJ_D2,2010,Rabi,Jowar,2006.4,2034.6,630.1,1.014
+Punjab,PUNJ_D2,2010,Kharif,Maize,194.4,502.1,630.1,2.583
+Punjab,PUNJ_D2,2010,Kharif,Soyabean,1181.5,1437.1,630.1,1.216
+Punjab,PUNJ_D2,2011,Kharif,Arhar/Tur,1547.8,967.6,529.2,0.625
+Punjab,PUNJ_D2,2011,Kharif,Groundnut,613.9,827.9,529.2,1.349
+Punjab,PUNJ_D2,2011,Kharif,Maize,179.6,337.1,529.2,1.877
+Punjab,PUNJ_D2,2011,Whole Year,Sugarcane,307.3,24673.5,529.2,80.291
+Punjab,PUNJ_D2,2012,Kharif,Bajra,50,53.4,725.7,1.068
+Punjab,PUNJ_D2,2012,Kharif,Cotton(Lint),106.8,52,725.7,0.487
+Punjab,PUNJ_D2,2012,Kharif,Soyabean,811.3,866.7,725.7,1.068
+Punjab,PUNJ_D2,2012,Rabi,Wheat,1806.8,7001.9,725.7,3.875
+Punjab,PUNJ_D2,2013,Kharif,Arhar/Tur,1479.1,922.7,642.3,0.624
+Punjab,PUNJ_D2,2013,Kharif,Bajra,406.5,489.2,642.3,1.203
+Punjab,PUNJ_D2,2013,Rabi,Groundnut,809.9,1023.1,642.3,1.263
+Punjab,PUNJ_D2,2013,Kharif,Jowar,975,885.7,642.3,0.908
+Punjab,PUNJ_D2,2013,Kharif,Soyabean,1169.3,1829.4,642.3,1.565
+Punjab,PUNJ_D2,2014,Kharif,Cotton(Lint),1477.9,594.1,552.3,0.402
+Punjab,PUNJ_D2,2014,Rabi,Groundnut,2141.4,2413.6,552.3,1.127
+Punjab,PUNJ_D2,2014,Rabi,Maize,318.7,827.2,552.3,2.596
+Punjab,PUNJ_D2,2014,Autumn,Rice,444.2,787.2,552.3,1.772
+Punjab,PUNJ_D2,2015,Kharif,Cotton(Lint),561.8,313,561.9,0.557
+Punjab,PUNJ_D2,2015,Autumn,Rice,1180.3,3440.1,561.9,2.915
+Punjab,PUNJ_D2,2015,Whole Year,Sugarcane,720.6,57613.1,561.9,79.952
+Punjab,PUNJ_D2,2015,Rabi,Wheat,838.6,1864.7,561.9,2.224
+Punjab,PUNJ_D3,2005,Rabi,Groundnut,2083.2,2324.3,777.2,1.116
+Punjab,PUNJ_D3,2005,Kharif,Rice,1497.2,4199,777.2,2.805
+Punjab,PUNJ_D3,2005,Kharif,Soyabean,841.5,1331.9,777.2,1.583
+Punjab,PUNJ_D3,2005,Whole Year,Sugarcane,495.1,30151,777.2,60.899
+Punjab,PUNJ_D3,2005,Rabi,Wheat,903.8,3163.8,777.2,3.501
+Punjab,PUNJ_D3,2006,Kharif,Arhar/Tur,683.6,477.2,645.6,0.698
+Punjab,PUNJ_D3,2006,Kharif,Bajra,2690.7,4529.3,645.6,1.683
+Punjab,PUNJ_D3,2006,Rabi,Jowar,201,234.4,645.6,1.166
+Punjab,PUNJ_D3,2006,Kharif,Maize,827,2072,645.6,2.505
+Punjab,PUNJ_D3,2007,Kharif,Arhar/Tur,793.6,956,657.8,1.205
+Punjab,PUNJ_D3,2007,Kharif,Groundnut,780.1,1344.9,657.8,1.724
+Punjab,PUNJ_D3,2007,Kharif,Maize,1894.4,4633.1,657.8,2.446
+Punjab,PUNJ_D3,2007,Whole Year,Sugarcane,1417,79738.2,657.8,56.273
+Punjab,PUNJ_D3,2007,Rabi,Wheat,280.9,672.8,657.8,2.395
+Punjab,PUNJ_D3,2008,Kharif,Bajra,1043.5,1042.3,790.9,0.999
+Punjab,PUNJ_D3,2008,Rabi,Jowar,286.1,479.1,790.9,1.675
+Punjab,PUNJ_D3,2008,Kharif,Rice,1102.5,3232,790.9,2.932
+Punjab,PUNJ_D3,2008,Rabi,Wheat,858.6,3388.7,790.9,3.947
+Punjab,PUNJ_D3,2009,Kharif,Arhar/Tur,1705.5,2183,684.4,1.28
+Punjab,PUNJ_D3,2009,Rabi,Groundnut,1071.6,1793.3,684.4,1.673
+Punjab,PUNJ_D3,2009,Kharif,Jowar,1648.8,2384.7,684.4,1.446
+Punjab,PUNJ_D3,2009,Kharif,Soyabean,688.7,968.8,684.4,1.407
+Punjab,PUNJ_D3,2009,Rabi,Wheat,346.6,923.8,684.4,2.665
+Punjab,PUNJ_D3,2010,Kharif,Cotton(Lint),120.4,43,630.1,0.357
+Punjab,PUNJ_D3,2010,Rabi,Maize,314.6,500,630.1,1.589
+Punjab,PUNJ_D3,2010,Rabi,Wheat,584.3,1234.8,630.1,2.113
+Punjab,PUNJ_D3,2011,Rabi,Groundnut,281.1,476.2,529.2,1.694
+Punjab,PUNJ_D3,2011,Kharif,Soyabean,1600.6,1811,529.2,1.131
+Punjab,PUNJ_D3,2011,Whole Year,Sugarcane,1234.3,86134.7,529.2,69.784
+Punjab,PUNJ_D3,2012,Kharif,Arhar/Tur,150.8,146.9,725.7,0.974
+Punjab,PUNJ_D3,2012,Kharif,Bajra,463,792.2,725.7,1.711
+Punjab,PUNJ_D3,2012,Autumn,Rice,915.1,2373.5,725.7,2.594
+Punjab,PUNJ_D3,2012,Whole Year,Sugarcane,303.7,21289.6,725.7,70.101
+Punjab,PUNJ_D3,2013,Kharif,Cotton(Lint),714.8,374.6,642.3,0.524
+Punjab,PUNJ_D3,2013,Kharif,Rice,897.5,2611.2,642.3,2.909
+Punjab,PUNJ_D3,2013,Kharif,Soyabean,1021.9,1083.3,642.3,1.06
+Punjab,PUNJ_D3,2013,Rabi,Wheat,1646.6,6299,642.3,3.825
+Punjab,PUNJ_D3,2014,Kharif,Bajra,1112.8,1747.5,552.3,1.57
+Punjab,PUNJ_D3,2014,Kharif,Rice,1153.6,3201.9,552.3,2.776
+Punjab,PUNJ_D3,2014,Kharif,Soyabean,1407.4,1127.5,552.3,0.801
+Punjab,PUNJ_D3,2015,Kharif,Cotton(Lint),480.3,240.9,561.9,0.502
+Punjab,PUNJ_D3,2015,Rabi,Groundnut,524.5,620.8,561.9,1.184
+Punjab,PUNJ_D3,2015,Rabi,Jowar,915.7,843.7,561.9,0.921
+Punjab,PUNJ_D3,2015,Whole Year,Sugarcane,528.6,31155.9,561.9,58.94
+Punjab,PUNJ_D3,2015,Rabi,Wheat,958.4,2219.7,561.9,2.316
+Punjab,PUNJ_D4,2005,Kharif,Bajra,615.4,841.2,777.2,1.367
+Punjab,PUNJ_D4,2005,Kharif,Cotton(Lint),894.3,625.7,777.2,0.7
+Punjab,PUNJ_D4,2005,Rabi,Maize,267.8,830.5,777.2,3.101
+Punjab,PUNJ_D4,2005,Kharif,Rice,561.5,1943.3,777.2,3.461
+Punjab,PUNJ_D4,2005,Kharif,Soyabean,957.1,1483.4,777.2,1.55
+Punjab,PUNJ_D4,2006,Kharif,Cotton(Lint),305.4,182,645.6,0.596
+Punjab,PUNJ_D4,2006,Rabi,Maize,940.7,1926.6,645.6,2.048
+Punjab,PUNJ_D4,2006,Whole Year,Sugarcane,672.4,42999.6,645.6,63.949
+Punjab,PUNJ_D4,2006,Rabi,Wheat,1478.3,3004.5,645.6,2.032
+Punjab,PUNJ_D4,2007,Kharif,Arhar/Tur,972.3,1103.2,657.8,1.135
+Punjab,PUNJ_D4,2007,Kharif,Bajra,137.8,115.8,657.8,0.84
+Punjab,PUNJ_D4,2007,Kharif,Rice,1153.2,3927.2,657.8,3.405
+Punjab,PUNJ_D4,2007,Kharif,Soyabean,504,614.7,657.8,1.22
+Punjab,PUNJ_D4,2008,Kharif,Bajra,968.1,1011.7,790.9,1.045
+Punjab,PUNJ_D4,2008,Kharif,Groundnut,418.2,434.9,790.9,1.04
+Punjab,PUNJ_D4,2008,Kharif,Soyabean,1050.1,981.8,790.9,0.935
+Punjab,PUNJ_D4,2008,Whole Year,Sugarcane,1272.7,80655.1,790.9,63.373
+Punjab,PUNJ_D4,2009,Kharif,Arhar/Tur,416.8,509.9,684.4,1.223
+Punjab,PUNJ_D4,2009,Rabi,Groundnut,551,1049.8,684.4,1.905
+Punjab,PUNJ_D4,2009,Rabi,Jowar,1274.4,1568.1,684.4,1.23
+Punjab,PUNJ_D4,2009,Rabi,Maize,708.3,1829.6,684.4,2.583
+Punjab,PUNJ_D4,2009,Rabi,Wheat,689.2,1709,684.4,2.48
+Punjab,PUNJ_D4,2010,Kharif,Arhar/Tur,1884,1284.9,630.1,0.682
+Punjab,PUNJ_D4,2010,Kharif,Bajra,811.5,1315.2,630.1,1.621
+Punjab,PUNJ_D4,2010,Kharif,Cotton(Lint),986.2,403.6,630.1,0.409
+Punjab,PUNJ_D4,2010,Kharif,Soyabean,1946.7,1966.6,630.1,1.01
+Punjab,PUNJ_D4,2011,Rabi,Jowar,309.7,286.9,529.2,0.926
+Punjab,PUNJ_D4,2011,Rabi,Maize,893.4,1615.8,529.2,1.809
+Punjab,PUNJ_D4,2011,Kharif,Rice,807.9,2238.8,529.2,2.771
+Punjab,PUNJ_D4,2012,Kharif,Bajra,3473.7,3889.5,725.7,1.12
+Punjab,PUNJ_D4,2012,Kharif,Cotton(Lint),574.4,230.4,725.7,0.401
+Punjab,PUNJ_D4,2012,Rabi,Maize,2132.1,7077.7,725.7,3.32
+Punjab,PUNJ_D4,2012,Whole Year,Sugarcane,1730.8,145024.5,725.7,83.79
+Punjab,PUNJ_D4,2012,Rabi,Wheat,713.9,1882.7,725.7,2.637
+Punjab,PUNJ_D4,2013,Kharif,Bajra,942.9,1056.8,642.3,1.121
+Punjab,PUNJ_D4,2013,Rabi,Groundnut,1135.1,2130.1,642.3,1.877
+Punjab,PUNJ_D4,2013,Kharif,Rice,1261.7,3788.1,642.3,3.002
+Punjab,PUNJ_D4,2013,Kharif,Soyabean,688.2,577.9,642.3,0.84
+Punjab,PUNJ_D4,2013,Whole Year,Sugarcane,188.4,15205.2,642.3,80.707
+Punjab,PUNJ_D4,2014,Kharif,Arhar/Tur,295.6,322.6,552.3,1.091
+Punjab,PUNJ_D4,2014,Kharif,Soyabean,1036.8,952,552.3,0.918
+Punjab,PUNJ_D4,2014,Whole Year,Sugarcane,478.3,33214.9,552.3,69.444
+Punjab,PUNJ_D4,2015,Rabi,Groundnut,827.8,1133.9,561.9,1.37
+Punjab,PUNJ_D4,2015,Kharif,Maize,1029.7,2274.3,561.9,2.209
+Punjab,PUNJ_D4,2015,Kharif,Soyabean,478.1,533.8,561.9,1.117
+Punjab,PUNJ_D5,2005,Kharif,Bajra,1652.1,2137.3,777.2,1.294
+Punjab,PUNJ_D5,2005,Rabi,Maize,556.7,1088.1,777.2,1.955
+Punjab,PUNJ_D5,2005,Kharif,Rice,259.6,933.7,777.2,3.597
+Punjab,PUNJ_D5,2006,Autumn,Rice,2354.9,4454.5,645.6,1.892
+Punjab,PUNJ_D5,2006,Whole Year,Sugarcane,962.8,79640.4,645.6,82.717
+Punjab,PUNJ_D5,2006,Rabi,Wheat,402.9,1280.5,645.6,3.178
+Punjab,PUNJ_D5,2007,Kharif,Arhar/Tur,730.1,961.3,657.8,1.317
+Punjab,PUNJ_D5,2007,Kharif,Cotton(Lint),1049.2,624.9,657.8,0.596
+Punjab,PUNJ_D5,2007,Rabi,Groundnut,137.2,255.4,657.8,1.862
+Punjab,PUNJ_D5,2007,Kharif,Soyabean,631.3,845.7,657.8,1.34
+Punjab,PUNJ_D5,2008,Kharif,Bajra,56.1,100.9,790.9,1.799
+Punjab,PUNJ_D5,2008,Kharif,Cotton(Lint),629.7,215.3,790.9,0.342
+Punjab,PUNJ_D5,2008,Kharif,Soyabean,942.7,1212.8,790.9,1.287
+Punjab,PUNJ_D5,2009,Kharif,Arhar/Tur,1373.6,898,684.4,0.654
+Punjab,PUNJ_D5,2009,Rabi,Maize,377.8,756.8,684.4,2.003
+Punjab,PUNJ_D5,2009,Whole Year,Sugarcane,977.3,80523.9,684.4,82.394
+Punjab,PUNJ_D5,2010,Rabi,Groundnut,788.6,1035.8,630.1,1.313
+Punjab,PUNJ_D5,2010,Kharif,Jowar,341.4,486.1,630.1,1.424
+Punjab,PUNJ_D5,2010,Autumn,Rice,1058.3,2379.7,630.1,2.249
+Punjab,PUNJ_D5,2011,Kharif,Bajra,718.4,741.6,529.2,1.032
+Punjab,PUNJ_D5,2011,Kharif,Jowar,312.8,470.8,529.2,1.505
+Punjab,PUNJ_D5,2011,Whole Year,Sugarcane,668.6,50676.3,529.2,75.795
+Punjab,PUNJ_D5,2012,Kharif,Arhar/Tur,1375.8,1254.1,725.7,0.912
+Punjab,PUNJ_D5,2012,Rabi,Groundnut,941.1,1006.5,725.7,1.069
+Punjab,PUNJ_D5,2012,Autumn,Rice,974.6,2250.6,725.7,2.309
+Punjab,PUNJ_D5,2012,Kharif,Soyabean,880.7,752.8,725.7,0.855
+Punjab,PUNJ_D5,2012,Rabi,Wheat,410.5,1482.8,725.7,3.612
+Punjab,PUNJ_D5,2013,Kharif,Jowar,1128.9,852.3,642.3,0.755
+Punjab,PUNJ_D5,2013,Whole Year,Sugarcane,308.5,18347.9,642.3,59.475
+Punjab,PUNJ_D5,2013,Rabi,Wheat,1664.3,4795.9,642.3,2.882
+Punjab,PUNJ_D5,2014,Kharif,Arhar/Tur,1400.7,1311.8,552.3,0.937
+Punjab,PUNJ_D5,2014,Kharif,Bajra,207.2,337.9,552.3,1.631
+Punjab,PUNJ_D5,2014,Kharif,Cotton(Lint),790.1,414.6,552.3,0.525
+Punjab,PUNJ_D5,2014,Kharif,Groundnut,276.5,346.3,552.3,1.252
+Punjab,PUNJ_D5,2014,Rabi,Jowar,307.1,374.2,552.3,1.218
+Punjab,PUNJ_D5,2015,Kharif,Arhar/Tur,96.8,97.5,561.9,1.007
+Punjab,PUNJ_D5,2015,Kharif,Cotton(Lint),573.5,217.5,561.9,0.379
+Punjab,PUNJ_D5,2015,Kharif,Jowar,271.1,200,561.9,0.738
+Punjab,PUNJ_D5,2015,Kharif,Soyabean,128.3,142.5,561.9,1.111
+Rajasthan,RAJA_D1,2005,Kharif,Arhar/Tur,399.1,310,627.4,0.777
+Rajasthan,RAJA_D1,2005,Kharif,Bajra,497.8,695.6,627.4,1.397
+Rajasthan,RAJA_D1,2005,Rabi,Wheat,738.5,2562.6,627.4,3.47
+Rajasthan,RAJA_D1,2006,Kharif,Bajra,665.8,672.6,397.6,1.01
+Rajasthan,RAJA_D1,2006,Kharif,Soyabean,240.6,295.4,397.6,1.228
+Rajasthan,RAJA_D1,2006,Rabi,Wheat,1301.4,4441.8,397.6,3.413
+Rajasthan,RAJA_D1,2007,Kharif,Bajra,916.3,1367.7,446.8,1.493
+Rajasthan,RAJA_D1,2007,Rabi,Maize,1308.9,3487.7,446.8,2.665
+Rajasthan,RAJA_D1,2007,Autumn,Rice,190.2,666,446.8,3.502
+Rajasthan,RAJA_D1,2007,Whole Year,Sugarcane,902.6,64516.9,446.8,71.479
+Rajasthan,RAJA_D1,2008,Kharif,Arhar/Tur,795.5,952.5,609.1,1.197
+Rajasthan,RAJA_D1,2008,Kharif,Bajra,1233.9,1165.9,609.1,0.945
+Rajasthan,RAJA_D1,2008,Kharif,Groundnut,240.1,438.5,609.1,1.826
+Rajasthan,RAJA_D1,2009,Kharif,Cotton(Lint),2071.1,1376.1,442.8,0.664
+Rajasthan,RAJA_D1,2009,Kharif,Rice,1522.5,4679.5,442.8,3.074
+Rajasthan,RAJA_D1,2009,Kharif,Soyabean,1518.8,1781.4,442.8,1.173
+Rajasthan,RAJA_D1,2010,Kharif,Bajra,376.8,315.7,367.1,0.838
+Rajasthan,RAJA_D1,2010,Rabi,Maize,430,862.6,367.1,2.006
+Rajasthan,RAJA_D1,2010,Kharif,Soyabean,242.8,205.1,367.1,0.845
+Rajasthan,RAJA_D1,2010,Rabi,Wheat,1674.7,3506.8,367.1,2.094
+Rajasthan,RAJA_D1,2011,Kharif,Cotton(Lint),541,312.7,435.1,0.578
+Rajasthan,RAJA_D1,2011,Kharif,Jowar,201.1,256.9,435.1,1.277
+Rajasthan,RAJA_D1,2012,Kharif,Bajra,1246.2,1637.4,273,1.314
+Rajasthan,RAJA_D1,2012,Kharif,Cotton(Lint),492.8,155.4,273,0.315
+Rajasthan,RAJA_D1,2012,Rabi,Jowar,326,312.3,273,0.958
+Rajasthan,RAJA_D1,2012,Kharif,Soyabean,869.8,1223.6,273,1.407
+Rajasthan,RAJA_D1,2013,Kharif,Bajra,1314,1125.1,520.9,0.856
+Rajasthan,RAJA_D1,2013,Kharif,Groundnut,824.4,771.9,520.9,0.936
+Rajasthan,RAJA_D1,2013,Kharif,Maize,1018.5,2625.7,520.9,2.578
+Rajasthan,RAJA_D1,2013,Whole Year,Sugarcane,564.1,45794.9,520.9,81.182
+Rajasthan,RAJA_D1,2014,Kharif,Bajra,798.6,1247,600,1.561
+Rajasthan,RAJA_D1,2014,Kharif,Cotton(Lint),1234.3,563.2,600,0.456
+Rajasthan,RAJA_D1,2014,Kharif,Groundnut,889,1150.5,600,1.294
+Rajasthan,RAJA_D1,2014,Rabi,Maize,1030.7,3133.7,600,3.04
+Rajasthan,RAJA_D1,2014,Autumn,Rice,155.8,531.9,600,3.414
+Rajasthan,RAJA_D1,2015,Kharif,Bajra,454.3,638.9,453.2,1.406
+Rajasthan,RAJA_D1,2015,Kharif,Cotton(Lint),1630.4,775.7,453.2,0.476
+Rajasthan,RAJA_D1,2015,Kharif,Jowar,1108.4,1178.7,453.2,1.063
+Rajasthan,RAJA_D1,2015,Rabi,Maize,116.1,214.9,453.2,1.851
+Rajasthan,RAJA_D2,2005,Kharif,Arhar/Tur,861.6,798.4,627.4,0.927
+Rajasthan,RAJA_D2,2005,Kharif,Bajra,529.3,507.9,627.4,0.96
+Rajasthan,RAJA_D2,2005,Rabi,Maize,634,1604.2,627.4,2.53
+Rajasthan,RAJA_D2,2005,Whole Year,Sugarcane,129.7,10022.6,627.4,77.275
+Rajasthan,RAJA_D2,2005,Rabi,Wheat,986.5,2880.6,627.4,2.92
+Rajasthan,RAJA_D2,2006,Kharif,Cotton(Lint),503.4,177.7,397.6,0.353
+Rajasthan,RAJA_D2,2006,Rabi,Maize,789.3,1546.1,397.6,1.959
+Rajasthan,RAJA_D2,2006,Autumn,Rice,613.3,1273.5,397.6,2.076
+Rajasthan,RAJA_D2,2006,Whole Year,Sugarcane,617.3,42950.6,397.6,69.578
+Rajasthan,RAJA_D2,2007,Kharif,Arhar/Tur,627.6,691.6,446.8,1.102
+Rajasthan,RAJA_D2,2007,Kharif,Bajra,631,820.8,446.8,1.301
+Rajasthan,RAJA_D2,2007,Kharif,Soyabean,430.6,579.8,446.8,1.346
+Rajasthan,RAJA_D2,2007,Whole Year,Sugarcane,471,31908.2,446.8,67.746
+Rajasthan,RAJA_D2,2008,Kharif,Arhar/Tur,492.7,375,609.1,0.761
+Rajasthan,RAJA_D2,2008,Rabi,Jowar,1206.2,1177.9,609.1,0.977
+Rajasthan,RAJA_D2,2008,Whole Year,Sugarcane,1103.9,86997.6,609.1,78.809
+Rajasthan,RAJA_D2,2009,Kharif,Cotton(Lint),559.2,209.5,442.8,0.375
+Rajasthan,RAJA_D2,2009,Kharif,Rice,887.8,1659.5,442.8,1.869
+Rajasthan,RAJA_D2,2009,Whole Year,Sugarcane,1182.9,66161.9,442.8,55.932
+Rajasthan,RAJA_D2,2010,Kharif,Bajra,892.8,822.5,367.1,0.921
+Rajasthan,RAJA_D2,2010,Kharif,Cotton(Lint),917.1,587.3,367.1,0.64
+Rajasthan,RAJA_D2,2010,Kharif,Maize,2400.4,6577.9,367.1,2.74
+Rajasthan,RAJA_D2,2010,Kharif,Rice,566.9,1690.6,367.1,2.982
+Rajasthan,RAJA_D2,2010,Rabi,Wheat,864.2,2150,367.1,2.488
+Rajasthan,RAJA_D2,2011,Kharif,Arhar/Tur,685.8,428.5,435.1,0.625
+Rajasthan,RAJA_D2,2011,Kharif,Cotton(Lint),978.8,637.8,435.1,0.652
+Rajasthan,RAJA_D2,2011,Kharif,Groundnut,604.7,1115.2,435.1,1.844
+Rajasthan,RAJA_D2,2011,Autumn,Rice,622.6,1843.6,435.1,2.961
+Rajasthan,RAJA_D2,2012,Kharif,Bajra,468.2,389.4,273,0.832
+Rajasthan,RAJA_D2,2012,Autumn,Rice,1807.8,3743.8,273,2.071
+Rajasthan,RAJA_D2,2013,Kharif,Arhar/Tur,926,629.9,520.9,0.68
+Rajasthan,RAJA_D2,2013,Rabi,Groundnut,1597.3,2502.6,520.9,1.567
+Rajasthan,RAJA_D2,2013,Kharif,Jowar,1209.9,1244.5,520.9,1.029
+Rajasthan,RAJA_D2,2013,Kharif,Soyabean,889.6,1374,520.9,1.545
+Rajasthan,RAJA_D2,2013,Rabi,Wheat,349.8,1200.9,520.9,3.433
+Rajasthan,RAJA_D2,2014,Kharif,Arhar/Tur,1805.4,1951.5,600,1.081
+Rajasthan,RAJA_D2,2014,Kharif,Bajra,1504.8,1567.9,600,1.042
+Rajasthan,RAJA_D2,2014,Kharif,Groundnut,777.4,822.5,600,1.058
+Rajasthan,RAJA_D2,2014,Kharif,Soyabean,860,1170.2,600,1.361
+Rajasthan,RAJA_D2,2014,Whole Year,Sugarcane,666.1,52228.8,600,78.41
+Rajasthan,RAJA_D2,2015,Rabi,Maize,184,359.3,453.2,1.953
+Rajasthan,RAJA_D2,2015,Whole Year,Sugarcane,1360.5,102834.1,453.2,75.586
+Rajasthan,RAJA_D2,2015,Rabi,Wheat,81.6,239.8,453.2,2.939
+Rajasthan,RAJA_D3,2005,Rabi,Groundnut,2091,2448.2,627.4,1.171
+Rajasthan,RAJA_D3,2005,Kharif,Jowar,362.2,383.5,627.4,1.059
+Rajasthan,RAJA_D3,2005,Kharif,Maize,999.7,2553.9,627.4,2.555
+Rajasthan,RAJA_D3,2005,Kharif,Soyabean,554.8,496.3,627.4,0.895
+Rajasthan,RAJA_D3,2005,Whole Year,Sugarcane,753.3,57147.2,627.4,75.862
+Rajasthan,RAJA_D3,2006,Rabi,Groundnut,933.9,943.8,397.6,1.011
+Rajasthan,RAJA_D3,2006,Kharif,Rice,766.4,1447.6,397.6,1.889
+Rajasthan,RAJA_D3,2006,Whole Year,Sugarcane,775.3,44748.1,397.6,57.717
+Rajasthan,RAJA_D3,2007,Kharif,Bajra,651.2,712.6,446.8,1.094
+Rajasthan,RAJA_D3,2007,Kharif,Maize,347.8,591.1,446.8,1.7
+Rajasthan,RAJA_D3,2008,Rabi,Groundnut,416.4,661.4,609.1,1.588
+Rajasthan,RAJA_D3,2008,Rabi,Jowar,809.9,1341,609.1,1.656
+Rajasthan,RAJA_D3,2008,Kharif,Soyabean,868.9,1454.1,609.1,1.673
+Rajasthan,RAJA_D3,2009,Rabi,Groundnut,920.2,1644.1,442.8,1.787
+Rajasthan,RAJA_D3,2009,Rabi,Maize,133.9,239,442.8,1.785
+Rajasthan,RAJA_D3,2009,Kharif,Rice,848.6,1816.8,442.8,2.141
+Rajasthan,RAJA_D3,2009,Kharif,Soyabean,1206.5,1139.1,442.8,0.944
+Rajasthan,RAJA_D3,2010,Kharif,Bajra,1096.8,1304.6,367.1,1.189
+Rajasthan,RAJA_D3,2010,Kharif,Jowar,396.1,272.2,367.1,0.687
+Rajasthan,RAJA_D3,2010,Kharif,Rice,418.4,1254.8,367.1,2.999
+Rajasthan,RAJA_D3,2011,Kharif,Cotton(Lint),519.5,288.3,435.1,0.555
+Rajasthan,RAJA_D3,2011,Rabi,Groundnut,1112.2,1505.5,435.1,1.354
+Rajasthan,RAJA_D3,2011,Kharif,Rice,394.6,834.1,435.1,2.114
+Rajasthan,RAJA_D3,2011,Kharif,Soyabean,512.2,528.2,435.1,1.031
+Rajasthan,RAJA_D3,2011,Rabi,Wheat,767.4,2650.8,435.1,3.454
+Rajasthan,RAJA_D3,2012,Kharif,Bajra,508,497.3,273,0.979
+Rajasthan,RAJA_D3,2012,Kharif,Groundnut,154.3,236,273,1.529
+Rajasthan,RAJA_D3,2012,Rabi,Jowar,843.9,1168,273,1.384
+Rajasthan,RAJA_D3,2012,Whole Year,Sugarcane,139.2,7839.5,273,56.318
+Rajasthan,RAJA_D3,2012,Rabi,Wheat,350.7,645,273,1.839
+Rajasthan,RAJA_D3,2013,Kharif,Bajra,1566.2,1603.8,520.9,1.024
+Rajasthan,RAJA_D3,2013,Kharif,Cotton(Lint),577.2,185.4,520.9,0.321
+Rajasthan,RAJA_D3,2013,Kharif,Soyabean,381.5,381,520.9,0.999
+Rajasthan,RAJA_D3,2014,Kharif,Arhar/Tur,984.8,1206.7,600,1.225
+Rajasthan,RAJA_D3,2014,Kharif,Cotton(Lint),1149.8,596,600,0.518
+Rajasthan,RAJA_D3,2015,Kharif,Jowar,467.3,469.4,453.2,1.004
+Rajasthan,RAJA_D3,2015,Whole Year,Sugarcane,586.1,40687.4,453.2,69.421
+Rajasthan,RAJA_D3,2015,Rabi,Wheat,520.4,1758.6,453.2,3.379
+Rajasthan,RAJA_D4,2005,Rabi,Maize,785.7,1887.9,627.4,2.403
+Rajasthan,RAJA_D4,2005,Autumn,Rice,625.4,1885.1,627.4,3.014
+Rajasthan,RAJA_D4,2005,Whole Year,Sugarcane,925.5,58243.3,627.4,62.932
+Rajasthan,RAJA_D4,2005,Rabi,Wheat,837.2,2400.9,627.4,2.868
+Rajasthan,RAJA_D4,2006,Kharif,Bajra,1804.3,2598.5,397.6,1.44
+Rajasthan,RAJA_D4,2006,Rabi,Groundnut,858.3,1189.6,397.6,1.386
+Rajasthan,RAJA_D4,2006,Kharif,Maize,663.4,1349.5,397.6,2.034
+Rajasthan,RAJA_D4,2006,Kharif,Soyabean,722.1,670.2,397.6,0.928
+Rajasthan,RAJA_D4,2006,Rabi,Wheat,334.1,1076.3,397.6,3.221
+Rajasthan,RAJA_D4,2007,Kharif,Bajra,1347.5,1931.8,446.8,1.434
+Rajasthan,RAJA_D4,2007,Whole Year,Sugarcane,801.7,61832.5,446.8,77.127
+Rajasthan,RAJA_D4,2007,Rabi,Wheat,1582.4,4527.4,446.8,2.861
+Rajasthan,RAJA_D4,2008,Kharif,Bajra,589.7,1059.1,609.1,1.796
+Rajasthan,RAJA_D4,2008,Kharif,Cotton(Lint),1655.3,722.6,609.1,0.437
+Rajasthan,RAJA_D4,2008,Kharif,Maize,840.3,2160.7,609.1,2.571
+Rajasthan,RAJA_D4,2008,Kharif,Rice,1602.1,5455.6,609.1,3.405
+Rajasthan,RAJA_D4,2008,Whole Year,Sugarcane,762.4,56917.7,609.1,74.656
+Rajasthan,RAJA_D4,2009,Kharif,Bajra,312.3,297.3,442.8,0.952
+Rajasthan,RAJA_D4,2009,Kharif,Cotton(Lint),1145.8,679,442.8,0.593
+Rajasthan,RAJA_D4,2009,Rabi,Jowar,2062.8,2553.7,442.8,1.238
+Rajasthan,RAJA_D4,2009,Kharif,Soyabean,402.2,329.3,442.8,0.819
+Rajasthan,RAJA_D4,2009,Whole Year,Sugarcane,1485.4,108088.2,442.8,72.767
+Rajasthan,RAJA_D4,2010,Kharif,Bajra,1452.5,1961.9,367.1,1.351
+Rajasthan,RAJA_D4,2010,Kharif,Cotton(Lint),583.6,261.8,367.1,0.449
+Rajasthan,RAJA_D4,2010,Whole Year,Sugarcane,595.6,42741.2,367.1,71.762
+Rajasthan,RAJA_D4,2010,Rabi,Wheat,149.3,417.9,367.1,2.799
+Rajasthan,RAJA_D4,2011,Kharif,Groundnut,1052.8,1295.3,435.1,1.23
+Rajasthan,RAJA_D4,2011,Kharif,Rice,750.4,2423.9,435.1,3.23
+Rajasthan,RAJA_D4,2011,Whole Year,Sugarcane,481.5,29246.1,435.1,60.74
+Rajasthan,RAJA_D4,2012,Kharif,Bajra,928.7,1347.6,273,1.451
+Rajasthan,RAJA_D4,2012,Rabi,Groundnut,1411.7,2291.6,273,1.623
+Rajasthan,RAJA_D4,2012,Kharif,Maize,1483.1,2020.2,273,1.362
+Rajasthan,RAJA_D4,2012,Kharif,Soyabean,1805,1633.7,273,0.905
+Rajasthan,RAJA_D4,2013,Kharif,Arhar/Tur,1763.5,1962.4,520.9,1.113
+Rajasthan,RAJA_D4,2013,Kharif,Bajra,954.1,938.2,520.9,0.983
+Rajasthan,RAJA_D4,2013,Autumn,Rice,2371.8,8068.9,520.9,3.402
+Rajasthan,RAJA_D4,2014,Kharif,Jowar,943.7,1399.9,600,1.483
+Rajasthan,RAJA_D4,2014,Kharif,Maize,306.7,653.7,600,2.131
+Rajasthan,RAJA_D4,2014,Kharif,Soyabean,373.5,511.6,600,1.37
+Rajasthan,RAJA_D4,2014,Whole Year,Sugarcane,954.3,57516,600,60.27
+Rajasthan,RAJA_D4,2014,Rabi,Wheat,631.5,2340.2,600,3.706
+Rajasthan,RAJA_D4,2015,Kharif,Arhar/Tur,284.9,328.6,453.2,1.153
+Rajasthan,RAJA_D4,2015,Kharif,Groundnut,702.8,642.6,453.2,0.914
+Rajasthan,RAJA_D4,2015,Kharif,Rice,572.2,1293.9,453.2,2.261
+Rajasthan,RAJA_D4,2015,Kharif,Soyabean,1638.9,1988.6,453.2,1.213
+Rajasthan,RAJA_D4,2015,Rabi,Wheat,107.3,228.2,453.2,2.127
+Rajasthan,RAJA_D5,2005,Kharif,Bajra,1041.5,1488.8,627.4,1.429
+Rajasthan,RAJA_D5,2005,Kharif,Soyabean,1522.8,1848.2,627.4,1.214
+Rajasthan,RAJA_D5,2005,Rabi,Wheat,158.3,365.6,627.4,2.31
+Rajasthan,RAJA_D5,2006,Kharif,Bajra,722.8,707.9,397.6,0.979
+Rajasthan,RAJA_D5,2006,Rabi,Jowar,2237.8,3037.5,397.6,1.357
+Rajasthan,RAJA_D5,2006,Kharif,Rice,1629.2,4639.4,397.6,2.848
+Rajasthan,RAJA_D5,2007,Kharif,Cotton(Lint),855,327.7,446.8,0.383
+Rajasthan,RAJA_D5,2007,Kharif,Maize,1001.9,1622.5,446.8,1.619
+Rajasthan,RAJA_D5,2007,Kharif,Rice,316.5,710.3,446.8,2.244
+Rajasthan,RAJA_D5,2008,Kharif,Arhar/Tur,741.8,760.3,609.1,1.025
+Rajasthan,RAJA_D5,2008,Kharif,Bajra,958.5,854.9,609.1,0.892
+Rajasthan,RAJA_D5,2008,Rabi,Jowar,535.8,636.4,609.1,1.188
+Rajasthan,RAJA_D5,2008,Kharif,Maize,870.8,1794.8,609.1,2.061
+Rajasthan,RAJA_D5,2008,Autumn,Rice,1303.2,3545.8,609.1,2.721
+Rajasthan,RAJA_D5,2009,Kharif,Cotton(Lint),480.2,287.4,442.8,0.599
+Rajasthan,RAJA_D5,2009,Rabi,Maize,560.5,1415.6,442.8,2.526
+Rajasthan,RAJA_D5,2009,Rabi,Wheat,597.2,1658,442.8,2.776
+Rajasthan,RAJA_D5,2010,Kharif,Groundnut,598.8,562.1,367.1,0.939
+Rajasthan,RAJA_D5,2010,Kharif,Jowar,236.3,280,367.1,1.185
+Rajasthan,RAJA_D5,2010,Kharif,Maize,463.5,1171.4,367.1,2.527
+Rajasthan,RAJA_D5,2010,Whole Year,Sugarcane,362,22908.5,367.1,63.283
+Rajasthan,RAJA_D5,2011,Autumn,Rice,459.9,1013.3,435.1,2.203
+Rajasthan,RAJA_D5,2011,Kharif,Soyabean,507.8,716.6,435.1,1.411
+Rajasthan,RAJA_D5,2011,Whole Year,Sugarcane,338.2,22234.5,435.1,65.744
+Rajasthan,RAJA_D5,2011,Rabi,Wheat,506.1,1040.8,435.1,2.057
+Rajasthan,RAJA_D5,2012,Rabi,Maize,538.5,852,273,1.582
+Rajasthan,RAJA_D5,2012,Kharif,Rice,473.6,1370.6,273,2.894
+Rajasthan,RAJA_D5,2012,Kharif,Soyabean,494.8,437,273,0.883
+Rajasthan,RAJA_D5,2013,Rabi,Maize,684.4,2011.2,520.9,2.939
+Rajasthan,RAJA_D5,2013,Autumn,Rice,841.2,2813.7,520.9,3.345
+Rajasthan,RAJA_D5,2013,Rabi,Wheat,1840.1,4472.4,520.9,2.431
+Rajasthan,RAJA_D5,2014,Kharif,Bajra,1077,1662.4,600,1.544
+Rajasthan,RAJA_D5,2014,Kharif,Maize,524.1,1004.7,600,1.917
+Rajasthan,RAJA_D5,2014,Kharif,Soyabean,1042.6,1648.8,600,1.581
+Rajasthan,RAJA_D5,2014,Whole Year,Sugarcane,1295.9,89129,600,68.778
+Rajasthan,RAJA_D5,2014,Rabi,Wheat,2084.5,5961.9,600,2.86
+Rajasthan,RAJA_D5,2015,Kharif,Arhar/Tur,246.5,262.9,453.2,1.067
+Rajasthan,RAJA_D5,2015,Autumn,Rice,241.6,554.2,453.2,2.294
+Rajasthan,RAJA_D5,2015,Kharif,Soyabean,576.3,887.5,453.2,1.54
+Rajasthan,RAJA_D5,2015,Whole Year,Sugarcane,2443,149935.3,453.2,61.373
+Tamil Nadu,TAMI_D1,2005,Kharif,Bajra,523.1,485.3,826.6,0.928
+Tamil Nadu,TAMI_D1,2005,Kharif,Cotton(Lint),1518.2,816.9,826.6,0.538
+Tamil Nadu,TAMI_D1,2005,Autumn,Rice,102.3,210.7,826.6,2.06
+Tamil Nadu,TAMI_D1,2005,Kharif,Soyabean,1574.2,1519.6,826.6,0.965
+Tamil Nadu,TAMI_D1,2005,Rabi,Wheat,50,177.7,826.6,3.554
+Tamil Nadu,TAMI_D1,2006,Kharif,Arhar/Tur,955.1,980.7,800.4,1.027
+Tamil Nadu,TAMI_D1,2006,Kharif,Bajra,539.5,494,800.4,0.916
+Tamil Nadu,TAMI_D1,2006,Kharif,Cotton(Lint),1439.2,763.4,800.4,0.53
+Tamil Nadu,TAMI_D1,2006,Kharif,Soyabean,1704.2,1584.8,800.4,0.93
+Tamil Nadu,TAMI_D1,2007,Kharif,Bajra,2116.4,1944.2,857.4,0.919
+Tamil Nadu,TAMI_D1,2007,Kharif,Cotton(Lint),861.5,496.6,857.4,0.576
+Tamil Nadu,TAMI_D1,2007,Kharif,Jowar,1183.7,983.1,857.4,0.831
+Tamil Nadu,TAMI_D1,2007,Autumn,Rice,801.3,1426.1,857.4,1.78
+Tamil Nadu,TAMI_D1,2007,Kharif,Soyabean,62.9,74.8,857.4,1.189
+Tamil Nadu,TAMI_D1,2008,Kharif,Cotton(Lint),250.7,102.2,970.9,0.408
+Tamil Nadu,TAMI_D1,2008,Kharif,Jowar,307.4,267.7,970.9,0.871
+Tamil Nadu,TAMI_D1,2008,Autumn,Rice,251.6,847.3,970.9,3.368
+Tamil Nadu,TAMI_D1,2009,Rabi,Groundnut,634.4,783.2,1042.5,1.235
+Tamil Nadu,TAMI_D1,2009,Rabi,Jowar,695.3,1119.7,1042.5,1.61
+Tamil Nadu,TAMI_D1,2009,Kharif,Maize,1126.4,1875.6,1042.5,1.665
+Tamil Nadu,TAMI_D1,2009,Whole Year,Sugarcane,1328.9,77574.9,1042.5,58.375
+Tamil Nadu,TAMI_D1,2009,Rabi,Wheat,217.3,595.7,1042.5,2.741
+Tamil Nadu,TAMI_D1,2010,Kharif,Bajra,796.2,1074.8,1020,1.35
+Tamil Nadu,TAMI_D1,2010,Kharif,Cotton(Lint),614.9,423.7,1020,0.689
+Tamil Nadu,TAMI_D1,2010,Rabi,Wheat,308,1089,1020,3.536
+Tamil Nadu,TAMI_D1,2011,Kharif,Arhar/Tur,705.1,467.5,897.6,0.663
+Tamil Nadu,TAMI_D1,2011,Kharif,Rice,423,1258.8,897.6,2.976
+Tamil Nadu,TAMI_D1,2011,Kharif,Soyabean,1274.2,1355.1,897.6,1.063
+Tamil Nadu,TAMI_D1,2011,Whole Year,Sugarcane,1745.2,120565.5,897.6,69.084
+Tamil Nadu,TAMI_D1,2011,Rabi,Wheat,1420.2,3677.1,897.6,2.589
+Tamil Nadu,TAMI_D1,2012,Kharif,Bajra,486.7,676.3,858.9,1.39
+Tamil Nadu,TAMI_D1,2012,Kharif,Groundnut,962.9,1249.4,858.9,1.298
+Tamil Nadu,TAMI_D1,2012,Rabi,Jowar,509.9,746.1,858.9,1.463
+Tamil Nadu,TAMI_D1,2012,Rabi,Wheat,625.8,2044.9,858.9,3.268
+Tamil Nadu,TAMI_D1,2013,Kharif,Arhar/Tur,837.4,861.7,979.9,1.029
+Tamil Nadu,TAMI_D1,2013,Kharif,Bajra,1053.7,1208.4,979.9,1.147
+Tamil Nadu,TAMI_D1,2013,Rabi,Groundnut,441.5,616.9,979.9,1.397
+Tamil Nadu,TAMI_D1,2014,Kharif,Bajra,1255.3,2152.9,975,1.715
+Tamil Nadu,TAMI_D1,2014,Kharif,Cotton(Lint),818.9,407.1,975,0.497
+Tamil Nadu,TAMI_D1,2014,Kharif,Groundnut,997.4,1125.2,975,1.128
+Tamil Nadu,TAMI_D1,2014,Rabi,Maize,887.5,1432,975,1.614
+Tamil Nadu,TAMI_D1,2014,Whole Year,Sugarcane,1336.8,105856.4,975,79.186
+Tamil Nadu,TAMI_D1,2015,Kharif,Arhar/Tur,722.3,693.3,917.9,0.96
+Tamil Nadu,TAMI_D1,2015,Rabi,Groundnut,1112.1,1119.2,917.9,1.006
+Tamil Nadu,TAMI_D1,2015,Whole Year,Sugarcane,405,34489.2,917.9,85.159
+Tamil Nadu,TAMI_D2,2005,Kharif,Bajra,1207,1728.7,826.6,1.432
+Tamil Nadu,TAMI_D2,2005,Rabi,Jowar,404.3,396.3,826.6,0.98
+Tamil Nadu,TAMI_D2,2005,Kharif,Soyabean,206.7,240.6,826.6,1.164
+Tamil Nadu,TAMI_D2,2005,Whole Year,Sugarcane,1035.8,77333.8,826.6,74.661
+Tamil Nadu,TAMI_D2,2005,Rabi,Wheat,643.8,1743.7,826.6,2.708
+Tamil Nadu,TAMI_D2,2006,Rabi,Groundnut,1628.3,2467.9,800.4,1.516
+Tamil Nadu,TAMI_D2,2006,Kharif,Jowar,1193.5,1647.7,800.4,1.381
+Tamil Nadu,TAMI_D2,2006,Kharif,Rice,1106.7,2899.9,800.4,2.62
+Tamil Nadu,TAMI_D2,2007,Kharif,Bajra,148,186.7,857.4,1.261
+Tamil Nadu,TAMI_D2,2007,Rabi,Groundnut,1088.5,1435.3,857.4,1.319
+Tamil Nadu,TAMI_D2,2007,Kharif,Jowar,815.5,770.9,857.4,0.945
+Tamil Nadu,TAMI_D2,2007,Autumn,Rice,147.7,514.4,857.4,3.483
+Tamil Nadu,TAMI_D2,2007,Whole Year,Sugarcane,304.6,24092.9,857.4,79.097
+Tamil Nadu,TAMI_D2,2008,Rabi,Maize,699,1941.3,970.9,2.777
+Tamil Nadu,TAMI_D2,2008,Whole Year,Sugarcane,980.2,78188.6,970.9,79.768
+Tamil Nadu,TAMI_D2,2009,Kharif,Arhar/Tur,686.3,629.6,1042.5,0.917
+Tamil Nadu,TAMI_D2,2009,Kharif,Groundnut,1860,3317.5,1042.5,1.784
+Tamil Nadu,TAMI_D2,2009,Kharif,Maize,1287.3,3249.8,1042.5,2.525
+Tamil Nadu,TAMI_D2,2009,Kharif,Soyabean,374.1,611.7,1042.5,1.635
+Tamil Nadu,TAMI_D2,2009,Rabi,Wheat,951.1,2648.4,1042.5,2.785
+Tamil Nadu,TAMI_D2,2010,Kharif,Bajra,435.7,599.3,1020,1.375
+Tamil Nadu,TAMI_D2,2010,Kharif,Cotton(Lint),276.5,200.1,1020,0.724
+Tamil Nadu,TAMI_D2,2010,Kharif,Maize,794.6,2247,1020,2.828
+Tamil Nadu,TAMI_D2,2010,Rabi,Wheat,1036.2,2440.2,1020,2.355
+Tamil Nadu,TAMI_D2,2011,Kharif,Cotton(Lint),633.4,403.7,897.6,0.637
+Tamil Nadu,TAMI_D2,2011,Autumn,Rice,1182.7,3750.3,897.6,3.171
+Tamil Nadu,TAMI_D2,2011,Kharif,Soyabean,239.6,239.2,897.6,0.998
+Tamil Nadu,TAMI_D2,2011,Rabi,Wheat,2610.9,6754.6,897.6,2.587
+Tamil Nadu,TAMI_D2,2012,Kharif,Arhar/Tur,1008.5,708.8,858.9,0.703
+Tamil Nadu,TAMI_D2,2012,Kharif,Bajra,941.2,1309.9,858.9,1.392
+Tamil Nadu,TAMI_D2,2012,Kharif,Jowar,1062.3,1141,858.9,1.074
+Tamil Nadu,TAMI_D2,2012,Autumn,Rice,894.7,2652,858.9,2.964
+Tamil Nadu,TAMI_D2,2012,Rabi,Wheat,1249.2,3076.6,858.9,2.463
+Tamil Nadu,TAMI_D2,2013,Kharif,Cotton(Lint),997.2,580.9,979.9,0.583
+Tamil Nadu,TAMI_D2,2013,Kharif,Maize,1038.7,2366.7,979.9,2.279
+Tamil Nadu,TAMI_D2,2013,Kharif,Rice,1015.2,3170.5,979.9,3.123
+Tamil Nadu,TAMI_D2,2014,Kharif,Bajra,2020.4,2947.6,975,1.459
+Tamil Nadu,TAMI_D2,2014,Rabi,Maize,343.1,602.7,975,1.757
+Tamil Nadu,TAMI_D2,2014,Kharif,Soyabean,902.6,1449.8,975,1.606
+Tamil Nadu,TAMI_D2,2014,Rabi,Wheat,736,2590.9,975,3.52
+Tamil Nadu,TAMI_D2,2015,Kharif,Cotton(Lint),469,159,917.9,0.339
+Tamil Nadu,TAMI_D2,2015,Rabi,Jowar,298.3,362.7,917.9,1.216
+Tamil Nadu,TAMI_D2,2015,Kharif,Soyabean,1665.4,1410.8,917.9,0.847
+Tamil Nadu,TAMI_D2,2015,Rabi,Wheat,2736.5,6770.1,917.9,2.474
+Tamil Nadu,TAMI_D3,2005,Kharif,Rice,472.8,996.8,826.6,2.108
+Tamil Nadu,TAMI_D3,2005,Kharif,Soyabean,435.2,419.4,826.6,0.964
+Tamil Nadu,TAMI_D3,2005,Whole Year,Sugarcane,194.3,15378.3,826.6,79.147
+Tamil Nadu,TAMI_D3,2005,Rabi,Wheat,605.4,1409.3,826.6,2.328
+Tamil Nadu,TAMI_D3,2006,Rabi,Jowar,1621.1,2075,800.4,1.28
+Tamil Nadu,TAMI_D3,2006,Rabi,Maize,1146.5,1884.8,800.4,1.644
+Tamil Nadu,TAMI_D3,2006,Kharif,Soyabean,1213.7,1734,800.4,1.429
+Tamil Nadu,TAMI_D3,2006,Whole Year,Sugarcane,872.6,55934.7,800.4,64.101
+Tamil Nadu,TAMI_D3,2007,Kharif,Cotton(Lint),601.2,371.2,857.4,0.617
+Tamil Nadu,TAMI_D3,2007,Rabi,Groundnut,1612.5,1753,857.4,1.087
+Tamil Nadu,TAMI_D3,2007,Whole Year,Sugarcane,1243.9,77211.1,857.4,62.072
+Tamil Nadu,TAMI_D3,2008,Rabi,Groundnut,1507.9,1926.7,970.9,1.278
+Tamil Nadu,TAMI_D3,2008,Kharif,Maize,276.6,891.6,970.9,3.223
+Tamil Nadu,TAMI_D3,2008,Rabi,Wheat,440.5,1095.7,970.9,2.487
+Tamil Nadu,TAMI_D3,2009,Kharif,Cotton(Lint),2334.2,1653.6,1042.5,0.708
+Tamil Nadu,TAMI_D3,2009,Rabi,Jowar,291.1,282.3,1042.5,0.97
+Tamil Nadu,TAMI_D3,2009,Kharif,Maize,2108.2,4290.9,1042.5,2.035
+Tamil Nadu,TAMI_D3,2009,Kharif,Rice,123.4,250.5,1042.5,2.03
+Tamil Nadu,TAMI_D3,2009,Whole Year,Sugarcane,1013.7,85859.1,1042.5,84.699
+Tamil Nadu,TAMI_D3,2010,Kharif,Arhar/Tur,499.1,398,1020,0.797
+Tamil Nadu,TAMI_D3,2010,Kharif,Maize,764.4,2401.6,1020,3.142
+Tamil Nadu,TAMI_D3,2010,Autumn,Rice,520,1097.2,1020,2.11
+Tamil Nadu,TAMI_D3,2010,Kharif,Soyabean,568.9,580.2,1020,1.02
+Tamil Nadu,TAMI_D3,2011,Kharif,Arhar/Tur,815.7,666.7,897.6,0.817
+Tamil Nadu,TAMI_D3,2011,Kharif,Groundnut,1036.7,978.2,897.6,0.944
+Tamil Nadu,TAMI_D3,2011,Kharif,Rice,86.6,253.3,897.6,2.925
+Tamil Nadu,TAMI_D3,2011,Whole Year,Sugarcane,1503.8,108665.4,897.6,72.261
+Tamil Nadu,TAMI_D3,2011,Rabi,Wheat,1176.4,2354.1,897.6,2.001
+Tamil Nadu,TAMI_D3,2012,Kharif,Bajra,1374.5,1327.9,858.9,0.966
+Tamil Nadu,TAMI_D3,2012,Autumn,Rice,52.2,146.5,858.9,2.807
+Tamil Nadu,TAMI_D3,2012,Kharif,Soyabean,435.3,554,858.9,1.273
+Tamil Nadu,TAMI_D3,2013,Kharif,Bajra,766.6,1023.5,979.9,1.335
+Tamil Nadu,TAMI_D3,2013,Kharif,Cotton(Lint),646.5,386,979.9,0.597
+Tamil Nadu,TAMI_D3,2013,Rabi,Maize,2059,6363.5,979.9,3.091
+Tamil Nadu,TAMI_D3,2013,Whole Year,Sugarcane,349.7,23644.8,979.9,67.615
+Tamil Nadu,TAMI_D3,2013,Rabi,Wheat,1327.4,3701,979.9,2.788
+Tamil Nadu,TAMI_D3,2014,Kharif,Arhar/Tur,757.3,715.1,975,0.944
+Tamil Nadu,TAMI_D3,2014,Autumn,Rice,631.5,1624.5,975,2.572
+Tamil Nadu,TAMI_D3,2014,Rabi,Wheat,856.3,3141.5,975,3.669
+Tamil Nadu,TAMI_D3,2015,Kharif,Bajra,979,1553.6,917.9,1.587
+Tamil Nadu,TAMI_D3,2015,Kharif,Cotton(Lint),594.3,309.2,917.9,0.52
+Tamil Nadu,TAMI_D3,2015,Kharif,Rice,207.8,658.8,917.9,3.17
+Tamil Nadu,TAMI_D4,2005,Kharif,Arhar/Tur,1560.1,1768.9,826.6,1.134
+Tamil Nadu,TAMI_D4,2005,Kharif,Cotton(Lint),920.6,452.1,826.6,0.491
+Tamil Nadu,TAMI_D4,2005,Kharif,Jowar,934.2,1446,826.6,1.548
+Tamil Nadu,TAMI_D4,2005,Rabi,Wheat,2119.1,5084.6,826.6,2.399
+Tamil Nadu,TAMI_D4,2006,Kharif,Arhar/Tur,1044.6,1066.2,800.4,1.021
+Tamil Nadu,TAMI_D4,2006,Rabi,Jowar,1196.1,1263,800.4,1.056
+Tamil Nadu,TAMI_D4,2006,Kharif,Maize,1310.6,2663.9,800.4,2.033
+Tamil Nadu,TAMI_D4,2006,Kharif,Rice,364.7,983.6,800.4,2.697
+Tamil Nadu,TAMI_D4,2006,Whole Year,Sugarcane,1133.2,79102.9,800.4,69.805
+Tamil Nadu,TAMI_D4,2007,Kharif,Bajra,819.6,757.4,857.4,0.924
+Tamil Nadu,TAMI_D4,2007,Kharif,Maize,1957.6,4023.7,857.4,2.055
+Tamil Nadu,TAMI_D4,2007,Rabi,Wheat,806,2258.1,857.4,2.802
+Tamil Nadu,TAMI_D4,2008,Kharif,Arhar/Tur,677.6,819.6,970.9,1.21
+Tamil Nadu,TAMI_D4,2008,Rabi,Groundnut,724.4,1067.1,970.9,1.473
+Tamil Nadu,TAMI_D4,2008,Autumn,Rice,939.2,2284.8,970.9,2.433
+Tamil Nadu,TAMI_D4,2009,Kharif,Arhar/Tur,1358.2,1690.2,1042.5,1.244
+Tamil Nadu,TAMI_D4,2009,Kharif,Bajra,1335.4,1678.5,1042.5,1.257
+Tamil Nadu,TAMI_D4,2009,Kharif,Cotton(Lint),654.4,411.6,1042.5,0.629
+Tamil Nadu,TAMI_D4,2009,Whole Year,Sugarcane,848.3,53341.4,1042.5,62.88
+Tamil Nadu,TAMI_D4,2010,Kharif,Arhar/Tur,1156.9,1219.1,1020,1.054
+Tamil Nadu,TAMI_D4,2010,Rabi,Groundnut,1567,2890.7,1020,1.845
+Tamil Nadu,TAMI_D4,2010,Rabi,Maize,456,1438.5,1020,3.155
+Tamil Nadu,TAMI_D4,2010,Whole Year,Sugarcane,764.1,63080.6,1020,82.555
+Tamil Nadu,TAMI_D4,2011,Kharif,Cotton(Lint),2248.1,1251.9,897.6,0.557
+Tamil Nadu,TAMI_D4,2011,Kharif,Maize,848.4,2060.7,897.6,2.429
+Tamil Nadu,TAMI_D4,2011,Autumn,Rice,223.9,459.6,897.6,2.053
+Tamil Nadu,TAMI_D4,2011,Kharif,Soyabean,549.4,650,897.6,1.183
+Tamil Nadu,TAMI_D4,2012,Kharif,Cotton(Lint),189.9,99.6,858.9,0.524
+Tamil Nadu,TAMI_D4,2012,Kharif,Groundnut,1778.8,3008.9,858.9,1.692
+Tamil Nadu,TAMI_D4,2012,Rabi,Jowar,461.3,441.4,858.9,0.957
+Tamil Nadu,TAMI_D4,2013,Kharif,Bajra,495.8,620.4,979.9,1.251
+Tamil Nadu,TAMI_D4,2013,Kharif,Jowar,383.7,363.3,979.9,0.947
+Tamil Nadu,TAMI_D4,2013,Kharif,Maize,850.5,1643.8,979.9,1.933
+Tamil Nadu,TAMI_D4,2013,Rabi,Wheat,287.4,1048.2,979.9,3.647
+Tamil Nadu,TAMI_D4,2014,Kharif,Arhar/Tur,128.6,87.3,975,0.679
+Tamil Nadu,TAMI_D4,2014,Kharif,Cotton(Lint),371.6,186.7,975,0.502
+Tamil Nadu,TAMI_D4,2014,Kharif,Maize,1866.3,3701.5,975,1.983
+Tamil Nadu,TAMI_D4,2014,Rabi,Wheat,866.4,2404.3,975,2.775
+Tamil Nadu,TAMI_D4,2015,Rabi,Jowar,673.8,964.1,917.9,1.431
+Tamil Nadu,TAMI_D4,2015,Kharif,Soyabean,887.6,759.8,917.9,0.856
+Tamil Nadu,TAMI_D5,2005,Kharif,Bajra,2218.6,2684.4,826.6,1.21
+Tamil Nadu,TAMI_D5,2005,Rabi,Groundnut,662.8,1182.7,826.6,1.784
+Tamil Nadu,TAMI_D5,2005,Kharif,Maize,1634.2,2994,826.6,1.832
+Tamil Nadu,TAMI_D5,2006,Kharif,Arhar/Tur,1337.5,1610.8,800.4,1.204
+Tamil Nadu,TAMI_D5,2006,Rabi,Maize,833.7,1581.1,800.4,1.896
+Tamil Nadu,TAMI_D5,2006,Rabi,Wheat,750.7,2083.7,800.4,2.776
+Tamil Nadu,TAMI_D5,2007,Kharif,Arhar/Tur,1280.3,1240.5,857.4,0.969
+Tamil Nadu,TAMI_D5,2007,Kharif,Bajra,547.6,448.5,857.4,0.819
+Tamil Nadu,TAMI_D5,2007,Rabi,Maize,376.6,872.4,857.4,2.317
+Tamil Nadu,TAMI_D5,2007,Whole Year,Sugarcane,690.4,55187.5,857.4,79.936
+Tamil Nadu,TAMI_D5,2008,Kharif,Groundnut,836.4,874,970.9,1.045
+Tamil Nadu,TAMI_D5,2008,Kharif,Soyabean,302.6,284.7,970.9,0.941
+Tamil Nadu,TAMI_D5,2008,Whole Year,Sugarcane,632.1,37193.7,970.9,58.841
+Tamil Nadu,TAMI_D5,2009,Kharif,Arhar/Tur,534.8,707,1042.5,1.322
+Tamil Nadu,TAMI_D5,2009,Rabi,Groundnut,688.6,1144.4,1042.5,1.662
+Tamil Nadu,TAMI_D5,2009,Kharif,Soyabean,418.7,479.8,1042.5,1.146
+Tamil Nadu,TAMI_D5,2010,Kharif,Arhar/Tur,1493.2,1479.4,1020,0.991
+Tamil Nadu,TAMI_D5,2010,Kharif,Bajra,279.9,374.9,1020,1.339
+Tamil Nadu,TAMI_D5,2010,Kharif,Rice,1434,3148.8,1020,2.196
+Tamil Nadu,TAMI_D5,2010,Kharif,Soyabean,1395.4,1867,1020,1.338
+Tamil Nadu,TAMI_D5,2011,Kharif,Bajra,1344.1,1913.4,897.6,1.424
+Tamil Nadu,TAMI_D5,2011,Kharif,Cotton(Lint),891.1,423,897.6,0.475
+Tamil Nadu,TAMI_D5,2011,Rabi,Groundnut,1336.9,2157.1,897.6,1.614
+Tamil Nadu,TAMI_D5,2011,Kharif,Soyabean,549.5,728.4,897.6,1.326
+Tamil Nadu,TAMI_D5,2011,Rabi,Wheat,2368.4,7217.5,897.6,3.047
+Tamil Nadu,TAMI_D5,2012,Kharif,Cotton(Lint),393.8,268.9,858.9,0.683
+Tamil Nadu,TAMI_D5,2012,Rabi,Maize,2636.9,5959.2,858.9,2.26
+Tamil Nadu,TAMI_D5,2012,Kharif,Soyabean,1087.8,1074.5,858.9,0.988
+Tamil Nadu,TAMI_D5,2012,Rabi,Wheat,318.3,1038.2,858.9,3.262
+Tamil Nadu,TAMI_D5,2013,Kharif,Arhar/Tur,177.9,210.3,979.9,1.182
+Tamil Nadu,TAMI_D5,2013,Kharif,Bajra,793.2,1155.5,979.9,1.457
+Tamil Nadu,TAMI_D5,2013,Rabi,Jowar,1802.1,1427.2,979.9,0.792
+Tamil Nadu,TAMI_D5,2013,Rabi,Maize,664.2,1352,979.9,2.036
+Tamil Nadu,TAMI_D5,2013,Kharif,Soyabean,1553.6,2363.6,979.9,1.521
+Tamil Nadu,TAMI_D5,2014,Kharif,Arhar/Tur,1079.4,771.2,975,0.714
+Tamil Nadu,TAMI_D5,2014,Kharif,Bajra,2238.8,2719.4,975,1.215
+Tamil Nadu,TAMI_D5,2014,Kharif,Jowar,670.2,599.8,975,0.895
+Tamil Nadu,TAMI_D5,2015,Kharif,Cotton(Lint),2167.7,1083.3,917.9,0.5
+Tamil Nadu,TAMI_D5,2015,Rabi,Maize,2679.2,6868.3,917.9,2.564
+Tamil Nadu,TAMI_D5,2015,Autumn,Rice,335,773.7,917.9,2.31
+Tamil Nadu,TAMI_D5,2015,Whole Year,Sugarcane,880.6,56673.6,917.9,64.358
+Tamil Nadu,TAMI_D5,2015,Rabi,Wheat,1216.9,4175.6,917.9,3.431
+Uttar Pradesh,UTTA_D1,2005,Kharif,Arhar/Tur,219.5,221.2,974.3,1.008
+Uttar Pradesh,UTTA_D1,2005,Kharif,Cotton(Lint),396.9,240.6,974.3,0.606
+Uttar Pradesh,UTTA_D1,2005,Rabi,Jowar,399.9,352.1,974.3,0.88
+Uttar Pradesh,UTTA_D1,2005,Rabi,Maize,508.4,1149.5,974.3,2.261
+Uttar Pradesh,UTTA_D1,2006,Kharif,Jowar,907.3,777.7,1112.4,0.857
+Uttar Pradesh,UTTA_D1,2006,Kharif,Rice,1645.3,3979.6,1112.4,2.419
+Uttar Pradesh,UTTA_D1,2006,Rabi,Wheat,701.4,2468.1,1112.4,3.519
+Uttar Pradesh,UTTA_D1,2007,Rabi,Groundnut,199.6,186.4,727.7,0.934
+Uttar Pradesh,UTTA_D1,2007,Kharif,Jowar,750.6,1052.3,727.7,1.402
+Uttar Pradesh,UTTA_D1,2007,Kharif,Rice,1030.1,2578.4,727.7,2.503
+Uttar Pradesh,UTTA_D1,2007,Rabi,Wheat,679.1,1675.4,727.7,2.467
+Uttar Pradesh,UTTA_D1,2008,Kharif,Arhar/Tur,665.1,608.8,960.9,0.915
+Uttar Pradesh,UTTA_D1,2008,Kharif,Jowar,857.9,958.3,960.9,1.117
+Uttar Pradesh,UTTA_D1,2008,Rabi,Maize,121.5,277.8,960.9,2.286
+Uttar Pradesh,UTTA_D1,2009,Kharif,Bajra,854.9,925,973.4,1.082
+Uttar Pradesh,UTTA_D1,2009,Kharif,Cotton(Lint),581.4,339,973.4,0.583
+Uttar Pradesh,UTTA_D1,2009,Rabi,Groundnut,734.1,1096.2,973.4,1.493
+Uttar Pradesh,UTTA_D1,2009,Kharif,Maize,1779.3,4541.9,973.4,2.553
+Uttar Pradesh,UTTA_D1,2009,Autumn,Rice,502.5,1642.3,973.4,3.268
+Uttar Pradesh,UTTA_D1,2010,Rabi,Groundnut,523.3,688.9,718.4,1.316
+Uttar Pradesh,UTTA_D1,2010,Kharif,Jowar,339.9,241.3,718.4,0.71
+Uttar Pradesh,UTTA_D1,2010,Rabi,Maize,1598.4,2961.8,718.4,1.853
+Uttar Pradesh,UTTA_D1,2010,Kharif,Soyabean,617.3,798.4,718.4,1.293
+Uttar Pradesh,UTTA_D1,2010,Rabi,Wheat,903.2,2004.6,718.4,2.219
+Uttar Pradesh,UTTA_D1,2011,Kharif,Arhar/Tur,1571.2,1785.2,920.2,1.136
+Uttar Pradesh,UTTA_D1,2011,Kharif,Bajra,1698.2,2914,920.2,1.716
+Uttar Pradesh,UTTA_D1,2011,Kharif,Groundnut,1693.4,1684.2,920.2,0.995
+Uttar Pradesh,UTTA_D1,2011,Autumn,Rice,3539.7,9483,920.2,2.679
+Uttar Pradesh,UTTA_D1,2011,Whole Year,Sugarcane,189.5,15595.3,920.2,82.297
+Uttar Pradesh,UTTA_D1,2012,Kharif,Arhar/Tur,822.6,878.8,754.2,1.068
+Uttar Pradesh,UTTA_D1,2012,Kharif,Groundnut,1178.5,1489.3,754.2,1.264
+Uttar Pradesh,UTTA_D1,2012,Kharif,Maize,805.5,2325,754.2,2.886
+Uttar Pradesh,UTTA_D1,2012,Kharif,Rice,303.5,777.6,754.2,2.562
+Uttar Pradesh,UTTA_D1,2012,Rabi,Wheat,91.6,232.1,754.2,2.534
+Uttar Pradesh,UTTA_D1,2013,Kharif,Cotton(Lint),235.7,125.3,876,0.532
+Uttar Pradesh,UTTA_D1,2013,Kharif,Maize,339.2,528.4,876,1.558
+Uttar Pradesh,UTTA_D1,2013,Whole Year,Sugarcane,2505.2,180297.6,876,71.969
+Uttar Pradesh,UTTA_D1,2013,Rabi,Wheat,338.4,750.6,876,2.218
+Uttar Pradesh,UTTA_D1,2014,Kharif,Bajra,1046.6,1716.2,887.4,1.64
+Uttar Pradesh,UTTA_D1,2014,Kharif,Cotton(Lint),1609.1,831.5,887.4,0.517
+Uttar Pradesh,UTTA_D1,2014,Kharif,Groundnut,1842.5,3200.8,887.4,1.737
+Uttar Pradesh,UTTA_D1,2014,Kharif,Jowar,666.6,603.1,887.4,0.905
+Uttar Pradesh,UTTA_D1,2014,Rabi,Wheat,252.4,655.3,887.4,2.596
+Uttar Pradesh,UTTA_D1,2015,Kharif,Cotton(Lint),456.4,274.6,874.8,0.602
+Uttar Pradesh,UTTA_D1,2015,Rabi,Groundnut,679.1,808.5,874.8,1.191
+Uttar Pradesh,UTTA_D1,2015,Rabi,Maize,1254.3,2193.6,874.8,1.749
+Uttar Pradesh,UTTA_D1,2015,Autumn,Rice,2553.2,6135.4,874.8,2.403
+Uttar Pradesh,UTTA_D1,2015,Rabi,Wheat,1460.7,3492.5,874.8,2.391
+Uttar Pradesh,UTTA_D2,2005,Kharif,Cotton(Lint),762.3,440.7,974.3,0.578
+Uttar Pradesh,UTTA_D2,2005,Rabi,Groundnut,653.8,1157.8,974.3,1.771
+Uttar Pradesh,UTTA_D2,2005,Kharif,Rice,244.3,657.3,974.3,2.691
+Uttar Pradesh,UTTA_D2,2006,Kharif,Arhar/Tur,455.6,486.5,1112.4,1.068
+Uttar Pradesh,UTTA_D2,2006,Rabi,Jowar,1257,1204.8,1112.4,0.958
+Uttar Pradesh,UTTA_D2,2006,Autumn,Rice,2068.6,7367.6,1112.4,3.562
+Uttar Pradesh,UTTA_D2,2006,Whole Year,Sugarcane,998,78992,1112.4,79.15
+Uttar Pradesh,UTTA_D2,2007,Kharif,Arhar/Tur,1189.3,1316.1,727.7,1.107
+Uttar Pradesh,UTTA_D2,2007,Kharif,Groundnut,1454.8,2116.9,727.7,1.455
+Uttar Pradesh,UTTA_D2,2007,Rabi,Jowar,489.3,359.3,727.7,0.734
+Uttar Pradesh,UTTA_D2,2007,Kharif,Soyabean,1162.6,942.1,727.7,0.81
+Uttar Pradesh,UTTA_D2,2008,Kharif,Bajra,1019.7,1266.6,960.9,1.242
+Uttar Pradesh,UTTA_D2,2008,Kharif,Groundnut,930.7,1057.1,960.9,1.136
+Uttar Pradesh,UTTA_D2,2008,Kharif,Maize,646.1,1071.2,960.9,1.658
+Uttar Pradesh,UTTA_D2,2009,Kharif,Arhar/Tur,499.8,639.5,973.4,1.28
+Uttar Pradesh,UTTA_D2,2009,Kharif,Rice,857.2,2424.6,973.4,2.829
+Uttar Pradesh,UTTA_D2,2009,Whole Year,Sugarcane,954.7,79872.5,973.4,83.662
+Uttar Pradesh,UTTA_D2,2010,Kharif,Arhar/Tur,55.3,36.1,718.4,0.653
+Uttar Pradesh,UTTA_D2,2010,Kharif,Bajra,445.2,430,718.4,0.966
+Uttar Pradesh,UTTA_D2,2010,Kharif,Rice,598.9,1711.7,718.4,2.858
+Uttar Pradesh,UTTA_D2,2010,Rabi,Wheat,350.9,930,718.4,2.65
+Uttar Pradesh,UTTA_D2,2011,Kharif,Cotton(Lint),866.3,483.7,920.2,0.558
+Uttar Pradesh,UTTA_D2,2011,Rabi,Groundnut,981.2,955.1,920.2,0.973
+Uttar Pradesh,UTTA_D2,2011,Rabi,Jowar,1135.8,1192.1,920.2,1.05
+Uttar Pradesh,UTTA_D2,2011,Kharif,Rice,280,515.9,920.2,1.842
+Uttar Pradesh,UTTA_D2,2011,Kharif,Soyabean,1772.6,2702.6,920.2,1.525
+Uttar Pradesh,UTTA_D2,2012,Kharif,Arhar/Tur,1214.2,1331.8,754.2,1.097
+Uttar Pradesh,UTTA_D2,2012,Kharif,Bajra,866.4,1242.1,754.2,1.434
+Uttar Pradesh,UTTA_D2,2012,Kharif,Maize,163.1,373.9,754.2,2.292
+Uttar Pradesh,UTTA_D2,2012,Whole Year,Sugarcane,711,47068.6,754.2,66.201
+Uttar Pradesh,UTTA_D2,2012,Rabi,Wheat,342.9,717.7,754.2,2.093
+Uttar Pradesh,UTTA_D2,2013,Kharif,Cotton(Lint),1335.4,715.9,876,0.536
+Uttar Pradesh,UTTA_D2,2013,Kharif,Jowar,791,1089.3,876,1.377
+Uttar Pradesh,UTTA_D2,2013,Kharif,Soyabean,1173.6,1199.1,876,1.022
+Uttar Pradesh,UTTA_D2,2014,Kharif,Arhar/Tur,252.1,327.5,887.4,1.299
+Uttar Pradesh,UTTA_D2,2014,Autumn,Rice,988.2,2131.6,887.4,2.157
+Uttar Pradesh,UTTA_D2,2014,Whole Year,Sugarcane,301.3,22527.7,887.4,74.768
+Uttar Pradesh,UTTA_D2,2015,Kharif,Arhar/Tur,1363,844.6,874.8,0.62
+Uttar Pradesh,UTTA_D2,2015,Kharif,Bajra,2275.7,2604.9,874.8,1.145
+Uttar Pradesh,UTTA_D2,2015,Kharif,Soyabean,391.7,373.5,874.8,0.954
+Uttar Pradesh,UTTA_D3,2005,Kharif,Groundnut,757.7,767.1,974.3,1.012
+Uttar Pradesh,UTTA_D3,2005,Rabi,Jowar,1361,1782.6,974.3,1.31
+Uttar Pradesh,UTTA_D3,2005,Kharif,Soyabean,545.8,814.5,974.3,1.492
+Uttar Pradesh,UTTA_D3,2006,Kharif,Bajra,489.7,882,1112.4,1.801
+Uttar Pradesh,UTTA_D3,2006,Kharif,Cotton(Lint),965,618.4,1112.4,0.641
+Uttar Pradesh,UTTA_D3,2006,Kharif,Maize,404.8,751.6,1112.4,1.857
+Uttar Pradesh,UTTA_D3,2007,Kharif,Cotton(Lint),404.4,135.6,727.7,0.335
+Uttar Pradesh,UTTA_D3,2007,Rabi,Jowar,1186.4,831,727.7,0.7
+Uttar Pradesh,UTTA_D3,2007,Whole Year,Sugarcane,3348.1,195074.5,727.7,58.264
+Uttar Pradesh,UTTA_D3,2007,Rabi,Wheat,299,967.9,727.7,3.237
+Uttar Pradesh,UTTA_D3,2008,Kharif,Arhar/Tur,636.2,632.9,960.9,0.995
+Uttar Pradesh,UTTA_D3,2008,Whole Year,Sugarcane,414.8,31521.8,960.9,75.993
+Uttar Pradesh,UTTA_D3,2008,Rabi,Wheat,485.3,1034.6,960.9,2.132
+Uttar Pradesh,UTTA_D3,2009,Kharif,Arhar/Tur,1086.5,708,973.4,0.652
+Uttar Pradesh,UTTA_D3,2009,Kharif,Bajra,771.1,1184.8,973.4,1.537
+Uttar Pradesh,UTTA_D3,2009,Rabi,Groundnut,124.4,133.7,973.4,1.075
+Uttar Pradesh,UTTA_D3,2010,Kharif,Arhar/Tur,1229.4,1234.5,718.4,1.004
+Uttar Pradesh,UTTA_D3,2010,Kharif,Bajra,663.8,1039.2,718.4,1.566
+Uttar Pradesh,UTTA_D3,2010,Rabi,Wheat,302.8,871.5,718.4,2.878
+Uttar Pradesh,UTTA_D3,2011,Kharif,Bajra,862.7,967.4,920.2,1.121
+Uttar Pradesh,UTTA_D3,2011,Kharif,Cotton(Lint),430.4,283.4,920.2,0.658
+Uttar Pradesh,UTTA_D3,2011,Rabi,Groundnut,647.6,1219.4,920.2,1.883
+Uttar Pradesh,UTTA_D3,2011,Kharif,Soyabean,695.8,916.9,920.2,1.318
+Uttar Pradesh,UTTA_D3,2011,Whole Year,Sugarcane,536.4,39440.8,920.2,73.529
+Uttar Pradesh,UTTA_D3,2012,Kharif,Bajra,456.6,648.7,754.2,1.421
+Uttar Pradesh,UTTA_D3,2012,Rabi,Groundnut,932.7,1041.3,754.2,1.116
+Uttar Pradesh,UTTA_D3,2012,Kharif,Rice,1089.8,1958.3,754.2,1.797
+Uttar Pradesh,UTTA_D3,2012,Whole Year,Sugarcane,235.2,15775.1,754.2,67.071
+Uttar Pradesh,UTTA_D3,2013,Kharif,Arhar/Tur,1141.1,1399.2,876,1.226
+Uttar Pradesh,UTTA_D3,2013,Kharif,Bajra,200.5,271.6,876,1.355
+Uttar Pradesh,UTTA_D3,2013,Kharif,Cotton(Lint),627,294.2,876,0.469
+Uttar Pradesh,UTTA_D3,2013,Kharif,Soyabean,964.7,1122.3,876,1.163
+Uttar Pradesh,UTTA_D3,2014,Kharif,Arhar/Tur,742.7,745.2,887.4,1.003
+Uttar Pradesh,UTTA_D3,2014,Kharif,Bajra,822.5,690.4,887.4,0.839
+Uttar Pradesh,UTTA_D3,2014,Kharif,Cotton(Lint),552.4,225.6,887.4,0.408
+Uttar Pradesh,UTTA_D3,2014,Kharif,Jowar,780.6,819.5,887.4,1.05
+Uttar Pradesh,UTTA_D3,2014,Kharif,Maize,1395.5,2283.3,887.4,1.636
+Uttar Pradesh,UTTA_D3,2015,Rabi,Groundnut,550.4,818.9,874.8,1.488
+Uttar Pradesh,UTTA_D3,2015,Kharif,Soyabean,1230.1,1142.9,874.8,0.929
+Uttar Pradesh,UTTA_D3,2015,Whole Year,Sugarcane,706.9,56302.4,874.8,79.647
+Uttar Pradesh,UTTA_D4,2005,Kharif,Bajra,356.2,542.8,974.3,1.524
+Uttar Pradesh,UTTA_D4,2005,Rabi,Jowar,1520.2,2009.2,974.3,1.322
+Uttar Pradesh,UTTA_D4,2005,Kharif,Maize,506.2,1333.9,974.3,2.635
+Uttar Pradesh,UTTA_D4,2005,Rabi,Wheat,1677.9,5329.7,974.3,3.176
+Uttar Pradesh,UTTA_D4,2006,Kharif,Cotton(Lint),1500.3,515.5,1112.4,0.344
+Uttar Pradesh,UTTA_D4,2006,Kharif,Jowar,998.5,1470.8,1112.4,1.473
+Uttar Pradesh,UTTA_D4,2006,Autumn,Rice,1035.2,2938.4,1112.4,2.838
+Uttar Pradesh,UTTA_D4,2006,Whole Year,Sugarcane,2643.6,191242.9,1112.4,72.342
+Uttar Pradesh,UTTA_D4,2006,Rabi,Wheat,439,1598.4,1112.4,3.641
+Uttar Pradesh,UTTA_D4,2007,Kharif,Arhar/Tur,295.1,218,727.7,0.739
+Uttar Pradesh,UTTA_D4,2007,Rabi,Groundnut,453.3,448.9,727.7,0.99
+Uttar Pradesh,UTTA_D4,2007,Kharif,Maize,608.8,1429.3,727.7,2.348
+Uttar Pradesh,UTTA_D4,2007,Kharif,Soyabean,580.3,508.5,727.7,0.876
+Uttar Pradesh,UTTA_D4,2007,Whole Year,Sugarcane,666.6,39979.4,727.7,59.975
+Uttar Pradesh,UTTA_D4,2008,Kharif,Bajra,1371.6,1165,960.9,0.849
+Uttar Pradesh,UTTA_D4,2008,Rabi,Jowar,254.8,277.2,960.9,1.088
+Uttar Pradesh,UTTA_D4,2008,Kharif,Rice,919.5,3388.1,960.9,3.685
+Uttar Pradesh,UTTA_D4,2009,Whole Year,Sugarcane,1569,90243.9,973.4,57.517
+Uttar Pradesh,UTTA_D4,2009,Rabi,Wheat,244.2,622.5,973.4,2.549
+Uttar Pradesh,UTTA_D4,2010,Kharif,Arhar/Tur,1116.5,1349.2,718.4,1.208
+Uttar Pradesh,UTTA_D4,2010,Kharif,Bajra,462.8,608.3,718.4,1.314
+Uttar Pradesh,UTTA_D4,2010,Kharif,Maize,50,92.5,718.4,1.85
+Uttar Pradesh,UTTA_D4,2010,Whole Year,Sugarcane,1154.6,67294.7,718.4,58.284
+Uttar Pradesh,UTTA_D4,2010,Rabi,Wheat,742.8,2228.6,718.4,3
+Uttar Pradesh,UTTA_D4,2011,Kharif,Bajra,170,139.8,920.2,0.822
+Uttar Pradesh,UTTA_D4,2011,Kharif,Jowar,1864.6,2055.7,920.2,1.102
+Uttar Pradesh,UTTA_D4,2011,Kharif,Rice,792.5,2787.5,920.2,3.517
+Uttar Pradesh,UTTA_D4,2011,Kharif,Soyabean,2034.3,3274.4,920.2,1.61
+Uttar Pradesh,UTTA_D4,2012,Kharif,Cotton(Lint),817.4,540.3,754.2,0.661
+Uttar Pradesh,UTTA_D4,2012,Rabi,Jowar,265.3,294.2,754.2,1.109
+Uttar Pradesh,UTTA_D4,2012,Kharif,Rice,210.9,702.8,754.2,3.332
+Uttar Pradesh,UTTA_D4,2012,Kharif,Soyabean,363.9,498.5,754.2,1.37
+Uttar Pradesh,UTTA_D4,2013,Kharif,Cotton(Lint),528.6,222,876,0.42
+Uttar Pradesh,UTTA_D4,2013,Rabi,Jowar,1676.4,2515.3,876,1.5
+Uttar Pradesh,UTTA_D4,2013,Kharif,Maize,2624.3,6792.3,876,2.588
+Uttar Pradesh,UTTA_D4,2013,Kharif,Soyabean,1032.5,1169.9,876,1.133
+Uttar Pradesh,UTTA_D4,2013,Rabi,Wheat,1289.5,2952.1,876,2.289
+Uttar Pradesh,UTTA_D4,2014,Kharif,Cotton(Lint),354.7,135.8,887.4,0.383
+Uttar Pradesh,UTTA_D4,2014,Kharif,Groundnut,50,61.5,887.4,1.23
+Uttar Pradesh,UTTA_D4,2014,Rabi,Jowar,781.3,1163.5,887.4,1.489
+Uttar Pradesh,UTTA_D4,2014,Kharif,Soyabean,1517.7,2034.4,887.4,1.34
+Uttar Pradesh,UTTA_D4,2014,Rabi,Wheat,2592.1,8207.2,887.4,3.166
+Uttar Pradesh,UTTA_D4,2015,Kharif,Arhar/Tur,1474.7,1905.3,874.8,1.292
+Uttar Pradesh,UTTA_D4,2015,Kharif,Cotton(Lint),616.7,431.7,874.8,0.7
+Uttar Pradesh,UTTA_D4,2015,Kharif,Groundnut,987.4,1252.1,874.8,1.268
+Uttar Pradesh,UTTA_D4,2015,Rabi,Jowar,1378.6,2058.1,874.8,1.493
+Uttar Pradesh,UTTA_D4,2015,Kharif,Soyabean,1883.8,1759.1,874.8,0.934
+Uttar Pradesh,UTTA_D5,2005,Kharif,Cotton(Lint),1199.9,435.7,974.3,0.363
+Uttar Pradesh,UTTA_D5,2005,Rabi,Jowar,866,793.8,974.3,0.917
+Uttar Pradesh,UTTA_D5,2005,Rabi,Wheat,370.3,966.7,974.3,2.611
+Uttar Pradesh,UTTA_D5,2006,Kharif,Arhar/Tur,415.7,318.8,1112.4,0.767
+Uttar Pradesh,UTTA_D5,2006,Rabi,Groundnut,607.5,1202.1,1112.4,1.979
+Uttar Pradesh,UTTA_D5,2006,Rabi,Wheat,579.6,1893.1,1112.4,3.266
+Uttar Pradesh,UTTA_D5,2007,Kharif,Bajra,845.2,823.8,727.7,0.975
+Uttar Pradesh,UTTA_D5,2007,Kharif,Cotton(Lint),124.9,44.9,727.7,0.359
+Uttar Pradesh,UTTA_D5,2007,Rabi,Jowar,366.1,381.4,727.7,1.042
+Uttar Pradesh,UTTA_D5,2007,Rabi,Maize,1354.4,3999.5,727.7,2.953
+Uttar Pradesh,UTTA_D5,2007,Rabi,Wheat,1025.6,2807.7,727.7,2.738
+Uttar Pradesh,UTTA_D5,2008,Rabi,Jowar,874.5,1439.1,960.9,1.646
+Uttar Pradesh,UTTA_D5,2008,Kharif,Maize,458.2,1481.3,960.9,3.233
+Uttar Pradesh,UTTA_D5,2008,Kharif,Soyabean,1803.8,2585.2,960.9,1.433
+Uttar Pradesh,UTTA_D5,2008,Rabi,Wheat,1009.3,3354.3,960.9,3.323
+Uttar Pradesh,UTTA_D5,2009,Kharif,Arhar/Tur,1699.8,1668.7,973.4,0.982
+Uttar Pradesh,UTTA_D5,2009,Kharif,Cotton(Lint),523.9,192.6,973.4,0.368
+Uttar Pradesh,UTTA_D5,2009,Rabi,Groundnut,302.6,508.9,973.4,1.682
+Uttar Pradesh,UTTA_D5,2009,Kharif,Maize,1200.4,2483.4,973.4,2.069
+Uttar Pradesh,UTTA_D5,2009,Autumn,Rice,1094.8,3572.2,973.4,3.263
+Uttar Pradesh,UTTA_D5,2010,Kharif,Cotton(Lint),838.8,501.5,718.4,0.598
+Uttar Pradesh,UTTA_D5,2010,Whole Year,Sugarcane,1289.1,72662.4,718.4,56.367
+Uttar Pradesh,UTTA_D5,2011,Kharif,Arhar/Tur,898.5,602.3,920.2,0.67
+Uttar Pradesh,UTTA_D5,2011,Kharif,Jowar,801.5,1132.5,920.2,1.413
+Uttar Pradesh,UTTA_D5,2011,Rabi,Wheat,1551.1,3233.7,920.2,2.085
+Uttar Pradesh,UTTA_D5,2012,Kharif,Cotton(Lint),426.2,216,754.2,0.507
+Uttar Pradesh,UTTA_D5,2012,Rabi,Maize,338.7,518,754.2,1.529
+Uttar Pradesh,UTTA_D5,2012,Rabi,Wheat,445.5,1127.3,754.2,2.53
+Uttar Pradesh,UTTA_D5,2013,Kharif,Cotton(Lint),962.3,315,876,0.327
+Uttar Pradesh,UTTA_D5,2013,Rabi,Jowar,436.2,403.7,876,0.925
+Uttar Pradesh,UTTA_D5,2013,Rabi,Maize,177.9,368.8,876,2.073
+Uttar Pradesh,UTTA_D5,2013,Whole Year,Sugarcane,848.3,67203.9,876,79.222
+Uttar Pradesh,UTTA_D5,2013,Rabi,Wheat,1123.8,2361.6,876,2.101
+Uttar Pradesh,UTTA_D5,2014,Kharif,Cotton(Lint),796.7,412.9,887.4,0.518
+Uttar Pradesh,UTTA_D5,2014,Kharif,Groundnut,720.4,1296.1,887.4,1.799
+Uttar Pradesh,UTTA_D5,2014,Rabi,Maize,1717.3,3270.5,887.4,1.904
+Uttar Pradesh,UTTA_D5,2014,Autumn,Rice,154.4,302.3,887.4,1.958
+Uttar Pradesh,UTTA_D5,2014,Rabi,Wheat,825.8,2432.9,887.4,2.946
+Uttar Pradesh,UTTA_D5,2015,Kharif,Arhar/Tur,435,299.1,874.8,0.688
+Uttar Pradesh,UTTA_D5,2015,Kharif,Cotton(Lint),374,244.2,874.8,0.653
+Uttar Pradesh,UTTA_D5,2015,Rabi,Maize,1621.1,4549,874.8,2.806
+Uttar Pradesh,UTTA_D5,2015,Autumn,Rice,853.3,2012.3,874.8,2.358
+Uttar Pradesh,UTTA_D5,2015,Whole Year,Sugarcane,396.6,32469.5,874.8,81.87
+West Bengal,WEST_D1,2005,Kharif,Arhar/Tur,355.9,237,1608.2,0.666
+West Bengal,WEST_D1,2005,Kharif,Jowar,499.8,468.5,1608.2,0.937
+West Bengal,WEST_D1,2005,Rabi,Wheat,1609.2,5168.4,1608.2,3.212
+West Bengal,WEST_D1,2006,Kharif,Arhar/Tur,846.8,930.3,1491.9,1.099
+West Bengal,WEST_D1,2006,Kharif,Cotton(Lint),2254.2,957.7,1491.9,0.425
+West Bengal,WEST_D1,2006,Kharif,Soyabean,179,245.2,1491.9,1.37
+West Bengal,WEST_D1,2006,Whole Year,Sugarcane,140.9,10665.8,1491.9,75.698
+West Bengal,WEST_D1,2007,Kharif,Arhar/Tur,105.8,118.9,1314.5,1.124
+West Bengal,WEST_D1,2007,Kharif,Bajra,631,957.6,1314.5,1.518
+West Bengal,WEST_D1,2007,Rabi,Jowar,933.2,775,1314.5,0.83
+West Bengal,WEST_D1,2007,Whole Year,Sugarcane,1002.5,62617.6,1314.5,62.461
+West Bengal,WEST_D1,2008,Kharif,Arhar/Tur,174.4,216.9,1685.5,1.244
+West Bengal,WEST_D1,2008,Kharif,Cotton(Lint),797.8,555.2,1685.5,0.696
+West Bengal,WEST_D1,2008,Rabi,Groundnut,731.8,1251.6,1685.5,1.71
+West Bengal,WEST_D1,2008,Kharif,Maize,926.9,2422.9,1685.5,2.614
+West Bengal,WEST_D1,2008,Rabi,Wheat,439.4,1463.7,1685.5,3.331
+West Bengal,WEST_D1,2009,Kharif,Groundnut,593.5,702.5,1285.5,1.184
+West Bengal,WEST_D1,2009,Rabi,Maize,475.6,705.9,1285.5,1.484
+West Bengal,WEST_D1,2009,Kharif,Rice,536,1833.8,1285.5,3.421
+West Bengal,WEST_D1,2009,Kharif,Soyabean,580.1,690.3,1285.5,1.19
+West Bengal,WEST_D1,2010,Kharif,Arhar/Tur,712.9,547.7,1278.8,0.768
+West Bengal,WEST_D1,2010,Kharif,Groundnut,671.3,991.2,1278.8,1.477
+West Bengal,WEST_D1,2010,Rabi,Jowar,678.7,509.7,1278.8,0.751
+West Bengal,WEST_D1,2010,Kharif,Soyabean,923.4,854.1,1278.8,0.925
+West Bengal,WEST_D1,2010,Rabi,Wheat,789.9,2539.6,1278.8,3.215
+West Bengal,WEST_D1,2011,Kharif,Cotton(Lint),769,387.3,1797.7,0.504
+West Bengal,WEST_D1,2011,Rabi,Maize,683.1,1228.8,1797.7,1.799
+West Bengal,WEST_D1,2011,Kharif,Soyabean,1168.2,1183,1797.7,1.013
+West Bengal,WEST_D1,2012,Kharif,Arhar/Tur,212.5,172.4,1581.2,0.811
+West Bengal,WEST_D1,2012,Kharif,Groundnut,1203.2,1787.9,1581.2,1.486
+West Bengal,WEST_D1,2012,Kharif,Soyabean,1079.8,995.5,1581.2,0.922
+West Bengal,WEST_D1,2013,Kharif,Arhar/Tur,664.9,594.6,1523.2,0.894
+West Bengal,WEST_D1,2013,Rabi,Jowar,1526.3,1522,1523.2,0.997
+West Bengal,WEST_D1,2013,Kharif,Soyabean,1667.5,2561,1523.2,1.536
+West Bengal,WEST_D1,2013,Rabi,Wheat,291.8,680.2,1523.2,2.331
+West Bengal,WEST_D1,2014,Kharif,Arhar/Tur,55.4,55.9,1510.3,1.009
+West Bengal,WEST_D1,2014,Kharif,Cotton(Lint),1062.5,545.7,1510.3,0.514
+West Bengal,WEST_D1,2014,Kharif,Maize,211.5,534.6,1510.3,2.528
+West Bengal,WEST_D1,2015,Kharif,Bajra,817.6,898.4,1583.5,1.099
+West Bengal,WEST_D1,2015,Kharif,Cotton(Lint),1090.8,583.2,1583.5,0.535
+West Bengal,WEST_D1,2015,Whole Year,Sugarcane,660.7,39175.5,1583.5,59.294
+West Bengal,WEST_D1,2015,Rabi,Wheat,272.6,640.9,1583.5,2.351
+West Bengal,WEST_D2,2005,Kharif,Arhar/Tur,368.3,398.8,1608.2,1.083
+West Bengal,WEST_D2,2005,Kharif,Jowar,1278.8,1525.1,1608.2,1.193
+West Bengal,WEST_D2,2005,Rabi,Maize,924.2,2558,1608.2,2.768
+West Bengal,WEST_D2,2005,Rabi,Wheat,1423.2,3267.9,1608.2,2.296
+West Bengal,WEST_D2,2006,Kharif,Arhar/Tur,804.7,1006.6,1491.9,1.251
+West Bengal,WEST_D2,2006,Kharif,Cotton(Lint),121.8,45.9,1491.9,0.377
+West Bengal,WEST_D2,2006,Rabi,Jowar,1445.6,2119,1491.9,1.466
+West Bengal,WEST_D2,2006,Kharif,Rice,1970.2,5590.6,1491.9,2.838
+West Bengal,WEST_D2,2007,Kharif,Arhar/Tur,553.8,574,1314.5,1.036
+West Bengal,WEST_D2,2007,Kharif,Bajra,621.9,781.5,1314.5,1.257
+West Bengal,WEST_D2,2007,Kharif,Cotton(Lint),1566,806.6,1314.5,0.515
+West Bengal,WEST_D2,2007,Kharif,Jowar,662.5,559.6,1314.5,0.845
+West Bengal,WEST_D2,2008,Kharif,Bajra,578.7,767.7,1685.5,1.327
+West Bengal,WEST_D2,2008,Kharif,Cotton(Lint),1424.2,723.5,1685.5,0.508
+West Bengal,WEST_D2,2008,Kharif,Groundnut,1172.5,1433.9,1685.5,1.223
+West Bengal,WEST_D2,2008,Kharif,Maize,438.4,1090.5,1685.5,2.487
+West Bengal,WEST_D2,2008,Whole Year,Sugarcane,279,20033.7,1685.5,71.805
+West Bengal,WEST_D2,2009,Kharif,Bajra,660.6,573.2,1285.5,0.868
+West Bengal,WEST_D2,2009,Rabi,Maize,50,126,1285.5,2.52
+West Bengal,WEST_D2,2009,Autumn,Rice,469.4,1354.4,1285.5,2.885
+West Bengal,WEST_D2,2009,Whole Year,Sugarcane,790.5,59566.5,1285.5,75.353
+West Bengal,WEST_D2,2010,Kharif,Bajra,394.4,409.8,1278.8,1.039
+West Bengal,WEST_D2,2010,Kharif,Cotton(Lint),942,619.2,1278.8,0.657
+West Bengal,WEST_D2,2010,Kharif,Rice,1565,3499.9,1278.8,2.236
+West Bengal,WEST_D2,2010,Kharif,Soyabean,624.6,725.7,1278.8,1.162
+West Bengal,WEST_D2,2010,Rabi,Wheat,1246.3,3593.6,1278.8,2.883
+West Bengal,WEST_D2,2011,Kharif,Bajra,811.6,1386,1797.7,1.708
+West Bengal,WEST_D2,2011,Kharif,Soyabean,1211,1473.3,1797.7,1.217
+West Bengal,WEST_D2,2011,Rabi,Wheat,808.5,1791.9,1797.7,2.216
+West Bengal,WEST_D2,2012,Kharif,Bajra,644.9,825.6,1581.2,1.28
+West Bengal,WEST_D2,2012,Rabi,Jowar,2995.6,3210.9,1581.2,1.072
+West Bengal,WEST_D2,2012,Rabi,Maize,354.3,557.7,1581.2,1.574
+West Bengal,WEST_D2,2012,Kharif,Rice,322.3,1116.7,1581.2,3.465
+West Bengal,WEST_D2,2012,Rabi,Wheat,855.6,2584,1581.2,3.02
+West Bengal,WEST_D2,2013,Kharif,Arhar/Tur,566,737.2,1523.2,1.302
+West Bengal,WEST_D2,2013,Kharif,Cotton(Lint),1196.9,526.4,1523.2,0.44
+West Bengal,WEST_D2,2013,Rabi,Jowar,296.1,335.2,1523.2,1.132
+West Bengal,WEST_D2,2013,Kharif,Rice,148.3,419.5,1523.2,2.829
+West Bengal,WEST_D2,2013,Kharif,Soyabean,631.3,630.8,1523.2,0.999
+West Bengal,WEST_D2,2014,Kharif,Bajra,593.5,739.2,1510.3,1.245
+West Bengal,WEST_D2,2014,Kharif,Cotton(Lint),304.2,125.2,1510.3,0.412
+West Bengal,WEST_D2,2014,Rabi,Jowar,802.7,1091.5,1510.3,1.36
+West Bengal,WEST_D2,2014,Rabi,Maize,490,1486.9,1510.3,3.034
+West Bengal,WEST_D2,2014,Kharif,Soyabean,1273.5,1070,1510.3,0.84
+West Bengal,WEST_D2,2015,Kharif,Groundnut,464.1,484.2,1583.5,1.043
+West Bengal,WEST_D2,2015,Kharif,Soyabean,894.9,1209.6,1583.5,1.352
+West Bengal,WEST_D2,2015,Whole Year,Sugarcane,533.5,36789.9,1583.5,68.96
+West Bengal,WEST_D3,2005,Kharif,Cotton(Lint),803.2,271.2,1608.2,0.338
+West Bengal,WEST_D3,2005,Kharif,Groundnut,243.7,296,1608.2,1.215
+West Bengal,WEST_D3,2005,Kharif,Maize,1184.7,2564.1,1608.2,2.164
+West Bengal,WEST_D3,2005,Autumn,Rice,591.8,1829.4,1608.2,3.091
+West Bengal,WEST_D3,2005,Kharif,Soyabean,559.3,752,1608.2,1.345
+West Bengal,WEST_D3,2006,Kharif,Cotton(Lint),577.8,212,1491.9,0.367
+West Bengal,WEST_D3,2006,Rabi,Groundnut,771,1319,1491.9,1.711
+West Bengal,WEST_D3,2006,Kharif,Jowar,737.7,673.2,1491.9,0.913
+West Bengal,WEST_D3,2006,Rabi,Maize,665.2,1723.1,1491.9,2.59
+West Bengal,WEST_D3,2007,Kharif,Arhar/Tur,1403.1,1727.2,1314.5,1.231
+West Bengal,WEST_D3,2007,Rabi,Groundnut,1840.1,1794.3,1314.5,0.975
+West Bengal,WEST_D3,2007,Kharif,Jowar,435.6,469.1,1314.5,1.077
+West Bengal,WEST_D3,2007,Whole Year,Sugarcane,1235.7,69023,1314.5,55.857
+West Bengal,WEST_D3,2007,Rabi,Wheat,860.1,2929.6,1314.5,3.406
+West Bengal,WEST_D3,2008,Whole Year,Sugarcane,1017.5,69886.9,1685.5,68.685
+West Bengal,WEST_D3,2008,Rabi,Wheat,1382.1,3289.1,1685.5,2.38
+West Bengal,WEST_D3,2009,Kharif,Bajra,322.4,418.4,1285.5,1.298
+West Bengal,WEST_D3,2009,Rabi,Groundnut,443.7,755.8,1285.5,1.703
+West Bengal,WEST_D3,2009,Rabi,Jowar,1025.5,1196.8,1285.5,1.167
+West Bengal,WEST_D3,2009,Kharif,Soyabean,721.1,623.8,1285.5,0.865
+West Bengal,WEST_D3,2009,Whole Year,Sugarcane,389.2,22369,1285.5,57.474
+West Bengal,WEST_D3,2010,Kharif,Maize,655.3,1241.9,1278.8,1.895
+West Bengal,WEST_D3,2010,Kharif,Soyabean,1026.6,1286.5,1278.8,1.253
+West Bengal,WEST_D3,2010,Rabi,Wheat,84.6,162.7,1278.8,1.923
+West Bengal,WEST_D3,2011,Kharif,Bajra,1107.1,1574.6,1797.7,1.422
+West Bengal,WEST_D3,2011,Kharif,Cotton(Lint),605.5,369.1,1797.7,0.61
+West Bengal,WEST_D3,2011,Rabi,Maize,703.1,1951.1,1797.7,2.775
+West Bengal,WEST_D3,2011,Rabi,Wheat,331.4,1180.4,1797.7,3.562
+West Bengal,WEST_D3,2012,Kharif,Bajra,660.3,896.1,1581.2,1.357
+West Bengal,WEST_D3,2012,Kharif,Maize,782.4,2454,1581.2,3.137
+West Bengal,WEST_D3,2012,Kharif,Soyabean,1187.6,1273.7,1581.2,1.072
+West Bengal,WEST_D3,2012,Whole Year,Sugarcane,707.9,42751.7,1581.2,60.392
+West Bengal,WEST_D3,2013,Kharif,Bajra,378.6,640.9,1523.2,1.693
+West Bengal,WEST_D3,2013,Kharif,Soyabean,790.5,677.1,1523.2,0.857
+West Bengal,WEST_D3,2014,Kharif,Arhar/Tur,825.1,800,1510.3,0.97
+West Bengal,WEST_D3,2014,Kharif,Cotton(Lint),1492.4,848.7,1510.3,0.569
+West Bengal,WEST_D3,2014,Kharif,Groundnut,587.7,842.6,1510.3,1.434
+West Bengal,WEST_D3,2015,Kharif,Bajra,1445.9,2266.7,1583.5,1.568
+West Bengal,WEST_D3,2015,Kharif,Groundnut,377.3,470.8,1583.5,1.248
+West Bengal,WEST_D3,2015,Rabi,Jowar,567.4,699.4,1583.5,1.233
+West Bengal,WEST_D3,2015,Rabi,Maize,693.2,1925.5,1583.5,2.778
+West Bengal,WEST_D4,2005,Kharif,Cotton(Lint),930,491.8,1608.2,0.529
+West Bengal,WEST_D4,2005,Kharif,Maize,357,584.6,1608.2,1.638
+West Bengal,WEST_D4,2005,Kharif,Soyabean,295,369.5,1608.2,1.253
+West Bengal,WEST_D4,2006,Kharif,Groundnut,486.3,842.6,1491.9,1.733
+West Bengal,WEST_D4,2006,Rabi,Jowar,387.1,423,1491.9,1.093
+West Bengal,WEST_D4,2006,Whole Year,Sugarcane,1505.5,113739.4,1491.9,75.549
+West Bengal,WEST_D4,2006,Rabi,Wheat,513,1431.5,1491.9,2.79
+West Bengal,WEST_D4,2007,Kharif,Cotton(Lint),420.4,161,1314.5,0.383
+West Bengal,WEST_D4,2007,Rabi,Jowar,1091.2,985.8,1314.5,0.903
+West Bengal,WEST_D4,2007,Whole Year,Sugarcane,457.6,28115.6,1314.5,61.441
+West Bengal,WEST_D4,2008,Kharif,Bajra,612.1,1033.8,1685.5,1.689
+West Bengal,WEST_D4,2008,Kharif,Rice,2109.1,6504.2,1685.5,3.084
+West Bengal,WEST_D4,2008,Kharif,Soyabean,585,689.4,1685.5,1.178
+West Bengal,WEST_D4,2008,Rabi,Wheat,655.7,1641.4,1685.5,2.503
+West Bengal,WEST_D4,2009,Rabi,Jowar,2880,1950.9,1285.5,0.677
+West Bengal,WEST_D4,2009,Rabi,Maize,1355.2,2459.9,1285.5,1.815
+West Bengal,WEST_D4,2009,Rabi,Wheat,291.3,1056.9,1285.5,3.628
+West Bengal,WEST_D4,2010,Kharif,Bajra,1609.4,2610.7,1278.8,1.622
+West Bengal,WEST_D4,2010,Rabi,Groundnut,173.6,250.7,1278.8,1.444
+West Bengal,WEST_D4,2010,Kharif,Rice,362.8,633.2,1278.8,1.745
+West Bengal,WEST_D4,2010,Rabi,Wheat,50,144.7,1278.8,2.894
+West Bengal,WEST_D4,2011,Kharif,Cotton(Lint),2575.2,1203.5,1797.7,0.467
+West Bengal,WEST_D4,2011,Kharif,Jowar,1229.2,2036.1,1797.7,1.656
+West Bengal,WEST_D4,2011,Rabi,Wheat,1078.5,3063.3,1797.7,2.84
+West Bengal,WEST_D4,2012,Kharif,Arhar/Tur,530.6,392.2,1581.2,0.739
+West Bengal,WEST_D4,2012,Kharif,Bajra,939.3,996.5,1581.2,1.061
+West Bengal,WEST_D4,2012,Rabi,Jowar,362.1,430.3,1581.2,1.188
+West Bengal,WEST_D4,2012,Rabi,Maize,744.4,1426.5,1581.2,1.916
+West Bengal,WEST_D4,2013,Kharif,Bajra,158,138.7,1523.2,0.878
+West Bengal,WEST_D4,2013,Kharif,Groundnut,1264.5,2269.2,1523.2,1.795
+West Bengal,WEST_D4,2013,Kharif,Soyabean,296.2,353.5,1523.2,1.193
+West Bengal,WEST_D4,2013,Rabi,Wheat,796.1,1883.4,1523.2,2.366
+West Bengal,WEST_D4,2014,Kharif,Bajra,797.5,759.3,1510.3,0.952
+West Bengal,WEST_D4,2014,Kharif,Maize,1046.8,2174.6,1510.3,2.077
+West Bengal,WEST_D4,2014,Rabi,Wheat,1460.6,3240.4,1510.3,2.219
+West Bengal,WEST_D4,2015,Kharif,Arhar/Tur,1719.2,1177.8,1583.5,0.685
+West Bengal,WEST_D4,2015,Rabi,Groundnut,1508.4,2505.2,1583.5,1.661
+West Bengal,WEST_D4,2015,Kharif,Rice,1916.5,5222.5,1583.5,2.725
+West Bengal,WEST_D4,2015,Whole Year,Sugarcane,116,6893.6,1583.5,59.428
+West Bengal,WEST_D5,2005,Kharif,Arhar/Tur,339.8,420.2,1608.2,1.237
+West Bengal,WEST_D5,2005,Kharif,Bajra,2113.3,2793.4,1608.2,1.322
+West Bengal,WEST_D5,2005,Kharif,Soyabean,740.5,1038.5,1608.2,1.402
+West Bengal,WEST_D5,2006,Kharif,Arhar/Tur,347.2,404.1,1491.9,1.164
+West Bengal,WEST_D5,2006,Kharif,Bajra,1681.8,2693.5,1491.9,1.602
+West Bengal,WEST_D5,2006,Kharif,Maize,863.3,1373.5,1491.9,1.591
+West Bengal,WEST_D5,2006,Kharif,Rice,676.4,2139.6,1491.9,3.163
+West Bengal,WEST_D5,2007,Kharif,Groundnut,828.4,964.9,1314.5,1.165
+West Bengal,WEST_D5,2007,Kharif,Jowar,787.3,704.4,1314.5,0.895
+West Bengal,WEST_D5,2007,Whole Year,Sugarcane,711,48729.6,1314.5,68.537
+West Bengal,WEST_D5,2008,Kharif,Cotton(Lint),1464.5,887.1,1685.5,0.606
+West Bengal,WEST_D5,2008,Rabi,Maize,815.6,1934,1685.5,2.371
+West Bengal,WEST_D5,2008,Kharif,Soyabean,1579.5,2490.1,1685.5,1.577
+West Bengal,WEST_D5,2008,Whole Year,Sugarcane,265.3,21989.8,1685.5,82.887
+West Bengal,WEST_D5,2009,Kharif,Arhar/Tur,624.7,574.2,1285.5,0.919
+West Bengal,WEST_D5,2009,Kharif,Bajra,403.9,553.5,1285.5,1.37
+West Bengal,WEST_D5,2009,Kharif,Soyabean,413.4,396.2,1285.5,0.958
+West Bengal,WEST_D5,2009,Whole Year,Sugarcane,500.8,39017.8,1285.5,77.911
+West Bengal,WEST_D5,2010,Kharif,Arhar/Tur,1417.9,1222,1278.8,0.862
+West Bengal,WEST_D5,2010,Kharif,Bajra,1039.5,1348.3,1278.8,1.297
+West Bengal,WEST_D5,2010,Rabi,Groundnut,2220.9,3914.8,1278.8,1.763
+West Bengal,WEST_D5,2011,Kharif,Bajra,188.3,327.9,1797.7,1.741
+West Bengal,WEST_D5,2011,Kharif,Jowar,765.8,1027.1,1797.7,1.341
+West Bengal,WEST_D5,2011,Autumn,Rice,1536.5,4498.6,1797.7,2.928
+West Bengal,WEST_D5,2011,Kharif,Soyabean,210.7,220.8,1797.7,1.048
+West Bengal,WEST_D5,2011,Whole Year,Sugarcane,283.6,18699.1,1797.7,65.935
+West Bengal,WEST_D5,2012,Kharif,Bajra,562.4,501.6,1581.2,0.892
+West Bengal,WEST_D5,2012,Kharif,Cotton(Lint),2121.7,844.6,1581.2,0.398
+West Bengal,WEST_D5,2012,Rabi,Jowar,1007.7,1226,1581.2,1.217
+West Bengal,WEST_D5,2012,Rabi,Wheat,183.7,378.7,1581.2,2.062
+West Bengal,WEST_D5,2013,Kharif,Arhar/Tur,1109.7,932.7,1523.2,0.84
+West Bengal,WEST_D5,2013,Kharif,Cotton(Lint),793.4,284.9,1523.2,0.359
+West Bengal,WEST_D5,2013,Autumn,Rice,1062,2467.9,1523.2,2.324
+West Bengal,WEST_D5,2013,Rabi,Wheat,540.7,2042.4,1523.2,3.777
+West Bengal,WEST_D5,2014,Kharif,Jowar,822.5,1299.8,1510.3,1.58
+West Bengal,WEST_D5,2014,Kharif,Rice,1168.4,3630.3,1510.3,3.107
+West Bengal,WEST_D5,2015,Kharif,Cotton(Lint),642,428.5,1583.5,0.667
+West Bengal,WEST_D5,2015,Rabi,Maize,192.9,533.4,1583.5,2.765
+West Bengal,WEST_D5,2015,Rabi,Wheat,748.1,2664.1,1583.5,3.561

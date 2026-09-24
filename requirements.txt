@@ -1,0 +1,35 @@
+﻿# ============================================================
+# requirements.txt
+# AI & Data Analytics for Agribusiness
+# Samarth Purekar — IBM Project
+# ============================================================
+
+# Web application backend (serves dashboard + API endpoints)
+flask>=3.0.0
+
+# Core data manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Jupyter Notebook runtime
+notebook>=7.0.0
+ipykernel>=6.0.0
+
+# ============================================================
+# Installation:
+#   pip install -r requirements.txt
+#
+# Python version: >= 3.9
+#
+# To run the dashboard:
+#   cd agri_app
+#   python app.py
+#   # then open http://127.0.0.1:5000/
+# ============================================================
